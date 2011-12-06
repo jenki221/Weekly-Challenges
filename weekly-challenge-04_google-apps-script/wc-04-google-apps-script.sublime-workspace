@@ -1,0 +1,328 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "minimal-versioned.js",
+			"settings":
+			{
+				"buffer_size": 6681,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "minimal.js",
+			"settings":
+			{
+				"buffer_size": 3761,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 200,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/fritz/Library/Application Support/Sublime Text 2/Packages/Default/Global.sublime-settings",
+		"/Users/fritz/Library/Application Support/Sublime Text 2/Packages/User/XML.sublime-settings",
+		"/Users/fritz/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/Users/fritz/Library/Application Support/Sublime Text 2/Packages/Default/Base File.sublime-settings",
+		"/Users/fritz/Desktop/Castagnaccio - Tuscan Chestnut Flour Cake.ysr",
+		"/Users/fritz/Desktop/untitled.html",
+		"/Users/fritz/Library/Application Support/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/Users/fritz/Pictures/Photo Booth/Photo on 2011-11-28 at 22.27.jpg",
+		"/Users/fritz/bin/__init__.py",
+		"/Users/fritz/work/pumato/pumato13/vendor/couchapp/evently/account/doLogout.js",
+		"/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/subprocess.py",
+		"/Users/fritz/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/fritz/bin/webkit2png",
+		"/Users/fritz/bin/webkit2batch",
+		"/Users/fritz/Desktop/fritz-logs.txt",
+		"/Users/fritz/bin/webkit2loop.py",
+		"/Users/fritz/work/pumato/pumato13/evently/main-body/main_body_dl/.tmp_mustache.html.77188~",
+		"/Users/fritz/work/pumato/pumato13/README.md",
+		"/Users/fritz/work/weekly-challenges/weekly-challenge-02_jsonToGoogleTasks/scenario-06/class.jsonToGoogleTasksManager.php",
+		"/Users/fritz/work/weekly-challenges/weekly-challenge-02_jsonToGoogleTasks/_lib/google-api-php-client/src/io/apiREST.php",
+		"/Users/fritz/Desktop/My Notes.enex",
+		"/Users/fritz/work/one_offs/Modernizr/test/index.html",
+		"/Users/fritz/work/one_offs/Modernizr/test/js/lib/github.js",
+		"/Users/fritz/work/one_offs/Modernizr/test/js/dumpdata.js"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "minimal-versioned.js",
+					"settings":
+					{
+						"buffer_size": 6681,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "minimal.js",
+					"settings":
+					{
+						"buffer_size": 3761,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "README.md",
+					"settings":
+					{
+						"buffer_size": 200,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								200,
+								200
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/fritz/Library/Application Support/Sublime Text 2/Packages/User/#h3list.sublime-snippet"
+			],
+			[
+				"w",
+				"/Users/fritz/Desktop/week"
+			],
+			[
+				"mi",
+				"/Users/fritz/work/weekly-challenges/weekly-challenge-04_google-apps-script/minimal-versioned.js"
+			],
+			[
+				"wee",
+				"/Users/fritz/Desktop/week"
+			],
+			[
+				"loo",
+				"/Users/fritz/bin/webkit2loop"
+			],
+			[
+				"l",
+				"/Users/fritz/bin/webkit2loop"
+			],
+			[
+				"un",
+				"untitled"
+			],
+			[
+				"u",
+				"untitled"
+			],
+			[
+				"lo",
+				"/Users/fritz/bin/webkit2loop"
+			],
+			[
+				"loop",
+				"/Users/fritz/bin/webkit2loop"
+			],
+			[
+				"2loo",
+				"/Users/fritz/bin/webkit2loop"
+			],
+			[
+				"unt",
+				"untitled"
+			],
+			[
+				"we",
+				"/Users/fritz/bin/webkit2loop"
+			],
+			[
+				"dumd",
+				"js/dumpdata.js"
+			],
+			[
+				"gi",
+				"js/lib/github.js"
+			],
+			[
+				"git",
+				"js/lib/github.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 392.0,
+	"status_bar_visible": true
+}

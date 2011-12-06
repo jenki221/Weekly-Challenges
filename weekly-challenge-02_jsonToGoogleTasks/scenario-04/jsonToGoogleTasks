@@ -1,0 +1,19 @@
+#!/usr/bin/php
+<?php
+defined('STDIN') or define('STDIN', fopen('php://stdin', 'r'));
+defined('STDOUT') or define('STDOUT', fopen('php://stdout', 'w'));
+require_once "class.jsonToGoogleTasksManager.php";
+
+$json2TaskMgr = new jsonToGoogleTasksManager();
+print_r( $json2TaskMgr->loadArrayOfMockTaskData() );
+print_r( $json2TaskMgr->loadArrayOfMockJSONData() );
+
+$json2TaskMgr->authorize();
+$json2TaskMgr->loadOldTasklists();
+foreach( $json2TaskMgr->tasks as $taskRow ){
+    $tasklist = $taskRow["key"];
+    $json2TaskMgr->makeEmptyTaskListIfNeeded( $tasklist );
+    $json2TaskMgr->addTaskToList( $tasklist, $taskRow["value"] );
+}
+exit(0);
+?>

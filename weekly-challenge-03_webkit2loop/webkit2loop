@@ -1,0 +1,91 @@
+#!/usr/bin/env python
+import subprocess
+import argparse
+import sys, os
+
+"""calls the webkit2png
+    stack is an array of arrays, each array contains the options for a call to webkit2png"""
+def webkit2png( stack=None ):
+    if stack is None:
+        print "No stack passed to webkit2pnt"
+        sys.exit(1)
+    for i in range( 0, len(stack)):
+        substack = stack[i][:]
+        substack.insert( 0, "-F" )
+        substack.insert( 0, "webkit2png" )
+        subprocess.call( substack )
+
+def main():
+    sharedStack = [] #shared options among all cllas (if more than one)
+    singleStack = [] #current command
+    cmdStack = []    #cllection of all commands
+    parser = argparse.ArgumentParser(description="Wrapper around webkit2png. Allows it to be called in a loop")
+    parser.add_argument( "url", 
+                    action="store",
+                    help="the url of the site to take screenshots of")
+    parser.add_argument( "-i", "--interval", type=float,
+                    action="store",
+                    help="interval between regular screenshots")
+    parser.add_argument( "-s", "--start",
+                    action="store",
+                    help="initial offest before starting to take regular screenshots")
+    parser.add_argument( "-n", "--iterations",
+                    action="store",
+                    help="number of regular screenshots (max 100, default 3)")
+    parser.add_argument( "-W", "--width",
+                    action="store",
+                    help="initial (and minimum) width of browser (default: 800)")
+    parser.add_argument( "-H", "--height",
+                    action="store",
+                    help="initial (and minimum) height of browser (default: 600)")
+    parser.add_argument( "-z", "--zoom",
+                    action="store",
+                    help="full page zoom of browser (default: 1.0)")
+    parser.add_argument( "-o", "--filename",
+                    action="store",
+                    help="save images as NAME-full.png,NAME-thumb.png etc")
+    parser.add_argument( "-D", "--dir",
+                    action="store",
+                    help="save images as NAME-full.png,NAME-thumb.png etc")
+    args = parser.parse_args()
+
+    """collects the shared options to be passed on to webkit2png - as they are or with some collection"""
+    for a in [ "width", "height", "zoom", "dir"]:
+        if args.__dict__[a]:
+            sharedStack.append( "--" + a )
+            sharedStack.append( args.__dict__[a] )
+    #subprocess.call doesn't like arguments starting with ~, so make sure there aren't any here
+    if args.dir:
+        sharedStack.append( "--dir" )
+        sharedStack.append( os.path.expanduser( args.dir ) )
+
+    if args.interval:
+        s = float( args.start ) if args.start else 0
+        d = args.interval
+        n = args.iterations if args.iterations else 3
+        n = n if n <= 100 else 100
+        for i in range( 0, n ):
+            singleStack = sharedStack[:]
+            singleStack.append( "--delay" )
+            singleStack.append( str(s) )
+            singleStack.append( "--filename" )
+            if args.filename:
+                singleStack.append( '%(stem)s-%(number)03d' % { "stem" : args.filename, "number" : i } )
+            else:
+                singleStack.append( '%(number)03d' % { "number" : i } )
+            singleStack.append( args.url )
+            cmdStack.append( singleStack )
+            s = s + d
+    else:
+        singleStack = sharedStack[:]
+        #special case - filename needs to change for multiple images
+        if args.filename:
+            sharedStack.append( "--filename" )
+            sharedStack.append( args.filename )
+        singleStack.append( args.url )
+        cmdStack.append( singleStack )
+
+    webkit2png( cmdStack )
+
+if __name__ == "__main__":
+    main()  
