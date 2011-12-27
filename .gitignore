@@ -1,0 +1,12 @@
+# OS generated files #
+######################
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+
+_*
+weekly-challenge-02_jsonToGoogleTasks/_lib/*
+!weekly-challenge-02_jsonToGoogleTasks/_lib/Readme.md
+weekly-challenge-02_jsonToGoogleTasks/scenario-06/
+weekly-challenge-02_jsonToGoogleTasks/**/config.properties C-d
