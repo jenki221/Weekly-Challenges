@@ -96,6 +96,7 @@
 
   <target name="createWordpressConfig">
     <fail unless="local.wwwroot"/>
+    <delete file="${local.wwwroot}/blog/wp-config.php" />
     <replace 
       file = "${local.wwwroot}/blog/wp-config.php"
       propertyFile = "local.properties">
@@ -109,6 +110,7 @@
         token = "@dbpwd@" 
         property = "local.dbrunpwd"/>
     </replace>
+    <delete file="${local.wwwroot}/work/wp-config.php" />
     <replace 
       file = "${local.wwwroot}/work/wp-config.php"
       propertyFile = "local.properties">
