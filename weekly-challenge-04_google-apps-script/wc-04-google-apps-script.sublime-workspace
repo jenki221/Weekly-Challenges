@@ -7,39 +7,19 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "minimal-versioned.js",
-			"settings":
-			{
-				"buffer_size": 6681,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "minimal.js",
-			"settings":
-			{
-				"buffer_size": 3761,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "README.md",
-			"settings":
-			{
-				"buffer_size": 200,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 0.0,
+		"height": 392.0,
 		"selected_items":
 		[
+			[
+				"",
+				"Snippet: #h3list"
+			]
 		],
-		"width": 0.0
+		"width": 467.0
 	},
 	"console":
 	{
@@ -56,6 +36,10 @@
 	},
 	"file_history":
 	[
+		"/Users/fritz/work/weekly-challenges/weekly-challenge-04_google-apps-script/wc-04-google-apps-script.sublime-project",
+		"/Users/fritz/work/weekly-challenges/weekly-challenge-04_google-apps-script/minimal.js",
+		"/Users/fritz/work/weekly-challenges/weekly-challenge-04_google-apps-script/README.md",
+		"/Users/fritz/work/weekly-challenges/weekly-challenge-04_google-apps-script/minimal-versioned.js",
 		"/Users/fritz/Library/Application Support/Sublime Text 2/Packages/Default/Global.sublime-settings",
 		"/Users/fritz/Library/Application Support/Sublime Text 2/Packages/User/XML.sublime-settings",
 		"/Users/fritz/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
@@ -98,6 +82,44 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"shell",
+			"<li>\\n",
+			">>",
+			"Bitmaps",
+			"<dd>",
+			"<dt>",
+			"dt>",
+			">",
+			"<",
+			"findme",
+			"{}",
+			"net.",
+			"com.",
+			"meny",
+			"\\t",
+			"h2>",
+			"\\t",
+			"Popen",
+			"distrac",
+			"line",
+			"webkit2",
+			"python",
+			"\\n+",
+			"\\n\\n",
+			"\\n\\s+",
+			"*",
+			"\\n   \\* 2011/[0-9][0-9]/[0-9][0-9]",
+			"\\n   * 2011/11/13 ",
+			"\n\n   * 2011/11/13 ",
+			"\\ndo noweditdonedeletenext",
+			"\\rdo noweditdonedeletenext",
+			"GENERAL ADMIN / WEEKLY GTD / HOME / [a-z0-9]{32}",
+			"\ndo noweditdonedeletenext",
+			"<dt>",
+			"</dt>",
+			"</dd>",
+			"<dd>",
+			"jquery.when"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -105,6 +127,27 @@
 		"regex": true,
 		"replace_history":
 		[
+			"</li>\\n",
+			">",
+			"Images",
+			"<dd style=\"clear:both; width:auto; margin-bottom: 1em;\">",
+			"<dt style=\"width:auto;\">",
+			"li>",
+			"&gt;",
+			"&lt;",
+			"menu",
+			"    ",
+			"h3>",
+			"    ",
+			"Python",
+			"\\n",
+			" \\n",
+			" ",
+			"",
+			"<dt><code>",
+			"</code></dt>",
+			"</code></dd>",
+			"<dd><code>"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -115,91 +158,8 @@
 	"groups":
 	[
 		{
-			"selected": 2,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "minimal-versioned.js",
-					"settings":
-					{
-						"buffer_size": 6681,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "minimal.js",
-					"settings":
-					{
-						"buffer_size": 3761,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "README.md",
-					"settings":
-					{
-						"buffer_size": 200,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								200,
-								200
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
