@@ -1,0 +1,128 @@
+<project name="MY_PROJ" default="copySource" basedir=".">
+    <description>Build jobs for MY_PROJ local</description>
+  
+  <property name="common.src" value="src"/>
+  <property name="common.pthDB" value="resources/db" />
+  <property name="common.dbAll" value="MY_PROJ-all" />
+  <property name="common.dbUsers" value="users" />
+
+  <!-- note that this is passed as a file parameter to the jenkins job 
+    there is a local.properties.sample under svn as guideline
+  -->
+  <property file="local.properties"/>
+
+  <target
+    name = "fromScratch"
+    description = "creates a new instance from scratch"
+    depends = "copySource, createWordpressConfig, restoreDBAll"
+    >
+  </target>
+
+  <target
+    name = "copySource"
+    description = "copies the checked out source " >
+    <fail unless="local.wwwroot"/>
+    <mkdir dir = "${local.wwwroot}" />
+    <copy todir = "${local.wwwroot}">
+      <fileset dir = "${common.src}">
+        <exclude name = "**/.*"/>
+      </fileset>
+    </copy>
+  </target>
+
+  <target name="restoreDBAll" description="unpacks sql dump and restores it to db">
+    <fail unless="local.pthMySQL"/>
+    <!-- this is a big file -->
+    <gunzip
+      src = "${common.pthDB}/${common.dbAll}.sql.gz"
+      dest = "${common.pthDB}/${common.dbAll}.sql" />
+    <!-- paths were tokenize - inject local ones -->
+    <replace 
+      file = "${common.pthDB}/${common.dbAll}.sql"
+      propertyFile = "local.properties">
+      <replacefilter 
+        token = "@blogDomain@" 
+        property = "local.blogDomain"/>
+      <replacefilter 
+        token = "@homeDomain@" 
+        property = "local.homeDomain"/>
+      <replacefilter 
+        token = "@workDomain@" 
+        property = "local.workDomain"/>
+      <replacefilter 
+        token = "@wwwroot@" 
+        property = "local.wwwroot"/>
+    </replace>
+    <echo message="replaced @blogDomain@ with ${local.blogDomain}" />
+    <echo message="replaced @workDomain@ with ${local.workDomain}" />
+    <echo message="replaced @homeDomain@ with ${local.homeDomain}" />
+    <!-- create tables -->
+    <exec executable="${local.pthMySQL}mysql" input="${common.pthDB}/${common.dbAll}.sql"> 
+        <arg value="--user=${local.dbuser}" />  
+        <arg value="--password=${local.dbpwd}" />  
+        <arg value="--max_allowed_packet=100M" />  
+    </exec>
+    <!-- inject local passwords -->
+    <replace 
+      file = "${common.pthDB}/${common.dbUsers}.sql"
+      propertyFile = "local.properties">
+      <replacefilter 
+        token = "@dbname1@" 
+        property = "local.dbname1"/>
+      <replacefilter 
+        token = "@dbname2@" 
+        property = "local.dbname2"/>
+      <replacefilter 
+        token = "@dbrunuser@" 
+        property = "local.dbrunuser"/>
+      <replacefilter 
+        token = "@dbrunpwd@" 
+        property = "local.dbrunpwd"/>
+    </replace>
+    <!-- create users -->
+    <exec executable="${local.pthMySQL}mysql" input="${common.pthDB}/${common.dbUsers}.sql"> 
+        <arg value="--user=${local.dbuser}" />  
+        <arg value="--password=${local.dbpwd}" />  
+    </exec>
+    <!-- delete file="${common.pthDB}/${common.dbUsers}.sql" / -->
+  </target>
+
+  <target name="checkApacheIsUp" description="check URL is serving pages">
+    <waitfor maxwait="20" maxwaitunit="second" checkevery="500" timeoutproperty="failed">
+      <http url="${local.urlHome}" />
+   </waitfor>
+   <fail if="${failed}" message="${local.urlHome} is not up" />
+  </target>
+
+  <target name="createWordpressConfig">
+    <fail unless="local.wwwroot"/>
+    <delete file="${local.wwwroot}/blog/wp-config.php" />
+    <replace 
+      file = "${local.wwwroot}/blog/wp-config.php"
+      propertyFile = "local.properties">
+      <replacefilter 
+        token = "@dbname@" 
+        property = "local.dbname2"/>
+      <replacefilter 
+        token = "@dbuser@" 
+        property = "local.dbrunuser"/>
+      <replacefilter 
+        token = "@dbpwd@" 
+        property = "local.dbrunpwd"/>
+    </replace>
+    <delete file="${local.wwwroot}/work/wp-config.php" />
+    <replace 
+      file = "${local.wwwroot}/work/wp-config.php"
+      propertyFile = "local.properties">
+      <replacefilter 
+        token = "@dbname@" 
+        property = "local.dbname1"/>
+      <replacefilter 
+        token = "@dbuser@" 
+        property = "local.dbrunuser"/>
+      <replacefilter 
+        token = "@dbpwd@" 
+        property = "local.dbrunpwd"/>
+    </replace>
+  </target>
+</project>
