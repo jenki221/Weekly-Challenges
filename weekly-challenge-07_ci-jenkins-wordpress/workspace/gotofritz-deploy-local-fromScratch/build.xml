@@ -91,12 +91,15 @@
     <waitfor maxwait="20" maxwaitunit="second" checkevery="500" timeoutproperty="failed">
       <http url="${local.urlHome}" />
    </waitfor>
-   <fail if="${failed}" message="${local.urlHome} is not up" />
+ <fail if="${failed}" message="${local.urlHome} is not up" />
   </target>
 
   <target name="createWordpressConfig">
     <fail unless="local.wwwroot"/>
-    <delete file="${local.wwwroot}/blog/wp-config.php" />
+    <copy
+      force="yes"
+      file="${common.src}/blog/wp-config.php"
+      tofile="${local.wwwroot}/blog/wp-config.php" />
     <replace 
       file = "${local.wwwroot}/blog/wp-config.php"
       propertyFile = "local.properties">
@@ -110,7 +113,10 @@
         token = "@dbpwd@" 
         property = "local.dbrunpwd"/>
     </replace>
-    <delete file="${local.wwwroot}/work/wp-config.php" />
+    <copy
+      force="yes"
+      file="${common.src}/work/wp-config.php"
+      tofile="${local.wwwroot}/work/wp-config.php" />
     <replace 
       file = "${local.wwwroot}/work/wp-config.php"
       propertyFile = "local.properties">
