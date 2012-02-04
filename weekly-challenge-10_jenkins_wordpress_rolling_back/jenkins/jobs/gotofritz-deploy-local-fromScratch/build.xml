@@ -1,0 +1,196 @@
+<project name="gotofritz" default="copySource" basedir=".">
+    <description>gotofritz-deploy-local-fromScratch</description>
+  
+  <property name="common.src" value="src"/>
+  <property name="common.pthDB" value="resources/db" />
+  <property name="common.dbAll" value="gotofritz-all" />
+  <property name="common.dbUsers" value="users" />
+  <property environment="env"/>
+
+  <!-- note that this is passed as a file parameter to the jenkins job 
+    there is a resources/ant/local.properties.sample under svn as guideline
+  -->
+  <property file="resources/ant/local.properties"/>
+
+  <target
+    name = "fromScratch"
+    description = "creates a new instance from scratch"
+    depends = "init, copySource, createWordpressConfig, restoreDBAll, restoreDBUsers, linkToBuild, echoBuildNumber"
+    >
+  </target>
+
+  <target
+    name = "echoBuildNumber" >
+    <echo
+      message = "${env.BUILD_NUMBER}"
+      file = "${local.wwwroot}/builds/${env.BUILD_NUMBER}/buildnumber" />
+    <echo
+      message = "${env.BUILD_NUMBER}${line.separator}"
+      file = "${local.wwwroot}/buildlist"
+      append = "true" />
+  </target>
+
+  <target
+    name = "linkToBuild"
+    description = "links the Apache webroot to the current build" >
+    <symlink
+        link = "${local.wwwroot}/symlink"
+         action = "delete"/>
+    <symlink
+        link = "${local.wwwroot}/symlink"
+        resource = "${local.wwwroot}/builds/${env.BUILD_NUMBER}"/>
+  </target>
+
+  <target
+    name = "copySource"
+    description = "copies the checked out source " >
+    <echo message="udeploying to: ${local.wwwroot}/builds/${env.BUILD_NUMBER}" />
+    <mkdir dir = "${local.wwwroot}/builds/${env.BUILD_NUMBER}" />
+    <copy todir = "${local.wwwroot}/builds/${env.BUILD_NUMBER}">
+      <fileset dir = "${common.src}">
+        <exclude name = "**/.svn*"/>
+        <exclude name = "**/.svn/*"/>
+      </fileset>
+    </copy>
+    <touch file="${local.wwwroot}/buildlist"/>
+    <symlink
+      link = "${local.wwwroot}/builds/${env.BUILD_NUMBER}/buildlist"
+      resource = "${local.wwwroot}/buildlist"
+      />
+  </target>
+
+  <target name="restoreDBAll" description="unpacks sql dump and restores it to db">
+    <fail unless="local.pthMySQL"/>
+    <echo message="using dB dump: ${common.pthDB}/${common.dbAll}.sql" />
+    <delete file="${common.pthDB}/${common.dbAll}.sql" />
+    <!-- this is a big file -->
+    <gunzip
+      src = "${common.pthDB}/${common.dbAll}.sql.gz"
+      dest = "${common.pthDB}/${common.dbAll}.sql" />
+    <!-- paths were tokenize - inject local ones -->
+    <replace 
+      file = "${common.pthDB}/${common.dbAll}.sql"
+      propertyFile = "resources/ant/local.properties">
+      <replacefilter 
+        token = "@build_number@" 
+        value = "${env.BUILD_NUMBER}"/>
+      <replacefilter 
+        token = "@dbname1@" 
+        property = "local.dbname1"/>
+      <replacefilter 
+        token = "@dbname2@" 
+        property = "local.dbname2"/>
+      <replacefilter 
+        token = "@blogDomain@" 
+        property = "local.blogDomain"/>
+      <replacefilter 
+        token = "@homeDomain@" 
+        property = "local.homeDomain"/>
+      <replacefilter 
+        token = "@workDomain@" 
+        property = "local.workDomain"/>
+      <replacefilter 
+        token = "@wwwroot@" 
+        property = "local.wwwroot"/>
+    </replace>
+    <!-- create tables -->
+    <exec executable="${local.pthMySQL}mysql" input="${common.pthDB}/${common.dbAll}.sql"> 
+        <arg value="--user=${local.dbuser}" />  
+        <arg value="--password=${local.dbpwd}" />  
+        <arg value="--max_allowed_packet=100M" />  
+    </exec>
+  </target>
+
+  <target name="restoreDBUsers" description="unpacks sql dump and restores it to db">
+    <!-- inject local passwords -->
+    <copy
+      force = "yes"
+      file = "${common.pthDB}/${common.dbUsers}.sql"
+      tofile = "${common.pthDB}/${common.dbUsers}-temp.sql"/>
+    <replace 
+      file = "${common.pthDB}/${common.dbUsers}-temp.sql"
+      propertyFile = "resources/ant/local.properties">
+      <replacefilter 
+        token = "@build_number@" 
+        value = "${env.BUILD_NUMBER}"/>
+      <replacefilter 
+        token = "@dbname1@" 
+        property = "local.dbname1"/>
+      <replacefilter 
+        token = "@dbname2@" 
+        property = "local.dbname2"/>
+      <replacefilter 
+        token = "@dbrunuser@" 
+        property = "local.dbrunuser"/>
+      <replacefilter 
+        token = "@dbrunpwd@" 
+        property = "local.dbrunpwd"/>
+    </replace>
+    <!-- create users -->
+    <exec executable="${local.pthMySQL}mysql" input="${common.pthDB}/${common.dbUsers}-temp.sql" logError="true"> 
+        <arg value="--user=${local.dbuser}" />  
+        <arg value="--password=${local.dbpwd}" />  
+    </exec>
+    <delete file="${common.pthDB}/${common.dbUsers}-temp.sql" />
+    <!-- <move 
+      file = "${common.pthDB}/${common.dbUsers}-temp.sql"
+      tofile = "${common.pthDB}/${common.dbUsers}-debug.sql"/> -->
+  </target>
+
+  <target name="checkApacheIsUp" description="check URL is serving pages">
+    <waitfor maxwait="20" maxwaitunit="second" checkevery="500" timeoutproperty="failed">
+      <http url="${local.urlHome}" />
+   </waitfor>
+   <fail if="${failed}" message="${local.urlHome} is not up" />
+  </target>
+
+  <target name="createWordpressConfig">
+    <fail unless="local.wwwroot"/>
+    <copy
+      force="yes"
+      file="${common.src}/blog/wp-config.php"
+      tofile="${local.wwwroot}/builds/${env.BUILD_NUMBER}/blog/wp-config.php" />
+    <replace 
+      file = "${local.wwwroot}/builds/${env.BUILD_NUMBER}/blog/wp-config.php"
+      propertyFile = "resources/ant/local.properties">
+      <replacefilter 
+        token = "@build_number@" 
+        value = "${env.BUILD_NUMBER}"/>
+      <replacefilter 
+        token = "@dbname@" 
+        property = "local.dbname2"/>
+      <replacefilter 
+        token = "@dbuser@" 
+        property = "local.dbrunuser"/>
+      <replacefilter 
+        token = "@dbpwd@" 
+        property = "local.dbrunpwd"/>
+    </replace>
+    <copy
+      force="yes"
+      file="${common.src}/work/wp-config.php"
+      tofile="${local.wwwroot}/builds/${env.BUILD_NUMBER}/work/wp-config.php" />
+    <replace 
+      file = "${local.wwwroot}/builds/${env.BUILD_NUMBER}/work/wp-config.php"
+      propertyFile = "resources/ant/local.properties">
+      <replacefilter 
+        token = "@build_number@" 
+        value = "${env.BUILD_NUMBER}"/>
+      <replacefilter 
+        token = "@dbname@" 
+        property = "local.dbname1"/>
+      <replacefilter 
+        token = "@dbuser@" 
+        property = "local.dbrunuser"/>
+      <replacefilter 
+        token = "@dbpwd@" 
+        property = "local.dbrunpwd"/>
+    </replace>
+  </target>
+
+  <target
+    name = "init" >
+    <echo
+      message="${env.BUILD_NUMBER}" />
+  </target>
+</project>

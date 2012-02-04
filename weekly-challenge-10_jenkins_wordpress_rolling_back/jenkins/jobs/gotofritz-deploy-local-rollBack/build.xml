@@ -1,0 +1,60 @@
+<project name="gotofritz" default="copySource" basedir=".">
+    <description>gotofritz-deploy-local-rollBack</description>
+  
+  <property name="common.src" value="src"/>
+  <property name="common.pthDB" value="resources/db" />
+  <property name="common.dbAll" value="gotofritz-all" />
+  <property name="common.dbUsers" value="users" />
+  <property environment="env"/>
+
+  <!-- note that this is passed as a file parameter to the jenkins job 
+    there is a resources/ant/local.properties.sample under svn as guideline
+  -->
+  <property file="local.properties"/>
+
+  <target
+    name = "rollBack"
+    description = "Rolls back to an old version"
+    depends = "init, linkToOldBuild"
+    >
+  </target>
+
+  <target
+    name = "init" >
+    <echo message="Build number: ${env.ROLLBACK_VERSION}" />
+  </target>
+
+  <target
+    name = "linkToOldBuild"
+    description = "links the Apache webroot to an older build" >
+    <fail unless="local.wwwroot"/>
+    <exec executable="sed"
+      outputproperty="sed.output"
+      inputstring="${env.ROLLBACK_VERSION}">
+      <arg value="-e"/>
+      <arg value="s|^.*/\([0-9][0-9]*\)/$|\1|"/>
+    </exec>
+    <echo message="ROLLBACK_VERSION extracted: ${sed.output}" />
+      <symlink
+        link = "${local.wwwroot}/symlink"
+         action = "delete"/>
+      <symlink
+        link = "${local.wwwroot}/symlink"
+        resource = "${local.wwwroot}/builds/${sed.output}"/>
+      <echo
+        message="${sed.output}"
+        file="${local.wwwroot}/symlink/buildnumber" />
+      <echo
+        message="${sed.output}${line.separator}"
+        file = "${local.wwwroot}/buildlist"
+        append = "true" />
+    </target>
+
+  <target name="checkApacheIsUp" description="check URL is serving pages">
+    <waitfor maxwait="20" maxwaitunit="second" checkevery="500" timeoutproperty="failed">
+      <http url="${local.urlHome}" />
+   </waitfor>
+   <fail if="${failed}" message="${local.urlHome} is not up" />
+  </target>
+
+</project>
