@@ -1,0 +1,41 @@
+<project name="MY_PROJ" default="copySource" basedir=".">
+    <description>MY_PROJ-local-admin-cleanup</description>
+  
+  <property environment="env"/>
+
+  <!-- note that this is passed as a file parameter to the jenkins job 
+    there is a resources/ant/local.properties.sample under svn as guideline
+  -->
+  <property file="local.properties"/>
+
+  <target
+    name = "cleanup"
+    description = "calls a python script to clean up folders and databases"
+    depends = "init, _cleanup"
+    >
+  </target>
+
+  <target
+    name = "init" >
+    <echo message="Cleaning up" />
+  </target>
+
+  <target
+    name = "_cleanup"
+    description = "" >
+    <exec executable="./clean-old-builds.py" failonerror="true">
+      <arg value="${local.wwwroot}/buildlist" />
+      <arg value="-r" />
+      <arg value="${local.wwwroot}/builds" />
+      <arg value="-b" />
+      <arg value="${env.BUILDS_TO_KEEP}" />
+      <arg value="-d" />
+      <arg value="${local.dbname1}" />
+      <arg value="${local.dbname2}" />
+      <arg value="-u" />
+      <arg value="${local.dbuser}" />
+      <arg value="-p" />
+      <arg value="${local.dbpwd}" />
+    </exec>
+  </target>
+</project>
