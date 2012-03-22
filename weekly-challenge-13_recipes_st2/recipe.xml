@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="recipe.xsl"?>
+
+<recipe lang="en-uk">
+    <title><![CDATA[$name]]></title>
+    <description><![CDATA[$description]]></description>
+    <source><![CDATA[$source]]></source>
+    <img></img>
+    <cuisine>
+        <!-- CUISINE -->
+        <style><$1/style>
+        <region>$2</region>
+        <approach>$3</approach>
+    </cuisine>
+    <tags>
+        <!-- TAG -->
+        <tag>$4</tag>
+    </tags>
+    <directions>
+        <!-- STEPS -->
+        <step><![CDATA[$5]]></step>
+        <step><![CDATA[$6]]></step>
+        <step><![CDATA[$7]]></step>
+        <step><![CDATA[$8]]></step>
+        <step><![CDATA[$9]]></step>
+        <step><![CDATA[$10]]></step>
+        <step><![CDATA[$11]]></step>
+        <step><![CDATA[$12]]></step>
+        <step><![CDATA[$13]]></step>
+    </directions>
+    <ingredients>
+        <serves>$serves</serves>
+        <!-- INGREDIENT -->
+        <group>
+            <name></name>
+            ing
+        </group>
+    </ingredients>
+</recipe>

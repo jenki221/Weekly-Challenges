@@ -1,0 +1,13 @@
+<template>
+  <file>/PATH/TO/recipe.xml</file>
+  <filename>$name.xml</filename>
+  <path>/PATH/TO/recipes</path>
+  <arguments>
+    <name>Name:</name>
+    <description>Description:</description>
+    <source>Source</source>
+    <serves>Serves:</serves>
+  </arguments>
+</template>
+
+

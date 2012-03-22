@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+<ingredient>
+    <quantity>$1</quantity>
+    <measurement>$2</measurement>
+    <name>$3</name>
+    <preparation>$4</preparation>
+</ingredient>
+
+]]></content>
+    <tabTrigger>ing</tabTrigger>
+</snippet>
