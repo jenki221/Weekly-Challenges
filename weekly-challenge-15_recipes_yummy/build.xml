@@ -1,0 +1,38 @@
+<project name="WeeklyChallenge15" default="extractFromYS" basedir=".">
+    <description>Gotofritz Weekly Challenge 15</description>
+    
+  <property environment="env"/>
+  <property file="common.properties"/>
+  <property file="local.properties"/>
+
+  <target
+    name = "extractFromYS"
+    description = "Extracts recipes from Yummy Soup"
+    depends = "increaseBuildNumber"
+    >
+    <exec
+      executable = "php">
+      <arg value="-f=recipes/recipes.php" />
+    </exec>
+    <xslt
+      in    = "PTH/TO/239_YummySoup_recipes_preprocessed.xml"
+      out   = "PTH/TO/output.xml"
+      style = "PTH/TO/recipes.xsl"
+      force = "yes">
+      <outputproperty name="method" value="xml"/>
+      <outputproperty name="standalone" value="yes"/>
+      <outputproperty name="encoding" value="utf-8"/>
+      <outputproperty name="indent" value="yes"/>
+    </xslt>
+  </target>
+
+  <target
+    name = "increaseBuildNumber" >
+    <propertyfile
+      file    = "buildnumber.txt"
+      comment = "Version number">
+      <entry  key="build" type="int" default="0" operation="+"/>
+    </propertyfile>
+  </target>
+
+</project>
