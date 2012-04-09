@@ -1,0 +1,169 @@
+<project name="WeeklyChallenge16" default="all" basedir=".">
+    <description>Gotofritz Weekly Challenge 16</description>
+    
+  <property environment="env"/>
+  <property file="local.properties"/>
+  <property file="common.properties"/>
+
+  <!-- ================================== ALL =================================== -->
+  <target
+    name = "all"
+    description = "Copies all assets"
+    depends = "clean, jsdoc, lint, increaseBuildNumber, img, sprocketize, sass, mustache">
+  </target>
+
+  <!-- ================================== INSTALL =================================== -->
+  <target
+    name = "install"
+    description = "Copies all assets"
+    depends = "clean, increaseBuildNumber, img, sprocketize, sass, mustache">
+  </target>
+
+  <!-- ================================== INIT =================================== -->
+  <target name = "init" >
+    <echo message="---" file="dashes.txt"/>
+  </target>
+
+  <!-- ================================== CLEAN =================================== -->
+  <target name = "clean">
+    <delete dir="${common.temp}/" /> 
+    <delete dir="${common.wwwroot}/*" /> 
+  </target>
+
+  <!-- ================================== DIST =================================== -->
+  <target name = "dist">
+  </target>
+
+  <!-- ================================== DISTCLEAN =================================== -->
+  <target name = "distclean">
+  </target>
+
+  <!-- ================================== JSDOC =================================== -->
+  <target name = "jsdoc">
+    <exec
+        executable  ="java"
+        failonerror ="false">
+            <arg value="-jar" />
+            <arg value="${local.jsdocdir}/jsrun.jar" />
+            <arg value="${local.jsdocdir}/app/run.js" />
+            <arg value="-t=${local.jsdocdir}/templates/jsdoc" />
+            <arg value="-r" />
+            <arg value="-d=${common.jsdoc}" />
+            <arg value="${common.js}/modules" />
+    </exec>
+  </target>
+
+  <!-- ================================== LINT =================================== -->
+   <taskdef
+       name      ="jslint"
+       classname ="com.googlecode.jslint4java.ant.JSLintTask"
+       classpath ="${local.jslint}" />
+       
+    <target name = "lint">
+      <jslint options="white">
+        <formatter type="plain" />
+        <fileset
+          dir      ="${common.js}"
+          includes ="**/*.js"
+          excludes ="**/_*" />
+      </jslint>
+    </target>
+
+  <!-- ================================== HINT =================================== -->
+   <taskdef
+       name      ="jshint"
+       classname ="com.philmander.ant.JsHintAntTask"
+       classpath ="${local.jshint}" />
+       
+    <target name = "hint">
+      <jshint
+        dir     ="${common.js}"
+        options ="white=true">
+        <include name="**/*.js"/>
+        <exclude name="**/_*"/>
+      </jshint>
+    </target>
+  
+  
+  <!-- ================================== MUSTACHE =================================== -->
+  <target
+    name = "mustache">
+    <copy todir="${common.temp}">
+      <fileset dir="${common.src}">
+        <include name="**/*.json" />
+      </fileset>
+      <filterchain>
+        <concatfilter prepend="dashes.txt" append="dashes.txt"/>
+      </filterchain>
+    </copy>
+    <touch mkdirs="true">
+      <fileset dir="${common.temp}"/>
+      <mapper type="glob" from="*.json" to="${common.wwwroot}/*.html" />
+    </touch>
+    <apply
+        executable="mustache"
+        parallel="false"
+        failonerror="true"
+        verbose="true"
+        logError="true">
+          <srcfile/>
+          <arg value="${common.src}/index.mustache"/>
+          <fileset dir="${common.temp}" includes="**/*.json"/>
+          <redirector>
+              <outputmapper id="out" type="glob" from="*.json" to="${common.wwwroot}/*.html"/>
+          </redirector>
+    </apply>
+    <delete dir="${common.temp}/" /> 
+  </target>
+  
+  <!-- ================================== IMG =================================== -->
+  <target
+    name = "img">
+    <copy
+      todir = "${common.wwwroot}">
+      <fileset
+          dir = "${common.src}">
+          <include name="**/img/*" />
+      </fileset>
+    </copy>
+  </target>
+    
+  <!-- ================================== SPROCKETS =================================== -->
+  <target
+    name = "sprocketize">
+    <exec
+        executable="sprocketize"
+        output="main.js"
+        failonerror="true"
+        logError="true">
+            <arg value="-a" />
+            <arg value="${common.src}/${common.js}" />
+            <arg value="${common.wwwroot}/${common.js}" />
+            <arg value="main.js" />
+    </exec>
+  </target>
+  
+  <!-- ================================== SASS =================================== -->
+  <target
+    name = "sass">
+    <exec
+        executable="sass"
+        failonerror="true"
+        logError="true">
+            <arg value="${common.src}/${common.css}/main.scss" />
+            <arg value="${common.wwwroot}/${common.css}/main.css" />
+    </exec>
+  </target>
+
+  <!-- ================================== INCREASE BUILD NUMBER =================================== -->
+  <target
+    name = "increaseBuildNumber" >
+    <propertyfile
+      file    = "buildnumber.txt"
+      comment = "Version number">
+      <entry  key="build" type="int" default="0" operation="+"/>
+    </propertyfile>
+    <property file="buildnumber.txt"/>
+  </target>
+
+</project>
