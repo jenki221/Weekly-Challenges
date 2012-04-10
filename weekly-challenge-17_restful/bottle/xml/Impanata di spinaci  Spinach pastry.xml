@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="_assets/recipe.xsl"?>
+
+<recipe lang="en-uk">   <title><![CDATA[Impanata di spinaci  Spinach pastry]]></title>
+   <description><![CDATA[]]></description>
+   <source><![CDATA[]]></source>
+   <cuisine>
+      <style></style>
+      <region></region>
+      <approach></approach>
+   </cuisine>
+   <tags>
+      <tag></tag>
+   </tags>
+   <directions>
+      <step><![CDATA[dissolve in 320 ml water, warm, 5m]]></step>
+      <step><![CDATA[add flour bit by bit and knead, 10m]]></step>
+      <step><![CDATA[rest in greased bowl, covered in kitchen towel until doubled in size, 2h]]></step>
+      <step><![CDATA[sauté in 2 tbs oil, olive on hot until just golden, 1m]]></step>
+      <step><![CDATA[sauté until just wilted, 3m]]></step>
+      <step><![CDATA[Drain, squeeze well keeping the water, and chop corasely]]></step>
+      <step><![CDATA[(if using) soak in spinach water, 10m]]></step>
+      <step><![CDATA[drain and add to chopped spinach]]></step>
+      <step><![CDATA[add chili powder if using]]></step>
+      <step><![CDATA[add olives, mozzarella if using]]></step>
+      <step><![CDATA[If using sausage, sauté in 2 tbs oil, olive on med, 4m]]></step>
+      <step><![CDATA[add until until seared, 2]]></step>
+      <step><![CDATA[Mix all the fillings together in a bowl]]></step>
+      <step><![CDATA[Roll out dough as thin as possible, smear oil over it, lay the stuffing over it. Start rolling, smearing more oil between layers of dough]]></step>
+      <step><![CDATA[Bake until ready on 190°, 35m]]></step>
+   </directions>
+   <ingredients>
+      <serves></serves>
+      <group>
+         <ingredient>
+            <quantity>3</quantity>
+            <measurement>tsp</measurement>
+            <name>fresh yeast</name>
+            <preparation>or dry</preparation>
+         </ingredient>
+         <ingredient>
+            <quantity>480</quantity>
+            <measurement>g</measurement>
+            <name>flour</name>
+            <preparation></preparation>
+         </ingredient>
+         <ingredient>
+            <quantity>3</quantity>
+            <measurement>cloves</measurement>
+            <name>garlic</name>
+            <preparation>chopped fine</preparation>
+         </ingredient>
+         <ingredient>
+            <quantity>1</quantity>
+            <measurement>kg</measurement>
+            <name>spinach</name>
+            <preparation>washed and rubbed with a little salt</preparation>
+         </ingredient>
+         <ingredient>
+            <quantity>6</quantity>
+            <measurement>tbsp</measurement>
+            <name>raisins</name>
+            <preparation>optional</preparation>
+         </ingredient>
+         <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name>chili powder</name>
+            <preparation>optional</preparation>
+         </ingredient>
+         <ingredient>
+            <quantity>24</quantity>
+            <measurement></measurement>
+            <name>black olives</name>
+            <preparation>pitted</preparation>
+         </ingredient>
+         <ingredient>
+            <quantity>1</quantity>
+            <measurement></measurement>
+            <name>mozzarella</name>
+            <preparation>(optional) cubed</preparation>
+         </ingredient>
+         <ingredient>
+            <quantity>1</quantity>
+            <measurement></measurement>
+            <name>onion</name>
+            <preparation>(optional) sliced</preparation>
+         </ingredient>
+         <ingredient>
+            <quantity>500</quantity>
+            <measurement>g</measurement>
+            <name>sausage</name>
+            <preparation>(optional) broken with a fork</preparation>
+         </ingredient>
+      </group>
+   </ingredients>
+</recipe>

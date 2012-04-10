@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Fusilli Minareto]]></title>
+<description/>
+<source/>
+<img></img>
+<cuisine>
+<style>Italian</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Pasta</tag>
+<tag/>
+</tags>
+<directions xmlns:php="http://php.net/xsl">&gt;
+<step><![CDATA[slice the zucchini 3mm thick, then cut in strips lengthways and then across, to get 3mm dice]]></step>
+<step><![CDATA[chop the onions]]></step>
+<step><![CDATA[put salted water to boil ]]></step>
+<step><![CDATA[melt the butter with oil, sautè the onions 5m on mid heat]]></step>
+<step><![CDATA[add the zucchini and sautè ]]></step>
+<step><![CDATA[meanwhile crush the aniseed and mint in pestle]]></step>
+<step><![CDATA[cook the fusilli as per normal]]></step>
+<step><![CDATA[in a food processor blend the black beans and stock. season with salt and pepper]]></step>
+<step><![CDATA[add the mint + aniseed blend (6) to the zucchini (5), stir a bit]]></step>
+<step><![CDATA[add the beans (8) to the zucchini (9)]]></step>
+<step><![CDATA[when the pasta is ready stir into the sauce and serve]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>2</serves>
+        <group>
+          <ingredient>
+            <quantity>230</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[fusilli]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[onions]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement/>
+            <name><![CDATA[zucchini]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>400</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[black beans]]></name>
+            <preparation><![CDATA[cooked]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>120</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[stock]]></name>
+            <preparation><![CDATA[veg]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[star aniseed]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>10</quantity>
+            <measurement/>
+            <name><![CDATA[mint]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

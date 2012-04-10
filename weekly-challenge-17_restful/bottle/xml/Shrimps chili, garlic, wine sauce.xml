@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Shrimps chili, garlic, wine sauce]]></title>
+<description><![CDATA[Jiu Suan La Jiao xiaren]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style>Chinese</style>
+<region>Beijing</region>
+<approach/>
+</cuisine>
+<tags>
+<tag>With rice</tag>
+<tag/>
+</tags>
+<directions xmlns:php="http://php.net/xsl">&gt;
+<step><![CDATA[sprinkle salt on shrimps and stand 10 m (2) make batter by beating eggs well then adding starch (3) dip shrimps in batter and deep fry]]></step>
+<step><![CDATA[
+remove oil, wipe wok, return 1 tbsp of oil in it. very hot (5) stir fry garlic and chili 20s (6) add rice wine, sugar, soy sauce, reduce 40 s (7) add cornstarch mix, 90 s (8) salt to taste and cooked shrimps]]></step>
+<step><![CDATA[
+serve with chili oil and chopped spring onion greens
+]]></step>
+</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>4</serves>
+        <group>
+          <name><![CDATA[Marinade]]></name>
+          <ingredient>
+            <quantity>220</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[shrimp]]></name>
+            <preparation><![CDATA[peeled]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[salt]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Batter]]></name>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[egg whites]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>4</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[cornstarch]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>cups</measurement>
+            <name><![CDATA[oil]]></name>
+            <preparation><![CDATA[frying]]></preparation>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Stir Fry]]></name>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement/>
+            <name><![CDATA[garlic cloves]]></name>
+            <preparation><![CDATA[sliced]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement/>
+            <name><![CDATA[chili]]></name>
+            <preparation><![CDATA[fresh]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>180</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[rice wine]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1.5</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[sugar]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[soy sauce. light]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[cornstarch]]></name>
+            <preparation><![CDATA[dissolved in 125 ml fish stock or chicken stock]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement>to taste</measurement>
+            <name><![CDATA[chili oil]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1.5</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[spring onions]]></name>
+            <preparation><![CDATA[greens]]></preparation>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="_assets/recipe.xsl"?>
+
+<recipe lang="en-uk">   <title><![CDATA[Toasted Pumpkin Seed and Chile Dip]]></title>
+   <description><![CDATA[]]></description>
+   <source><![CDATA[]]></source>
+   <cuisine>
+      <style></style>
+      <region></region>
+      <approach></approach>
+   </cuisine>
+   <tags>
+      <tag></tag>
+   </tags>
+   <directions>
+      <step><![CDATA[dry roast in medium puffed up and golden on 5m]]></step>
+      <step><![CDATA[peel]]></step>
+      <step><![CDATA[puré with in smooth]]></step>
+      <step><![CDATA[remove from stove, discard garlic, chop coarsely and set aside]]></step>
+      <step><![CDATA[sauté in oil, olive medium translucent on 5m]]></step>
+      <step><![CDATA[add on 1m]]></step>
+      <step><![CDATA[add tomato and chilies pureé and simmer in thickened on 6-8m]]></step>
+      <step><![CDATA[season with salt and pepper and let cool]]></step>
+      <step><![CDATA[blend pumpkin seeds in powder]]></step>
+      <step><![CDATA[mix with tomato puré, water if needed and]]></step>
+   </directions>
+   <ingredients>
+      <serves></serves>
+      <group>
+         <ingredient>
+            <quantity>175</quantity>
+            <measurement>g</measurement>
+            <name>pumpkin seeds</name>
+            <preparation></preparation>
+         </ingredient>
+         <ingredient>
+            <quantity>350</quantity>
+            <measurement>g</measurement>
+            <name>tomatoes</name>
+            <preparation></preparation>
+         </ingredient>
+         <ingredient>
+            <quantity>2</quantity>
+            <measurement></measurement>
+            <name>jalapeños chilies</name>
+            <preparation></preparation>
+         </ingredient>
+         <ingredient>
+            <quantity>0.5</quantity>
+            <measurement></measurement>
+            <name>onion</name>
+            <preparation>chopped, finely</preparation>
+         </ingredient>
+         <ingredient>
+            <quantity>3</quantity>
+            <measurement>cloves</measurement>
+            <name>garlic</name>
+            <preparation>chopped, finely</preparation>
+         </ingredient>
+         <ingredient>
+            <quantity>1</quantity>
+            <measurement>handful</measurement>
+            <name>coriander leaves</name>
+            <preparation>chopped, finely</preparation>
+         </ingredient>
+      </group>
+   </ingredients>
+</recipe>

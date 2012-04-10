@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Panelle]]></title>
+<description/>
+<source/>
+<img></img>
+<cuisine>
+<style>Italian</style>
+<region>Sicilian</region>
+<approach/>
+</cuisine>
+<tags>
+<tag>Snack</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">&gt;
+<step><![CDATA[Slowly mix the flour and water, season with salt and pepper and add parsley / fennel seeds if using. Whisk until mixed well]]></step>
+<step><![CDATA[Put on stove on high, bring to boil mixing continuosly, then lower heat and cook 20 mins mixing occasioanlly. It should have the consistency of polenta]]></step>
+<step><![CDATA[Pour in empty plastic bottle with top cut off, and leave in fridge overnight.]]></step>
+<step><![CDATA[Cut in thin slices and deep fry at 180°]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves/>
+        <group>
+          <ingredient>
+            <quantity>600</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[water]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>200</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[flour]]></name>
+            <preparation><![CDATA[chickpea]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>handful</measurement>
+            <name><![CDATA[parsley]]></name>
+            <preparation><![CDATA[chopped (optional)]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[fennel seeds]]></name>
+            <preparation><![CDATA[(optional)]]></preparation>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

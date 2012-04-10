@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Pizzoccheri' Noodles with Cabbage, Potatoes and Fontina]]></title>
+<description><![CDATA[Pizzoccheri are a flat, wide pasta that are traditionally made in the Valtellina region of Northern Italy and in parts of Switzerland. The pasta is made with a mixture of buckwheat flour and white flour and have a lovely nutty flavour.]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style>Italian</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Pasta</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+<step><![CDATA[To make the dough, place the flours and salt in a large mixing bowl and stir until well blended. Make a well in the centre and crack the eggs into the well and add the milk. With a fork, whisk the eggs and milk together in the centre of the flour and then little by little, incorporate the flour into the eggs until eventually you have mixed in all the flour and a soft paste-like dough develops.]]></step>
+<step><![CDATA[Turn the dough out onto a lightly floured worksurface and knead the dough for 8 minutes, adding a sprinkling of flour as necessary while kneading until the dough is smooth. To check if the dough is dry enough - insert your finger into the centre of the dough. It should feel just moist and not at all sticky.]]></step>
+<step><![CDATA[Wrap the dough in cling film and set aside at room temperature to rest for 20 minutes. Roll out the dough onto a table or worksurface into a thin sheet approximately an inch thick and allow it to dry for about 10 minutes. After the dough has been allowed to dry, stretch the dough by pulling it in opposite directions with your hands. You should be able to stretch the dough to an extra 30 percent of its initial size.]]></step>
+<step><![CDATA[Using a sharp knife or a pizza wheel, cut the dough into long strips and lay the pizzocheri on clean, dry tea towels until you are ready to cook them.]]></step>
+<step><![CDATA[Bring a large pot of water to the boil and add the salt and the potatoes. Return the water to the boil and cook the potatoes for 3 minutes and add the cabbage and the noodles. Cook for a further 3 minutes or until the noodles are tender. Drain and set aside.]]></step>
+<step><![CDATA[Warm the butter and olive oil in a wide, saute pan over medium heat. Add the garlic and sage and saute for 30 seconds, then add the drained pasta, cabbage and potatoes and toss gently over the heat.]]></step>
+<step><![CDATA[Add the cheeses and toss over the heat just until the cheese begins to soften. Season the mixture generously with salt and pepper and serve hot.]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>4</serves>
+        <group>
+          <name><![CDATA[Pasta Dough]]></name>
+          <ingredient>
+            <quantity>145</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[flour]]></name>
+            <preparation><![CDATA[buckwheat]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>105</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[flour]]></name>
+            <preparation><![CDATA[plain or 00]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[a pinch of salt]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement/>
+            <name><![CDATA[eggs]]></name>
+            <preparation><![CDATA[large]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[milk]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Sauce Ingredients]]></name>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[salt]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[potatoes]]></name>
+            <preparation><![CDATA[medium]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement/>
+            <name><![CDATA[cabbage]]></name>
+            <preparation><![CDATA[savoy]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>4</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[butter]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>4</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[oil]]></name>
+            <preparation><![CDATA[olive]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>clove</measurement>
+            <name><![CDATA[garlic]]></name>
+            <preparation><![CDATA[minced]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>4</quantity>
+            <measurement>leaves</measurement>
+            <name><![CDATA[sage]]></name>
+            <preparation><![CDATA[shredded]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>175</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[cheese]]></name>
+            <preparation><![CDATA[fontina]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[parmesan cheese]]></name>
+            <preparation><![CDATA[grated]]></preparation>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

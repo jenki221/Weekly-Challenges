@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Khachapuri Georgian Cheese Bread]]></title>
+<description><![CDATA[Khachapuri uses a specific kind of cheese called 'Sulguni' which I've approximated here with a mix of mozzarella, havarti and feta.
+
+]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style>Georgian</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Bread</tag>
+<tag/>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+<step><![CDATA[To make the dough, mix the water and yeast together until dissolved and let stand for 5 minutes.]]></step>
+<step><![CDATA[Place the water and dissolved yeast in a large mixing bowl and add the egg and salt. Gradually mix the flour to and stir until the mixture comes together to a dough. Remove to a work surface and knead for approximately 10 minutes incorporating a little flour as needed until the dough is smooth, elastic and manageable.]]></step>
+<step><![CDATA[Pour a very small amount of oil into a bowl and rub the oil all around with your fingers to coat the bottom and sides. Place the dough into the bowl and turn a few times to coat it lightly with the oil. Cover with a damp tea towel and place in a warm spot to rise for 1-2 hours until doubled in size.]]></step>
+<step><![CDATA[While the dough is rising, prepare the cheese filling by tearing the mozzarella ball into small, thumb-sized pieces. Set aside on a sheet of kitchen roll to drain away some of the water, then mix the three cheeses together and toss well. Keep the mixture in the fridge until ready to use.]]></step>
+<step><![CDATA[Preheat your oven to 250C and place a flat baking sheet or tray in the oven to heat up. Roll the dough out onto a sheet of baking parchment into a flat round of approximately 7 inches in diameter.]]></step>
+<step><![CDATA[Take the cheese mixture in your hand and press it firmly into a round ball approximately the size of a tennis ball. Place the ball in the centre of your dough and gather up the edges of the dough so that they meet in the centre and envelope the ball of cheese inside. Gently press on the gathered flaps of dough to make a seal, then with slightly dampened hands press down on the top of the dough, squashing the cheese and dough into a flat circle approximately 11 inches. Aim to push from the centre outwards to distribute the cheese evenly throughout.]]></step>
+<step><![CDATA[Make a large 'x' slash across the top of the dough to expose the cheese underneath. This will help steam escape and allow your cheese to become lightly caramelised and bubbly as the bread bakes.]]></step>
+<step><![CDATA[Remove the hot baking tray from the oven and slide it under the parchment so that both the bread and parchment are transferred to the tray.]]></step>
+<step><![CDATA[Place the tray in the oven and bake for 10 minutes or until lightly golden. Remove and brush the surface generously with the melted butter. Return to the oven for a further 4-5 minutes until the surface is golden and the dough is firm and cooked through.]]></step>
+<step><![CDATA[Remove and allow to cool slightly, then either cut into wedges or simply tear apart with your hands. (Highly recommended if there are only two of you.)]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves/>
+        <group>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[yeast]]></name>
+            <preparation><![CDATA[fresh]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>125</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[water]]></name>
+            <preparation><![CDATA[warm]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[egg]]></name>
+            <preparation><![CDATA[lightly beaten]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>130</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[flour]]></name>
+            <preparation><![CDATA[plain]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[oil]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[mozzarella cheese]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>75</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[cheese]]></name>
+            <preparation><![CDATA[mild creamy cow's milk cheese like Havarti]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>40</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[cheese]]></name>
+            <preparation><![CDATA[feta]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[a little melted butter for brushing]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

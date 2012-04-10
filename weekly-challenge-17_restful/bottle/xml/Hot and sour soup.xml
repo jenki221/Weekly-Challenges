@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Hot and sour soup]]></title>
+<description><![CDATA[Suan La Tang]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style>Chinese</style>
+<region>Sichuan</region>
+<approach/>
+</cuisine>
+<tags>
+<tag>Soup</tag>
+<tag/>
+</tags>
+<directions xmlns:php="http://php.net/xsl">&gt;
+<step><![CDATA[marinate meat 10 m]]></step>
+<step><![CDATA[cover bean curd in water 10 m]]></step>
+<step><![CDATA[drain mushrooms, keep 250 ml of water, sieved and julienne mushrooms and add to it]]></step>
+<step><![CDATA[add stock, bamboo shots, ginger, marinated meat, dark soy sauce, vinegar, chili oil, salt , pepper]]></step>
+<step><![CDATA[bring to boil and simmer 2 m]]></step>
+<step><![CDATA[stir in cornstartch mixture 2 m]]></step>
+<step><![CDATA[stir in drained bean curd and squid, 1 m]]></step>
+<step><![CDATA[add egg in thin stream, then remove from fire and let stand 20 s, then stir lightly]]></step>
+<step><![CDATA[add garnish and serve]]></step>
+</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>4</serves>
+        <group>
+          <name><![CDATA[For the marinade]]></name>
+          <ingredient>
+            <quantity>125</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[chicken breast]]></name>
+            <preparation><![CDATA[or pork]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[soy sauce]]></name>
+            <preparation><![CDATA[light]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[ginger]]></name>
+            <preparation><![CDATA[peeled]]></preparation>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[For the soup]]></name>
+          <ingredient>
+            <quantity>220</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[tofu]]></name>
+            <preparation><![CDATA[soft]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>5</quantity>
+            <measurement/>
+            <name><![CDATA[dried mushrooms]]></name>
+            <preparation><![CDATA[soaked 25m]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>5</quantity>
+            <measurement>cm</measurement>
+            <name><![CDATA[black fungus]]></name>
+            <preparation><![CDATA[soaked 25m]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>750</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[stock]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>30</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[bamboo shots]]></name>
+            <preparation><![CDATA[julienned thinly]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[ginger]]></name>
+            <preparation><![CDATA[peeled]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[soy sauce]]></name>
+            <preparation><![CDATA[dark]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[rice vinegar]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[chili oil]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[cornstarch]]></name>
+            <preparation><![CDATA[dissolved in 80 ml water]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>60</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[squid]]></name>
+            <preparation><![CDATA[julienned thinly]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[egg]]></name>
+            <preparation><![CDATA[beaten lightly]]></preparation>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Garnish]]></name>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[oil]]></name>
+            <preparation><![CDATA[sesame]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[spring onions]]></name>
+            <preparation><![CDATA[green bits only]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[coriander]]></name>
+            <preparation><![CDATA[chopped]]></preparation>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

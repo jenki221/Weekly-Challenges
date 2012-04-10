@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Frijoles de la olla y Frijoles Refritos]]></title>
+<description><![CDATA[Frijoles de la olla are sinmply cooked beans, and Frijoles Refritos are fried and used as acoompanyment]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style/>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>With tortillas</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+<step><![CDATA[COOKING BEANS (1) sauté onions fro 10 m on medium (2) add beanas and 2L water, epazote (3) bring to boil and boil hard 10m (4) lower heat and simmer until ready (5) add salt, and cook another 15 m]]></step>
+<step><![CDATA[RECOOKING BEANS (5) sauté onion, 10 m (6) saur´garlic, 2 m (7) add 1/4 of the beans, drained, and mash them (8) repeat until the beans are all mashed up (9) add 1 cup of the beans liquid (10) serve with cheese crumbled on top
+]]></step>
+</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves/>
+        <group>
+          <name><![CDATA[Frijoles de la olla]]></name>
+          <ingredient>
+            <quantity>500</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[beans]]></name>
+            <preparation><![CDATA[dry]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[oil]]></name>
+            <preparation><![CDATA[or lard]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[onions]]></name>
+            <preparation><![CDATA[white]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>sprigs</measurement>
+            <name><![CDATA[epazote]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Frijoles Refritos]]></name>
+          <ingredient>
+            <quantity>.</quantity>
+            <measurement>cloves</measurement>
+            <name><![CDATA[garlic]]></name>
+            <preparation><![CDATA[chopped]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[oil]]></name>
+            <preparation><![CDATA[or lard]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[onions]]></name>
+            <preparation><![CDATA[white]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>60</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[cheese]]></name>
+            <preparation><![CDATA[feta]]></preparation>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

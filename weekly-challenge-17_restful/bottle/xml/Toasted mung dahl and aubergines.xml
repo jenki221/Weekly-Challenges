@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Toasted mung dahl and aubergines]]></title>
+<description><![CDATA[Baigan Moong Dal]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style>Indian</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Dal</tag>
+<tag/>
+</tags>
+<directions xmlns:php="http://php.net/xsl">&gt;
+<step><![CDATA[sort the dal but do not wash it. dry roast it until reddish, then wash]]></step>
+<step><![CDATA[add to water and half the ghee, bring to boil, skimming]]></step>
+<step><![CDATA[when you got rid of most of the scum, add ginger and lower heat, cover, let run for 40 m]]></step>
+<step><![CDATA[make a paste and rub it on the aubergines, and set aside, ]]></step>
+<step><![CDATA[melt the ghee, then fry the seeds, chillies,]]></step>
+<step><![CDATA[when ready add the assafoetida and then the aubergines straight after]]></step>
+<step><![CDATA[fry for 7 minutes]]></step>
+<step><![CDATA[add the fried eggplant to the dal, so that by the time they are soft the dal is ready]]></step>
+<step><![CDATA[beat with a whisk, add the serving ingrediens]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>4</serves>
+        <group>
+          <ingredient>
+            <quantity>340</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[dal]]></name>
+            <preparation><![CDATA[moong]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1.5</quantity>
+            <measurement>l</measurement>
+            <name><![CDATA[water]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[ginger]]></name>
+            <preparation><![CDATA[peeled]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>7</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[ghee]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Aubergine paste]]></name>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[cayenne pepper]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[turmeric]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1.5</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[garam masala]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[water]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[salt]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>250</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[aubergine]]></name>
+            <preparation><![CDATA[cubed]]></preparation>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Chaunk]]></name>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[fresh chillies]]></name>
+            <preparation><![CDATA[deseeded]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[cumin seeds]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[assafoetida]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[To serve]]></name>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[ground coriander]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[coriander leaves]]></name>
+            <preparation><![CDATA[chopped finely]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[lemon juice]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

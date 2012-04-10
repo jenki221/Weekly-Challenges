@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Stuffed Dates with Mascarpone, Pistachios and Pomegranate]]></title>
+<description/>
+<source/>
+<img></img>
+<cuisine>
+<style>Iranian</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Desserts</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+<step><![CDATA[Toast the pistachio nuts in a dry frying pan over medium heat until lightly golden and toasted smelling. To cut the pomegranate open, make 5 slashes from top to bottom on each side. Carefully prise open the skin and remove a large handful of the seeds. Pick out any small bits of the pith from the seeds and discard.]]></step>
+<step><![CDATA[With your fingers, tear open each date and remove the pit. Using a teaspoon, stuff each cavity with the mascarpone. Press a few pomegranate seeds and one or two pistachio nuts into the mascarpone. Arrange on a decorative plate and serve.]]></step>
+</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>2 dozen</serves>
+        <group>
+          <ingredient>
+            <quantity>24</quantity>
+            <measurement/>
+            <name><![CDATA[dates]]></name>
+            <preparation><![CDATA[medjool]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement/>
+            <name><![CDATA[pomegranate]]></name>
+            <preparation><![CDATA[kernels]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[pistacchios]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>250</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[mascarpone cheese]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

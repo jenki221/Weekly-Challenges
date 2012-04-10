@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Chickpeas, fennel, and fregola (or quinoa) soup]]></title>
+<description><![CDATA[The original is made with pasta - fregola o ditaloni.]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style>Italian</style>
+<region>Sardinian</region>
+<approach/>
+</cuisine>
+<tags>
+<tag>Soup</tag>
+<tag/>
+</tags>
+<directions xmlns:php="http://php.net/xsl">&gt;
+<step><![CDATA[soak chickpeas in water overnight in the fridge, to prevent fermenting]]></step>
+<step><![CDATA[after soaking, change the chickpeas water, add pinch bicarbonate, and cook for 1h, then drain]]></step>
+<step><![CDATA[peel the tomatoes]]></step>
+<step><![CDATA[chop onion, garlic clove, parsley]]></step>
+<step><![CDATA[sautè gently in oil 1m, covered]]></step>
+<step><![CDATA[dice (1cm) potato and add, 3m]]></step>
+<step><![CDATA[slice fennel thinly and add, 3m]]></step>
+<step><![CDATA[chop the peeled tomatoes]]></step>
+<step><![CDATA[add the tomaotes, stir a bit]]></step>
+<step><![CDATA[add the fregola / quinoa, stir fry to coat with oil]]></step>
+<step><![CDATA[add the chickpeas and water / stock, salt and pepper]]></step>
+<step><![CDATA[cook until pasta / quinoa cooked, 10-15 mins]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>2</serves>
+        <group>
+          <name><![CDATA[Chickpeas]]></name>
+          <ingredient>
+            <quantity>60.0</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[chickpeas]]></name>
+            <preparation><![CDATA[dried]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement>pinch</measurement>
+            <name><![CDATA[bicarbonate]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Saut\U00e8 base]]></name>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[onions]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[garlic]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[parsley]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>200</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[potatoes]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>200</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[fennel]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Step 2]]></name>
+          <ingredient>
+            <quantity>120</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[tomatoes]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>200.0</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[fregola pasta]]></name>
+            <preparation><![CDATA[or orzo]]></preparation>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

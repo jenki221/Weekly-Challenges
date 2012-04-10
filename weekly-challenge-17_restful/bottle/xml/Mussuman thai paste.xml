@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Mussuman thai paste]]></title>
+<description/>
+<source/>
+<img></img>
+<cuisine>
+<style>thai</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Basics</tag>
+<tag/>
+</tags>
+<directions xmlns:php="http://php.net/xsl">&gt;
+<step><![CDATA[dry roast the spices and crush them in mortar]]></step>
+<step><![CDATA[wet roast vegetables in a little water in wok]]></step>
+<step><![CDATA[purèe the roasted veg, add the salt, peanuts, sieved roasted spices]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves/>
+        <group>
+          <ingredient>
+            <quantity>5</quantity>
+            <measurement/>
+            <name><![CDATA[dried chillies]]></name>
+            <preparation><![CDATA[desseeded]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>4</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[shallots]]></name>
+            <preparation><![CDATA[chopped]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>5</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[garlic cloves]]></name>
+            <preparation><![CDATA[chopped]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[galangal]]></name>
+            <preparation><![CDATA[chopped]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[lemongrass]]></name>
+            <preparation><![CDATA[chopped]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[coriander root]]></name>
+            <preparation><![CDATA[scraped]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement>pinch</measurement>
+            <name><![CDATA[salt]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[peanuts]]></name>
+            <preparation><![CDATA[roasted]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[coriander seeds]]></name>
+            <preparation><![CDATA[roasted]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[cumin seeds]]></name>
+            <preparation><![CDATA[roasted]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>5</quantity>
+            <measurement/>
+            <name><![CDATA[cloves]]></name>
+            <preparation><![CDATA[roasted]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement/>
+            <name><![CDATA[nutmeg]]></name>
+            <preparation><![CDATA[roasted]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>sheats</measurement>
+            <name><![CDATA[mace]]></name>
+            <preparation><![CDATA[roasted]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>cm</measurement>
+            <name><![CDATA[cassia bark]]></name>
+            <preparation><![CDATA[roasted]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>4</quantity>
+            <measurement/>
+            <name><![CDATA[cardamom pods]]></name>
+            <preparation><![CDATA[roasted]]></preparation>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

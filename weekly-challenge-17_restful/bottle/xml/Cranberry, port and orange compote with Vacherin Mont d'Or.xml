@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Cranberry, port and orange compote with Vacherin Mont d'Or]]></title>
+<description><![CDATA[Vacherin Mont d'Or is a soft and creamy cheese made with milk from the cows that graze on the summit of Mont d'Or in France. It is then made in Charbonnières in Switzerland, so is in fact a Swiss cheese. The sweet and sour contrast of cranberries works beautifully with this amazing cheese. Perfect eaten in front of the fire with a bottle of gutsy red.]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style/>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Sauce</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+        <step><![CDATA[Place all ingredients for the compote into a medium-sized saucepan and place over a low to moderate heat. Stir until the sugar dissolves then allow to simmer gently until most of the liquid has evaporated. Remove and discard the cinnamon, star anise and cardamom and place mixture into a shallow container, cover loosely and refrigerate until cool. Transfer into a small bowl and serve on a cheese board with the sliced bread and cheese for your guests to help themselves. Note that you will need a spoon to serve the cheese, given its gooey texture.]]></step>
+      </directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>Serves 6-8
+</serves>
+        <group>
+          <name><![CDATA[For The Compote]]></name>
+          <ingredient>
+            <quantity>250</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[fresh cranberries]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[Zest and juice of 2 oranges]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>250</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[port]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>100</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[sugar (caster or granulated)]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[cinnamon stick]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement/>
+            <name><![CDATA[star anise]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement/>
+            <name><![CDATA[cardamom pods]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[To Serve]]></name>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[Vacherin Mont d'Or]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[French country bread]]></name>
+            <preparation><![CDATA[sliced thinly]]></preparation>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

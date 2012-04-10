@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[sujeonggwa Korean Persimmon and Ginger Punch]]></title>
+<description><![CDATA[Known as 'sujeonggwa' in Korea, this punch can be served hot or cold and is highly praised in Korea as an immune-system booster. The scent of the cinnamon and ginger simmering away will make your kitchen smell a bit like Christmas.
+
+Dried persimmons can be purchased at Asian and Middle Eastern Stores.]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style>Korean</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Drink</tag>
+<tag/>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+<step><![CDATA[Place the water, ginger and cinnamon in a pot and bring it to a boil. Simmer for 45 minutes or until the liquid is reduced by almost half and has a strong ginger and cinnamon flavour.]]></step>
+<step><![CDATA[Strain out the ginger and cinnamon and stir in the honey until well dissolved. Add the persimmons and set aside to cool. Place the mixture in the fridge and chill well.]]></step>
+<step><![CDATA[Toast the pine nuts in a dry frying pan on medium-low heat until the pine nuts are golden. Pour the punch into glasses and top each glass with a scattering of pine nuts. Serve cold.]]></step>
+<step><![CDATA[Note: This punch is also delicious served hot as a kind of tea.]]></step>
+</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves/>
+        <group>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>l</measurement>
+            <name><![CDATA[water]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>10</quantity>
+            <measurement>cm</measurement>
+            <name><![CDATA[ginger]]></name>
+            <preparation><![CDATA[peeled and thinly sliced]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>6</quantity>
+            <measurement>pieces</measurement>
+            <name><![CDATA[cinnamon]]></name>
+            <preparation><![CDATA[7 cm long]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>6</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[honey]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>handful</measurement>
+            <name><![CDATA[persimmons]]></name>
+            <preparation><![CDATA[dried]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>handful</measurement>
+            <name><![CDATA[pine nuts]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

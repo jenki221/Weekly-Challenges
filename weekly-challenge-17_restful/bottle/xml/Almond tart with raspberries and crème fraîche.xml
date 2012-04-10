@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Almond tart with raspberries and crème fraîche]]></title>
+<description><![CDATA[This simple tart combines well with most fruits that have a slight acidity - the tart itself is chewy and sweet, so raspberries make the perfect foil.]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style>english</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Dessert</tag>
+<tag/>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+<step><![CDATA[For the pastry, make sure the butter is cold, and dice into small pieces. Sift the flour and place in a food mixer; add the butter, sugar, egg and vanilla extract. Turn the motor on and pulse until you have the consistency of wet sand. At this stage add the water; the pastry will soon begin to come together and form a ball. Turn off the machine and remove the ball of pastry to a work surface; knead lightly once or twice and wrap in parchment paper. Place in the fridge to chill for 30 minutes.]]></step>
+<step><![CDATA[Once it is chilled, lightly flour your work surface and roll the pastry into a circle about an eighth of an inch thick. Line a 10-inch tart tin, pressing the pastry firmly into the side of the tin with your thumbs. Prick the base well all over with a fork and return to the fridge to chill for a further 30 minutes.]]></step>
+<step><![CDATA[While the pastry is chilling, make the almond filling. Place the almonds into a food processor and pulse until ground. Add the butter, sugar and vanilla extract and purée until smooth. Add the eggs one by one through the funnel in the top and finally add the lemon zest. Remove from the mixer and set aside.]]></step>
+<step><![CDATA[Preheat the oven to 200C/400F/Gas6 and blind bake the pastry case for 15 minutes (to do this, lay a circle of greaseproof paper across the pastry and weigh down with dried beans).]]></step>
+<step><![CDATA[Remove from the oven, discard the beans and fill with the almond paste. Return to the middle shelf of the oven. Turn down the heat to 180C/350F/Gas4 and bake for 30 minutes or until firm in the centre. Remove from the oven and cool to room temperature.]]></step>
+<step><![CDATA[Serve the tart with a spoonful of crème fraîche for each person and a scattering of raspberries.
+]]></step>
+</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>Serves 8</serves>
+        <group>
+          <name><![CDATA[For The Pastry]]></name>
+          <ingredient>
+            <quantity>125</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[unsalted butter]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>250</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[plain flour]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>25</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[caster sugar]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[whole organic free-range egg]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1/2</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[vanilla extract]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[iced water]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[For the almond filling]]></name>
+          <ingredient>
+            <quantity>300</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[whole blanched almonds]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>300</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[unsalted butter]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>300</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[caster sugar]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1/2</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[vanilla extract]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>6</quantity>
+            <measurement/>
+            <name><![CDATA[organic free-range eggs]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[The zest of one unwaxed lemon]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[To Serve]]></name>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[punnet of raspberries]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[Cr\U00e8me fra\U00eeche]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

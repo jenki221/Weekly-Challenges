@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Risotto Lefkosia]]></title>
+<description/>
+<source/>
+<img></img>
+<cuisine>
+<style>Italian</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Rice</tag>
+<tag/>
+</tags>
+<directions xmlns:php="http://php.net/xsl">&gt;
+<step><![CDATA[Grill the whole peppers in the oven at 180°/200°, over a tray to catch the dripping liquid. (If you make a few extra you can cover them in oil and use in omelettes or just eat them with bread)]]></step>
+<step><![CDATA[Chop the shallots and garlic, sauté in olive oil until glistening]]></step>
+<step><![CDATA[Put the stock in a pot and warm it up]]></step>
+<step><![CDATA[Add the rice and toss a few seconds until warm and coated in the oil]]></step>
+<step><![CDATA[Add the wine, and let it evaporate briefly]]></step>
+<step><![CDATA[Add the diced apples, keep stirring until the win has reduced]]></step>
+<step><![CDATA[Start adding stock one ladleful at the time as per normal]]></step>
+<step><![CDATA[Menahwile peel the peppers, wash the core away, and chop them. Chop the remaining ingredients.]]></step>
+<step><![CDATA[When the risotto is done, add the chopped olives, peppers, coriander, salt and pepper. Mix in, cover.and stand for a couple of minutes]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves/>
+        <group>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[untitled ingredient]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Soffritto]]></name>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[shallot]]></name>
+            <preparation><![CDATA[chopped fine]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>cloves</measurement>
+            <name><![CDATA[garlic]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Main]]></name>
+          <ingredient>
+            <quantity>200</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[rice]]></name>
+            <preparation><![CDATA[carnaroli]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>900</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[stock]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[apple]]></name>
+            <preparation><![CDATA[peeled]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[wine]]></name>
+            <preparation><![CDATA[white]]></preparation>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Final]]></name>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[pepper]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>50</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[olives]]></name>
+            <preparation><![CDATA[black]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>20</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[coriander leaves]]></name>
+            <preparation><![CDATA[chopped]]></preparation>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

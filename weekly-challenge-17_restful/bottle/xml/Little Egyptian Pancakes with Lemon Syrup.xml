@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Little Egyptian Pancakes with Lemon Syrup]]></title>
+<description><![CDATA[these aren't really pancakes at all but I didn't want to scare you. They are crepes. The bubbliest, crispiest, most delicious crepes.
+
+Crepes rolled around a walnut, cinnamon and sugar filling and dipped into a delicious lemon syrup. Now do I have your attention? Good.
+
+Please follow the recipe below, remember the oil and swirling, and perfect crepes will be yours.]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style>Egyptian</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Desserts</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+<step><![CDATA[Place the yeast, sugar and water in a bowl and stir well to combine. Add the milk and baking soda and then slowly add the flour, whisking well with a fork to break up any lumps. Whisk a little more until you have a smooth batter, then cover the bowl with cling film and place somewhere warm (i.e. not a draufty window-ledge) to rise.]]></step>
+<step><![CDATA[Make the syrup, place the sugar and liquid in a small pot and bring to a simmer whisking well until the sugar has dissolved. Simmer for a further 5 minutes until the syrup has thickened a little, then set aside. The syrup can be rewarmed just before serving.]]></step>
+<step><![CDATA[Make the filling for the crepes by combining the walnuts, cinnamon and sugar in a bowl. Taste and adjust cinnamon and sugar until it is fragrant and sweet. Set aside.]]></step>
+<step><![CDATA[Heat a large nonstick pan over medium-high heat. Dip a bit of kitchen down into your oil or brush it along the butter and then rub it all over the base of your pan to coat it lightly in oil. Yes, you got it - this is the 'brush' part.]]></step>
+<step><![CDATA[Using a soup ladle, ladle a quantity approximately 2/3 full of your ladle into the pan and then swirl it around the base of the pan working around in circles from the centre outward until you have a thin coating of batter across your pan. This can take practice, the key is to start swirling right away and to try and work in nice controlled motions going around two or three times from the centre outwards. This is the 'swirl' part.]]></step>
+<step><![CDATA[Cook the pancakes for 1-2 minutes until the surface is set and the underside is a little crispy. For crispier crepes, cook a little longer. Do not flip the crepes.]]></step>
+<step><![CDATA[Slide the cooked crepe onto a plate and cover with another upturned plate to keep warm. Repeat the brushing of oil in the pan and the swirling of batter and continue to cook the crepes, stacking them on top of one another on the plate. Any unused batter can be stored covered in the fridge for 1-2 more days.]]></step>
+<step><![CDATA[Bring your plate of crepes, filling, and syrup to the table.]]></step>
+<step><![CDATA[Each person should take a crepe, scatter it generously with the filling, then roll up the crepe and dip it into the syrup.]]></step>
+<step><![CDATA[It will be messy and some of the nuts will escape and spill out, but they can be easily chased back into the next crepe or simply eaten with your fingers.]]></step>
+</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves/>
+        <group>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[yeast]]></name>
+            <preparation><![CDATA[dry]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>pinch</measurement>
+            <name><![CDATA[sugar]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>250</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[water]]></name>
+            <preparation><![CDATA[warm (aim for the temperature of your own body)]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>225</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[flour]]></name>
+            <preparation><![CDATA[plain]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>85</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[milk]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>pinch</measurement>
+            <name><![CDATA[baking soda]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Walnut-Cinnamon Filling]]></name>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>handful</measurement>
+            <name><![CDATA[walnuts]]></name>
+            <preparation><![CDATA[coarsely chopped]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>4</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[sugar]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[cinnamon]]></name>
+            <preparation><![CDATA[ground]]></preparation>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Lemon Syrup]]></name>
+          <ingredient>
+            <quantity>85</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[sugar]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement/>
+            <name><![CDATA[lemon]]></name>
+            <preparation><![CDATA[juiced]]></preparation>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Rosewater Syrup]]></name>
+          <ingredient>
+            <quantity>85</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[sugar]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[rosewater]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Orange Blossom Syrup]]></name>
+          <ingredient>
+            <quantity>85</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[sugar]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[orange blossom water]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

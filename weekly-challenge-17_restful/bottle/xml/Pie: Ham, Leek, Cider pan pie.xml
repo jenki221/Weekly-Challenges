@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Pie: Ham, Leek, Cider pan pie]]></title>
+<description/>
+<source/>
+<img></img>
+<cuisine>
+<style>English</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Pie</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">&gt;
+<step><![CDATA[fry the leeks in butter for a few minutes (2) add gammon, vegetables, thyme, toss (3) add the flour, keep tossing (4) increase the heat, pour the cider, bring to boil, season (5) cook 35 mins]]></step>
+<step><![CDATA[
+mix the pastry ingredients in a bowl, make a dough, roll out 1cm thick (7) lay over the pot, cook another 30 mins
+]]></step>
+</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves/>
+        <group>
+          <name><![CDATA[For the pastry]]></name>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[water]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>100</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[flour]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>50</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[suet]]></name>
+            <preparation><![CDATA[grated]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement>pinch</measurement>
+            <name><![CDATA[salt]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>0.25</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[baking powder]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[For the filling]]></name>
+          <ingredient>
+            <quantity>25</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[butter]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[leeks]]></name>
+            <preparation><![CDATA[chopped]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>900</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[gammon joint]]></name>
+            <preparation><![CDATA[unsmoked]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[carrots]]></name>
+            <preparation><![CDATA[peeled]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement/>
+            <name><![CDATA[celery stalks]]></name>
+            <preparation><![CDATA[finely sliced]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>handful</quantity>
+            <measurement/>
+            <name><![CDATA[thyme]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[flour]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>400</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[dry cider]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement>to taste</measurement>
+            <name><![CDATA[salt]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement>to taste</measurement>
+            <name><![CDATA[pepper]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

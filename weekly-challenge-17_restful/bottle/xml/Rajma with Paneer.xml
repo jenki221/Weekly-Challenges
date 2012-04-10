@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Rajma with Paneer]]></title>
+<description/>
+<source/>
+<img></img>
+<cuisine>
+<style>Indian</style>
+<region>Punjab</region>
+<approach/>
+</cuisine>
+<tags>
+<tag>With rice</tag>
+<tag/>
+</tags>
+<directions xmlns:php="http://php.net/xsl">&gt;
+<step><![CDATA[soak the beans overnight then replace water, mix together all ingredients and cook until ready, 1.5 to 3 hrs]]></step>
+<step><![CDATA[Mash 180 ml of the beans to a purèand reduce the cooking water to a 360 ml]]></step>
+<step><![CDATA[crush the spices together, add the ginger and keep crushing. Add the remaining ingredients, and make into a paste]]></step>
+<step><![CDATA[meanwhile peel the tomatoes and dice them]]></step>
+<step><![CDATA[cube the paneer or halloumi, and (deep) fry it in very hot oil]]></step>
+<step><![CDATA[fry the spices, in ghee 1-2 mins, add the tomatoes, 10 mins]]></step>
+<step><![CDATA[add everything else - beans (3) reduced water (4) fried paneers (8), 15 mins]]></step>
+<step><![CDATA[mix chopped coriander and serve]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves/>
+        <group>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[coriander leaves]]></name>
+            <preparation><![CDATA[chopped finelyt]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>250</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[paneer]]></name>
+            <preparation><![CDATA[or halloumi or tofu]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>4</quantity>
+            <measurement/>
+            <name><![CDATA[tomatoes]]></name>
+            <preparation><![CDATA[peeled in boiling water]]></preparation>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[For beans]]></name>
+          <ingredient>
+            <quantity>0.25</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[bicarbonate]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>410</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[red kidney beans]]></name>
+            <preparation><![CDATA[dried]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1.5</quantity>
+            <measurement>l</measurement>
+            <name><![CDATA[water]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[bay leaves]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>0.25</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[turmeric]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[cayenne pepper]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[ghee]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Spice mix]]></name>
+          <ingredient>
+            <quantity>2.5</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[coriander seeds]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[cumin seeds]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[fennel seeds]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[ajwain seeds]]></name>
+            <preparation><![CDATA[or oregano]]></preparation>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Spice paste]]></name>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[ginger]]></name>
+            <preparation><![CDATA[peeled]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>120</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[water]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[garam masala]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[turmeric]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[salt]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1.5</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[lemon juice]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

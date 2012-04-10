@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Beef, Tea and Chicory Thai Curry]]></title>
+<description><![CDATA[Originally made with cassia leaves, which need blanchin 3-5 times from a cold start. Go well with pickled red shallots, steamed eggs, and grilled fish]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style>Thai</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>With rice</tag>
+<tag/>
+</tags>
+<directions xmlns:php="http://php.net/xsl">&gt;
+<step><![CDATA[Make curry paste by putting all ingredients one by one in mortar, or food processor]]></step>
+<step><![CDATA[Grill the beef until rare on both sides and set aside]]></step>
+<step><![CDATA[Reduce coconut cream, 5 or 6 mins stirring regularly, then add 3 tbsp curry paste, 6/7 mins.]]></step>
+<step><![CDATA[Add the palm sugar, a few minutes until darkened, and the fish sauce, a few more minutes]]></step>
+<step><![CDATA[Add the coconut milk / stock, and the tea.]]></step>
+<step><![CDATA[Slice the beef, ginger, and chicory. and add to the curry with lime leaves]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>4</serves>
+        <group>
+          <name><![CDATA[Curry Paste]]></name>
+          <ingredient>
+            <quantity>9</quantity>
+            <measurement/>
+            <name><![CDATA[chilies]]></name>
+            <preparation><![CDATA[dried long ones]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>pinch</measurement>
+            <name><![CDATA[salt]]></name>
+            <preparation><![CDATA[coarse]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[galangal]]></name>
+            <preparation><![CDATA[chopped]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[lemongrass]]></name>
+            <preparation><![CDATA[chopped]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[ginger]]></name>
+            <preparation><![CDATA[or wild ginger (grachai)]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[shallot]]></name>
+            <preparation><![CDATA[chopped]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[garlic]]></name>
+            <preparation><![CDATA[chopped]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>4</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[pla grop]]></name>
+            <preparation><![CDATA[crisp fish]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>5</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[tea leaves]]></name>
+            <preparation><![CDATA[brewed in 180ml water]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>200</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[beef]]></name>
+            <preparation><![CDATA[rump]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>250</quantity>
+            <measurement>mls</measurement>
+            <name><![CDATA[coconut cream]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[sugar]]></name>
+            <preparation><![CDATA[palm]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[fish sauce]]></name>
+            <preparation><![CDATA[or 1 tbsp fermented beans]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>500</quantity>
+            <measurement>mls</measurement>
+            <name><![CDATA[coconut milk]]></name>
+            <preparation><![CDATA[or stock or a combination of the two]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[ginger]]></name>
+            <preparation><![CDATA[shredded]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement/>
+            <name><![CDATA[kaffir lime leaves]]></name>
+            <preparation><![CDATA[torn]]></preparation>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

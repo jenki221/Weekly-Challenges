@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Kale / Spinach Curry]]></title>
+<description><![CDATA[Sak]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style>Indian</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>vegetable side</tag>
+<tag/>
+</tags>
+<directions xmlns:php="http://php.net/xsl">&gt;
+<step><![CDATA[blanch the spinach, then cool and dry, squuezing out excess water, and chop corasely]]></step>
+<step><![CDATA[crush the spices]]></step>
+<step><![CDATA[melt the ghee, fry the chillies, ginger and crushed spices (2) for a few mins]]></step>
+<step><![CDATA[add the spinach for a few minutes, and salt]]></step>
+<step><![CDATA[prepare the chaunk: melt the ghee, fry the cashew nuts, then add currants until plump, then remove from fire and add garam masale]]></step>
+<step><![CDATA[mix with cooked spinach (4) and add lemon juice]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>4</serves>
+        <group>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>kg</measurement>
+            <name><![CDATA[fresh spinach]]></name>
+            <preparation><![CDATA[or kale]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[ghee]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[fresh chillies]]></name>
+            <preparation><![CDATA[deseeded]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[ginger]]></name>
+            <preparation><![CDATA[peeled]]></preparation>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Spice mix]]></name>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[cloves]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>0.25</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[fennel seeds]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>0.25</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[black mustard seeds]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>0.25</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[cumin seeds]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Chaunk]]></name>
+          <ingredient>
+            <quantity>35</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[cashew nuts]]></name>
+            <preparation><![CDATA[crushed]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>45</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[currants]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[garam masala]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[lemon juice]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[ghee]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

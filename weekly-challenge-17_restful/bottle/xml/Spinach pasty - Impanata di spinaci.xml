@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Impanata di spinaci / Spinach pasty]]></title>
+<description><![CDATA[There are many variations. Not all the options here go together - either raisins, or sausage, or mozzarella.]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style>Italian</style>
+<region>Sicilian</region>
+<approach/>
+</cuisine>
+<tags>
+<tag/>
+</tags>
+<directions xmlns:php="http://php.net/xsl">&gt;
+<step><![CDATA[dissolve fresh yeast in warm water for 5m. Add flour bit by bit and knead for 10m]]></step>
+<step><![CDATA[rest in greased bowl, covered in kitchen towel until doubled in size, about 2h]]></step>
+<step><![CDATA[sauté garlic in olive oil hot until just golden, about 1m]]></step>
+<step><![CDATA[sauté spinach until just wilted, about 3m. Drain, squeeze well keeping the water, and chop corasely]]></step>
+<step><![CDATA[soak raisins, if using, in spinach water for 10m]]></step>
+<step><![CDATA[drain and add to chopped spinach]]></step>
+<step><![CDATA[add chili powder if using, black olives, mozzarella if using]]></step>
+<step><![CDATA[If using sausage, sauté onion in olive oil med for 4m, add sausage until seared, about 2m. then set aside.]]></step>
+<step><![CDATA[Mix all the fillings together in a bowl]]></step>
+<step><![CDATA[Roll out dough as thin as possible, smear oil over it, lay the stuffing over it. Start rolling, smearing more oil between layers of dough]]></step>
+<step><![CDATA[Bake until ready 190° for 35m]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves/>
+        <group>
+          <name><![CDATA[Dough]]></name>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[yeast]]></name>
+            <preparation><![CDATA[fresh]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>320</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[water]]></name>
+            <preparation><![CDATA[warm]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>480</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[flour]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Spinach]]></name>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>kg</measurement>
+            <name><![CDATA[spinach]]></name>
+            <preparation><![CDATA[washed and rubbed with a little salt]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement>cloves</measurement>
+            <name><![CDATA[garlic]]></name>
+            <preparation><![CDATA[chopped fine]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[oil]]></name>
+            <preparation><![CDATA[oilve]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>24</quantity>
+            <measurement/>
+            <name><![CDATA[olives]]></name>
+            <preparation><![CDATA[black]]></preparation>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Optional]]></name>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[mozzarella]]></name>
+            <preparation><![CDATA[(optional) cubed]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[onion]]></name>
+            <preparation><![CDATA[(optional) sliced finely]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>500</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[sausage]]></name>
+            <preparation><![CDATA[(optional) broken with a fork]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>6</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[raisins]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>4</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[oil]]></name>
+            <preparation><![CDATA[oilve]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>60</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[wine]]></name>
+            <preparation><![CDATA[red]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[chili powder]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

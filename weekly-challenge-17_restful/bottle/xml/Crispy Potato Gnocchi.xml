@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Crispy Potato Gnocchi]]></title>
+<description><![CDATA[The secret to fluffy and light potato gnocchi is to bake the potatoes instead of boiling them. Boiling potatoes in water causes them to absorb moisture which means that you'll have to use more flour in the dough which can make it heavy and dense.]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style>Italian</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Dough / batter</tag>
+<tag/>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+<step><![CDATA[Pierce the potatoes all over with a fork and place in the oven. Bake the potatoes until soft when pierced with a knife or skewer, approximately one hour. Remove from the oven and let the potatoes cool.]]></step>
+<step><![CDATA[Peel the potatoes and press them through a potato ricer into a large mixing bowl. Add the flour, 2 tablespoons of the olive oil, the egg, and nutmeg. Season with salt and pepper. Mix by hand until the dough binds together, but be careful not overwork it or it will become gluey.]]></step>
+<step><![CDATA[Divide the dough into 5 or 6 balls, and roll each ball out on a lightly floured worksurface into a long snake about 1/2 inch in diameter. Cut each length into 1-inch segments, and set aside.]]></step>
+<step><![CDATA[Bring a large pot of salted water to a boil, and add the gnocchi in batches. Cook until they float to the surface, then remove them with a slotted spoon.]]></step>
+<step><![CDATA[Meanwhile heat the remaining oil in a large nonstick sauté pan over medium heat. Add gnocchi in batches, and cook until golden brown, 2 to 3 minutes per side. Remove from the pan, and repeat with remaining gnocchi. Serve immediately.]]></step>
+</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>4</serves>
+        <group>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>kg</measurement>
+            <name><![CDATA[potatoes]]></name>
+            <preparation><![CDATA[floury potatoes such as Maris Piper or King Edward]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>90</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[flour]]></name>
+            <preparation><![CDATA[plain]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>65</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[oil]]></name>
+            <preparation><![CDATA[olive]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[egg]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[Freshly ground black pepper]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

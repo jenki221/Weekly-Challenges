@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Pear and Dried Cherry Frangipane Cake ]]></title>
+<description/>
+<source/>
+<img></img>
+<cuisine>
+<style/>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Desserts</tag>
+<tag/>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+<step><![CDATA[Preheat oven to 350°F. Spray 8-inch-diameter springform pan with 2 1/2-inch-high sides with nonstick spray. Line pan bottom with parchment paper; spray parchment.]]></step>
+<step><![CDATA[Using electric mixer, beat 2 eggs, 2/3 cup sugar, oil, milk, and vanilla in large bowl until smooth. ]]></step>
+<step><![CDATA[Add 1 1/2 cups flour; beat just until combined. Stir in pears and cherries. Transfer batter to prepared pan. Smooth top.]]></step>
+<step><![CDATA[Crumble almond paste into medium bowl; add cinnamon, 1 egg, 2 tablespoons sugar, and 1 tablespoon flour. ]]></step>
+<step><![CDATA[Using electric mixer, beat mixture just until blended. Spoon atop cake batter.]]></step>
+<step><![CDATA[Bake cake until tester inserted into center comes out with small moist crumbs attached, about 1 hour 20 minutes. Run knife around pan to loosen cake. Remove pan sides. Peel off paper. Transfer cake to plate; sprinkle with powdered sugar. Serve warm or at room temperature. (Can be made 1 day ahead. Cool completely. Cover; let stand at room temperature.)
+]]></step>
+</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>6 servings</serves>
+        <group>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[Nonstick vegetable oil spray]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement>large</measurement>
+            <name><![CDATA[eggs]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2/3</quantity>
+            <measurement>cup</measurement>
+            <name><![CDATA[sugar]]></name>
+            <preparation><![CDATA[plus 2 tablespoons]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1/2</quantity>
+            <measurement>cup</measurement>
+            <name><![CDATA[extra-light olive oil]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1/3</quantity>
+            <measurement>cup</measurement>
+            <name><![CDATA[whole milk]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[vanilla extract]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1 1/2</quantity>
+            <measurement>cups</measurement>
+            <name><![CDATA[self-rising flour]]></name>
+            <preparation><![CDATA[plus 1 tablespoon]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>large</measurement>
+            <name><![CDATA[pears]]></name>
+            <preparation><![CDATA[peeled]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1 1/3</quantity>
+            <measurement>cups</measurement>
+            <name><![CDATA[dried tart or Bing cherries]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>(7 oz.) tube</measurement>
+            <name><![CDATA[almond paste]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[ground cinnamon]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[Powdered sugar]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

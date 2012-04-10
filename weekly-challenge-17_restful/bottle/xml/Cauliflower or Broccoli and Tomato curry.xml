@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Cauliflower or Broccoli and Tomato curry]]></title>
+<description><![CDATA[Gobhi Tamatar Sabji]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style>Indian</style>
+<region>Maharashtra</region>
+<approach/>
+</cuisine>
+<tags>
+<tag>With rice</tag>
+<tag/>
+</tags>
+<directions xmlns:php="http://php.net/xsl">&gt;
+<step><![CDATA[Make a cross cut at the bottom of the tomatoes, soak in boiling water a couple of minutes, then rinse in fresh water and peel. Cut into eights]]></step>
+<step><![CDATA[Melt the ghee or oil / butter mixture over medium high heat. Fry the grated ginger, chopped chilies, cumin seeds, mustard seeds until the mustard seeds begin to pop.]]></step>
+<step><![CDATA[Stir in cauliflower, ground coriander, turmeric, salt and stir a coupe of minutes]]></step>
+<step><![CDATA[Add the tomatoes, lower heat and cook with a tight fitting lid for 15 - 20 mins, shaking the pan occasionally. The moisture in the tomatoes should be enough to cook the cauliflowers.]]></step>
+<step><![CDATA[Remove the lid and increase the heat. Toss the cauliflower over high heat for a minute or so. Sprinkle garam masala and chopped herbs, and serve]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves/>
+        <group>
+          <name><![CDATA[Tomatoes]]></name>
+          <ingredient>
+            <quantity>500</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[tomatoes]]></name>
+            <preparation><![CDATA[medium]]></preparation>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Spice mix]]></name>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[ghee]]></name>
+            <preparation><![CDATA[or oil and butter mixture]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2.5</quantity>
+            <measurement>cm</measurement>
+            <name><![CDATA[ginger]]></name>
+            <preparation><![CDATA[peeled]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[chilies]]></name>
+            <preparation><![CDATA[fresh]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[cumin seeds]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[black mustard seeds]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Cauliflower]]></name>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[cauliflower]]></name>
+            <preparation><![CDATA[cut in florets]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[ground coriander]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[turmeric]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Serving]]></name>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[coriander leaves]]></name>
+            <preparation><![CDATA[chopped]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[garam masala]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

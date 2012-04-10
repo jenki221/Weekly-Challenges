@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Schiacciata con l'Uva]]></title>
+<description><![CDATA[Schiacciata is a rustic, focaccia-like flatbread that is traditionally made in Tuscany during the wine harvest. The dough is made with lots of olive oil, rosemary and grapes that you leave the seeds in. As the bread bakes, the grapes soften and burst slightly at the edges and the seeds in the grapes give it a surprisingly pleasant crunch.]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style>Italian</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Desserts</tag>
+<tag/>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+<step><![CDATA[In a large mixing bowl, dissolve the yeast and sugar in the water and leave to stand for 5 minutes. Add the olive oil and salt to the yeast and water mixture.]]></step>
+<step><![CDATA[Gradually stir in the flour a half a cup at a time and mix well until the mixture comes together as a dough. Turn the dough out onto a floury work surface and knead for 2-3 minutes only. Add flour as necessary to prevent the dough catching and sticking to your worksurface, but it is good for the dough to still be fairly wet and sticky.]]></step>
+<step><![CDATA[Shape the dough in a ball and place in a lightly oiled bowl. Cover the bowl with a damp tea towel and leave to rise in a warm place for an hour. Meanwhile, rinse the grapes, remove any bits of stem and pat them dry.]]></step>
+<step><![CDATA[Coat a rectangular baking tray or sheet pan (approximately 10 by 15 inches) with a light coating of olive oil and dust with the cornmeal. Place the dough in the centre of the pan and with your palms and fingers, gently stretch the dough across the base of the pan until the entire surface is covered to an even thickness. If the dough starts to tear, leave it to rest for 2 minutes and then resume. Letting the dough rest in between stretching makes it more pliable.]]></step>
+<step><![CDATA[Pour the olive oil over the dough and swirl it around until the dough has a good coating. Carefully press the grapes lightly into the surface of the dough at regular intervals. You want a good quantity of grapes but be careful not to use too much as they will burst during cooking and make the bread soggy. Scatter the rosemary over top.]]></step>
+<step><![CDATA[Cover the dough with cling film and leave to rise for 20 minutes. Preheat the oven to 200C.]]></step>
+<step><![CDATA[Remove the cling film and press the dough with your fingers to create little indentations in the surface. Sprinkle the coarse salt on top of the dough and bake it for 15-20 minutes or until the underside is crisp and the surface is becoming golden. The dough should soft and spongy but cooked through.]]></step>
+<step><![CDATA[Remove the schiacciata from the oven and turn out onto a rack to cool slightly. Serve warm, sliced into thin slices.]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves/>
+        <group>
+          <ingredient>
+            <quantity>285</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[water]]></name>
+            <preparation><![CDATA[warm]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[yeast]]></name>
+            <preparation><![CDATA[fresh]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>4</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[sugar]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>65</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[oil]]></name>
+            <preparation><![CDATA[olive]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>320</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[flour]]></name>
+            <preparation><![CDATA[plain]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[cornmeal]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>65</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[oil]]></name>
+            <preparation><![CDATA[olive]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>handful</measurement>
+            <name><![CDATA[grapes]]></name>
+            <preparation><![CDATA[purple]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[rosemary]]></name>
+            <preparation><![CDATA[coarsely chopped]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[salt]]></name>
+            <preparation><![CDATA[coarse]]></preparation>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

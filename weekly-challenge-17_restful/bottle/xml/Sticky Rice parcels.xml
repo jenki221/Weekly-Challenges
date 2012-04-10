@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Sticky Rice parcels]]></title>
+<description><![CDATA[Nou Mi Ji]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style>Chinese</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>one dish meal</tag>
+<tag/>
+</tags>
+<directions xmlns:php="http://php.net/xsl">&gt;
+<step><![CDATA[soak rice in water for 1 hour, then drain]]></step>
+<step><![CDATA[soak lotus leaves in water for 1h]]></step>
+<step><![CDATA[soak mushrooms 30 m]]></step>
+<step><![CDATA[pour 1L boiling water on rice and leave to cool]]></step>
+<step><![CDATA[
+drain mushrooms, then chop]]></step>
+<step><![CDATA[steam sausage 5 m, then let cool and slice]]></step>
+<step><![CDATA[cut chicken into cubes 1cm, chop sproing pnions ]]></step>
+<step><![CDATA[
+drain rice, add mushroom (4), sausage (5), shrimp, chicken, peanut, spring onions, soy sauce, oil]]></step>
+<step><![CDATA[
+drain leaves, fold in half and cut away thick stem ]]></step>
+<step><![CDATA[make little rectangular parcels, place seams down in steamer and steam 40 m]]></step>
+</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves/>
+        <group>
+          <name><![CDATA[Rice]]></name>
+          <ingredient>
+            <quantity>330</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[rice]]></name>
+            <preparation><![CDATA[sticky]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>l</measurement>
+            <name><![CDATA[water]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Filling]]></name>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement/>
+            <name><![CDATA[dried mushrooms]]></name>
+            <preparation><![CDATA[black]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>40</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[dried shrimps]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>150</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[chicken thights]]></name>
+            <preparation><![CDATA[boneless]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[spring onions]]></name>
+            <preparation><![CDATA[whole]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>45</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[peanuts]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2.5</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[soy sauce]]></name>
+            <preparation><![CDATA[light]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1.5</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[oil]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>4</quantity>
+            <measurement/>
+            <name><![CDATA[dried lotus leaves]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

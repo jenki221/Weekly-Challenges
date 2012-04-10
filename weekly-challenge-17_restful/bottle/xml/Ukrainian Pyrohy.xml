@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Ukrainian Pyrohy]]></title>
+<description><![CDATA[Pyrohy are generally made in large batches so that extras can be tied into bags and stored in the freezer. ]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style>Ukrainian</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Pasta</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+<step><![CDATA[In a large mixing bowl, combine the flour, salt, egg yolks, butter and potatoes and stir to mix. Slowly stir in the warm water until the mixture comes together as a dough. On a lightly floured work surface, knead the dough for 2 minutes or until smooth, adding only enough flour to keep it from sticking.]]></step>
+<step><![CDATA[Gather the dough into a ball and place an overturned bowl over the dough. Leave the dough to rest for 10 minutes.]]></step>
+<step><![CDATA[Start making the onion topping by melting the butter in a frying pan over medium heat. Add the onions and fry stirring occasionally for 10-15 minutes or until the onions are deep brown and crisp.]]></step>
+<step><![CDATA[Meanwhile, make the filling by mixing together the mashed potato with the cheeses and sea salt. Taste the filling and add more salt if necessary. The filling should taste slightly too salty.]]></step>
+<step><![CDATA[On a floured work surface, begin to roll out the dough. Turn the dough frequently as you roll it, sprinkling it with a little flour as needed to keep it form sticking. Continue rolling out the dough until it is around 1/4 inch thick.]]></step>
+<step><![CDATA[Using a glass, teacup or special fluted cookie cutter, cut the dough into round shapes. Place a spoonful of filling in the centre of each dough circle and fold the dough in half over the filling, squashing the filling down gently with your fingers as you fold the dough overtop. With your fingers, press down on the dough edges as they line up to create a firm seal. Repeat with the remaining circles and gather up the remaining scraps of dough, reroll and cut again until you have used up all the dough.]]></step>
+<step><![CDATA[Bring a large pot of water to the boil and add the pyrohy. Cook the dumplings for 5 minutes or until the dough is tender and the pyrohy look slightly 'puffed up'. Remove them with a slotted spoon and divide between plates.]]></step>
+<step><![CDATA[Serve the pyrohy hot with the fried onion and butter mixture spooned overtop.]]></step>
+</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>40</serves>
+        <group>
+          <name><![CDATA[Dough]]></name>
+          <ingredient>
+            <quantity>240</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[flour]]></name>
+            <preparation><![CDATA[plain]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[salt]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[egg yolks]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[butter]]></name>
+            <preparation><![CDATA[melted]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>100</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[potatoes]]></name>
+            <preparation><![CDATA[mashed]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>130</quantity>
+            <measurement/>
+            <name><![CDATA[;]]></name>
+            <preparation><![CDATA[water]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>handful</measurement>
+            <name><![CDATA[flour]]></name>
+            <preparation><![CDATA[plain]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[salt]]></name>
+            <preparation><![CDATA[for cooking]]></preparation>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Filling]]></name>
+          <ingredient>
+            <quantity>275</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[potatoes]]></name>
+            <preparation><![CDATA[mashed (3 small potatoes)]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>150</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[cheese]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>75</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[cheese]]></name>
+            <preparation><![CDATA[cheddar]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[salt]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Fried Onion Topping]]></name>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[onion]]></name>
+            <preparation><![CDATA[finely chopped]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>75</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[butter]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

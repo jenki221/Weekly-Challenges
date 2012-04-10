@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Orange and Ginger Shortbread]]></title>
+<description><![CDATA[The trick is to 'double-bake' them as you would for biscotti, baking them first in a baking tin and then cutting them into slices and baking them a second time at a lower temperature.]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style/>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Desserts</tag>
+<tag/>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+<step><![CDATA[Preheat the oven to 170 C and line an 8 inch round baking pan with parchment paper.]]></step>
+<step><![CDATA[With a hand-mixer, cream the butter and sugar together until they are light and fluffy. Add the orange zest, juice and grated ginger and mix well, scraping down the side of a bowl where necessary to incorporate all the ingredients.]]></step>
+<step><![CDATA[Sift the salt, flour and baking soda into a separate bowl. Mix half the dry mixture into the dough on low speed until blended and then add the second half of the flour mixture and blend briefly until the dough looks like wet porridge oats.]]></step>
+<step><![CDATA[With your hands, knead the dough in the bowl or on a worksurface for a few minutes until the ingredients seem well mixed and the dough is consistent and smooth. Press the dough into the baking pan and bake for 25 minutes.]]></step>
+<step><![CDATA[Remove the shortbread from the oven and allow to cool for 10-15 minutes or until firm. Reduce the oven temperature to 150 C. Turn the shortbread out onto a chopping board and slice it into wedges using a sharp knife. Line a baking tray with parchment paper.]]></step>
+<step><![CDATA[Carefully transfer the shortbread slices to the baking sheet and bake for a further 20 - 25 minutes or until the biscuits feel firm and crumbly. Remove and allow to cool slightly.]]></step>
+</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves/>
+        <group>
+          <ingredient>
+            <quantity>225</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[butter]]></name>
+            <preparation><![CDATA[softened]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>75</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[sugar]]></name>
+            <preparation><![CDATA[icing]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[oranges]]></name>
+            <preparation><![CDATA[zested]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement/>
+            <name><![CDATA[oranges]]></name>
+            <preparation><![CDATA[juiced]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>5</quantity>
+            <measurement>cm</measurement>
+            <name><![CDATA[ginger]]></name>
+            <preparation><![CDATA[peeled and finely grated]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[sea salt]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>180</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[flour]]></name>
+            <preparation><![CDATA[plain]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[baking soda]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

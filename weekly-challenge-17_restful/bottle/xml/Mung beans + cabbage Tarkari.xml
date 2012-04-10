@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Mung beans + cabbage Tarkari]]></title>
+<description><![CDATA[Bandhgobhi Mong Tarkaru]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style>Indian</style>
+<region>Bengal</region>
+<approach/>
+</cuisine>
+<tags>
+<tag>one dish meal</tag>
+<tag/>
+</tags>
+<directions xmlns:php="http://php.net/xsl">&gt;
+<step><![CDATA[soak the beans in water with bicarbonate at least 4 hours]]></step>
+<step><![CDATA[discard the water, boil for 1 hour until teneder]]></step>
+<step><![CDATA[sautè the chillies, ginger and seeds in ghee]]></step>
+<step><![CDATA[when browned add the assofoetida and curry leaves then a few seconds later add the cabbage]]></step>
+<step><![CDATA[add the spices and salt, cook 20 mins - your choice whether you want them cruncy or well done]]></step>
+<step><![CDATA[when the cabbage are cooked add the bans, lemon and molasses]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves/>
+        <group>
+          <name><![CDATA[For the beans]]></name>
+          <ingredient>
+            <quantity>135</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[beans]]></name>
+            <preparation><![CDATA[mung]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>pinch</measurement>
+            <name><![CDATA[bicarbonate]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[water]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Initial spice mix]]></name>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[cumin seeds]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[black mustard seeds]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[fresch chillies]]></name>
+            <preparation><![CDATA[deseeded]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[ginger]]></name>
+            <preparation><![CDATA[peeled]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>0.25</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[assafoetida]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>10</quantity>
+            <measurement/>
+            <name><![CDATA[curry leaves]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>5</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[ghee]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[For the tarkari]]></name>
+          <ingredient>
+            <quantity>500</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[cabbage]]></name>
+            <preparation><![CDATA[shredded finely]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[turmeric]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[ground coriander]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[salt]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[To serve]]></name>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement/>
+            <name><![CDATA[lemon]]></name>
+            <preparation><![CDATA[juiced]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[molasses]]></name>
+            <preparation><![CDATA[or honey]]></preparation>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

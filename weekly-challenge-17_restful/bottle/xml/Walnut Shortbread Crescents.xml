@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Walnut Shortbread Crescents]]></title>
+<description/>
+<source/>
+<img></img>
+<cuisine>
+<style>Serbian</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Desserts</tag>
+<tag/>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+<step><![CDATA[Place all the dry ingredients in a mixing bowl. Slice the vanilla beans in half lengthwise and using the flat side of a knife, scrape out the seeds and add to the dry ingredients. Mix everything together with your hands until well combined.]]></step>
+<step><![CDATA[Grate the frozen butter into the dry mixture occasionally mixing the grated butter into the dry ingredients with your fingertips. After all the butter has been added, add the egg yolks and then mix everything together thoroughly with your hands until it is well incorporated and forms a stiff ball.]]></step>
+<step><![CDATA[Wrap the dough in cling film and place in the fridge about 1 hour.]]></step>
+<step><![CDATA[Preheat your oven to 175C. Working with a tablespoon of the dough at a time, roll it in your hands into a log shape and bend the ends to form a crescent shape. Lay the crescent on a baking tray lined with parchment paper. Continue until you have used up all the dough.]]></step>
+<step><![CDATA[Place the crescents in the oven and bake for 12 to 15 minutes until light golden brown. Remove and set aside to cool. The crescents will be very soft so try not to touch them till they have completely cooled.]]></step>
+<step><![CDATA[Roll each crescent generously in the vanilla icing sugar mixture.]]></step>
+</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves/>
+        <group>
+          <ingredient>
+            <quantity>115</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[sugar]]></name>
+            <preparation><![CDATA[icing]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>315</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[walnuts]]></name>
+            <preparation><![CDATA[ground]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>305</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[flour]]></name>
+            <preparation><![CDATA[plain]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>250</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[butter]]></name>
+            <preparation><![CDATA[frozen]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[egg yolks]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[vanilla beans]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[salt]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[For Rolling]]></name>
+          <ingredient>
+            <quantity>100</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[sugar]]></name>
+            <preparation><![CDATA[icing]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[vanilla beans]]></name>
+            <preparation><![CDATA[deseeded]]></preparation>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

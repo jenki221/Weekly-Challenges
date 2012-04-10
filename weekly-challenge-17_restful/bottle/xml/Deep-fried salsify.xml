@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Deep-fried salsify]]></title>
+<description><![CDATA[Salsify is one of those old-fashioned ingredients that you don't see on menus any more. It is not the easiest of veg to prepare - which is one possible reason why it's out of vogue.]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style/>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>vegetable side</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+<step><![CDATA[Pre-heat about 8cm of oil to 160-180C in a large, thick-bottomed saucepan or electric deep-fat fryer. Top and tail the salsify and peel thoroughly with a swivel peeler, ensuring all of the black skin is removed.]]></step>
+<step><![CDATA[Squeeze the lemon juice into a pan of salted water and add the salsify (you may need to cut them in half).]]></step>
+<step><![CDATA[Bring to the boil and simmer for 5-6 minutes, or until just tender, then drain and leave to cool, or run under the cold tap to cool down quicker. Cut the salsify into 2-3cm lengths and halve the pieces lengthways if they are thick.]]></step>
+<step><![CDATA[Have three bowls ready, one with flour, seasoned, one with the egg, and the third with the breadcrumbs mixed with the Parmesan. Flour the salsify, shaking off any excess, then pass them through the egg and then through the breadcrumb mixture. ]]></step>
+<step><![CDATA[Deep-fry the salsify a handful or so at a time until nicely coloured and crisp and serve with your choice of sauce.]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>Serves about 10
+</serves>
+        <group>
+          <ingredient>
+            <quantity>4-5</quantity>
+            <measurement/>
+            <name><![CDATA[sticks of salsify]]></name>
+            <preparation><![CDATA[washed ]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[Half a lemon]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[egg beaten]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2-3</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[plain flour]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>50-60</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[fresh white breadcrumbs]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[freshly grated Parmesan]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[Vegetable or corn oil for deep frying]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

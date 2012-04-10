@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Roast Beetroot Salad with Candied Pumpkin Seeds]]></title>
+<description/>
+<source/>
+<img></img>
+<cuisine>
+<style/>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Salad</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+<step><![CDATA[Preheat the oven to 200 C. Wash and dry the beets leaving them unpeeled.]]></step>
+<step><![CDATA[Wrap each beet in foil and place in the oven to roast for about 1 hour or until tender when pierced with a skewer. Allow the beets to cool for about 20 minutes before handling. When cool enough to handle, unwrap the beetroot and peel off the skins. Slice the beetroot into thick slices or quarter any very small ones. Set aside.]]></step>
+<step><![CDATA[To make the candied pumpkin seeds, place the pumpkin seeds in a dry frying pan over medium heat. Toast the pumpkin seeds for 5-8 minutes, shaking the pan frequently until the seeds have all 'popped' and are puffed up and smell nutty. Sprinkle over the sugar and salt and continue to toast, stirring constantly until all the sugar has melted and the seeds have a light coating of sugar. Tip the seeds out of the pan and spread on a sheet of parchment or foil to cool.]]></step>
+<step><![CDATA[Make the dressing by whisking together the egg yolk, mustard, oil and salt until the dressing is thickened and creamy in texture. Add lemon juice to taste or until the desired consistency is reached - the dressing should be just pourable rather than too runny.]]></step>
+<step><![CDATA[To make the salad, scatter the rocket or dandelion on a serving plate and top with the slices of roasted beets. Sprinkle with a good pinch of the salt flakes and drizzle with the dressing. Breakup the pumpkin seeds with your fingers and scatter over the salad. Serve.]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>4</serves>
+        <group>
+          <ingredient>
+            <quantity>10</quantity>
+            <measurement/>
+            <name><![CDATA[beetroot]]></name>
+            <preparation><![CDATA[baby]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>handful</measurement>
+            <name><![CDATA[dandelion]]></name>
+            <preparation><![CDATA[or rocket leaves]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[flaky sea salt for garnishing]]></name>
+            <preparation><![CDATA[fleur de sel or other ]]></preparation>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Candied Pumpkin Seeds]]></name>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>handful</measurement>
+            <name><![CDATA[pumpkin seeds]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[sugar]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[salt]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Dijon Dressing]]></name>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[egg yolks]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[mustard]]></name>
+            <preparation><![CDATA[dijon]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>6</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[oil]]></name>
+            <preparation><![CDATA[deep frying]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[lemon juice]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

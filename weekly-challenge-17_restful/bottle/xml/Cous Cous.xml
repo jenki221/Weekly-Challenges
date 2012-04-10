@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Cous Cous]]></title>
+<description/>
+<source/>
+<img></img>
+<cuisine>
+<style>Moroccan</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>cous cous</tag>
+<tag/>
+</tags>
+<directions xmlns:php="http://php.net/xsl">&gt;
+<step><![CDATA[put cous cous in a shallow bowl]]></step>
+<step><![CDATA[mix salt, water into the cous cous with your finger until all dissolved]]></step>
+<step><![CDATA[mix in olive oil]]></step>
+<step><![CDATA[steam over water, or the dish you are serving it with, for 20m]]></step>
+<step><![CDATA[pour back in the bowl]]></step>
+<step><![CDATA[mix water into the cous cous with a wooden spoon until all dissolved]]></step>
+<step><![CDATA[mix in butter and leave to rest, covered with a cloth for 15m]]></step>
+<step><![CDATA[put back in steamer for final 10-15 mins of main dish cooking time, then shape into a mound. Pour main in the middle and serve]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves/>
+        <group>
+          <name><![CDATA[For the First round]]></name>
+          <ingredient>
+            <quantity>500</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[cous cous]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[salt]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>160</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[water]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[olive oil]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[For the Second round]]></name>
+          <ingredient>
+            <quantity>160</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[water]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[butter]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

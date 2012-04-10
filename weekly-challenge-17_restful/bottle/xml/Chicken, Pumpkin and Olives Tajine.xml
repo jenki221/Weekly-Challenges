@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Chicken, Pumpkin and Olives Tajine]]></title>
+<description><![CDATA[If you have never cooked with whole spices before, this is a great recipe to begin. The difference will persuade you to bin those dusty pre-ground spices forever. A small mortar and pestle is all you need to get started.]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style/>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>With rice</tag>
+<tag/>
+</tags>
+<directions xmlns:php="http://php.net/xsl">&gt;
+<step><![CDATA[Dry toast 4 cm cinnamon stick, 1 tsp Cumin Seeds and 1 tsp Coriander Seeds over low-medium heat, 3-4 minutes, until fragrant, then grind to a fine powder]]></step>
+<step><![CDATA[Peel 4 Tomatoes in boiling water, then chop]]></step>
+<step><![CDATA[Rinse the 4 Chicken Thighs and legs on the bone and pat dry with kitchen roll and season generously with the salt and pepper. Lightly flour the chicken pieces, tapping to remove any excess]]></step>
+<step><![CDATA[Sauté chicken in oil for 2 minutes per side or until they are lightly golden. Remove chicken from the pan and lower the heat.]]></step>
+<step><![CDATA[Add a little more oil if the pan is dry. Add the onions, garlic, ginger and chilies and saute gently for 5 minutes or until the onion is soft.]]></step>
+<step><![CDATA[Add the tomatoes, spice mixture, and stock and bring to a simmer. Simmer for 10 minutes, crushing the tomatoes with the back of a wooden spoon to break them up.]]></step>
+<step><![CDATA[Return the chicken pieces to the pan along with the pumpkin, quartered lemon or mandarin and olives and bring to a gentle simmer.]]></step>
+<step><![CDATA[Add a little more stock if necessary to ensure that the chicken pieces are nearly covered in liquid. Cover the pan with a tight-fitting lid and simmer the mixture gently for 40 minutes or until the chicken is cooked through. Squash the lemon or mandarin quarters a few times during cooking with the back of a spoon to encourage the juices to release into your stew.]]></step>
+<step><![CDATA[Increase the heat and simmer for a further 5-10 minutes or until the sauce is nice and thick. Taste and season with salt and pepper.]]></step>
+<step><![CDATA[Remove from the heat and allow to cool slightly. Scatter with the chopped coriander and serve.]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>4</serves>
+        <group>
+          <name><![CDATA[Spice Mixture]]></name>
+          <ingredient>
+            <quantity>4</quantity>
+            <measurement>cm</measurement>
+            <name><![CDATA[cinnamon stick]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[cumin seeds]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[coriander seeds]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Casserole]]></name>
+          <ingredient>
+            <quantity>4</quantity>
+            <measurement/>
+            <name><![CDATA[tomatoes]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>4</quantity>
+            <measurement/>
+            <name><![CDATA[chicken]]></name>
+            <preparation><![CDATA[thighs]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>4</quantity>
+            <measurement/>
+            <name><![CDATA[chicken]]></name>
+            <preparation><![CDATA[legs]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>50</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[flour]]></name>
+            <preparation><![CDATA[plain]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>4</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[oil]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[onions]]></name>
+            <preparation><![CDATA[chopped fine]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>5</quantity>
+            <measurement>cloves</measurement>
+            <name><![CDATA[garlic]]></name>
+            <preparation><![CDATA[minced]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>5</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[ginger]]></name>
+            <preparation><![CDATA[peele]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[chillies]]></name>
+            <preparation><![CDATA[fresh]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>500</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[stock]]></name>
+            <preparation><![CDATA[chicken]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement/>
+            <name><![CDATA[squash]]></name>
+            <preparation><![CDATA[butternut]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[lemon]]></name>
+            <preparation><![CDATA[mandarin orange]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>handful</measurement>
+            <name><![CDATA[olives]]></name>
+            <preparation><![CDATA[green]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[Sea salt and freshly ground black pepper]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[A small handful of coriander leaves]]></name>
+            <preparation><![CDATA[coarsely chopped]]></preparation>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Pomegranate Molasses]]></title>
+<description/>
+<source/>
+<img></img>
+<cuisine>
+<style/>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Basics</tag>
+<tag/>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+        <step><![CDATA[1. seeds pomegranade
+2. slow cook in a little water, then sieve and put back in pot
+3. add sugar and lemon juice
+4, to a boil, reduce the heat and simmer until it has reduces to a quarter, about 40-50 minutes. (At this point it should have the consistency of a thick syrup.)]]></step>
+      </directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>1/2 cup</serves>
+        <group>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>cups</measurement>
+            <name><![CDATA[pomegranate juice]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1/4</quantity>
+            <measurement>cup</measurement>
+            <name><![CDATA[sugar]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>0.25</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[lemon juice]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>4</quantity>
+            <measurement/>
+            <name><![CDATA[pomegranate]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

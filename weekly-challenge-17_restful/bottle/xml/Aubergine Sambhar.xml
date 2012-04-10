@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Aubergine Sambhar]]></title>
+<description><![CDATA[Best described as South Indian comfort food, sambhar is a kind of thickened, spicy vegetable and lentil broth that is served with various rice and semolina preparations such as upma, pongal and as a dip for idli and dosas.
+
+A good sambhar should sing with ginger and feel comforting and nourishing. I prefer to make sambhar the Keralan way which is thicker while the people of Tamil Nadu favour a thinner, more watery sambhar. Sambhar only improves with age so any leftovers will taste even better the next day.]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style>Indian</style>
+<region>Kerala</region>
+<approach/>
+</cuisine>
+<tags>
+<tag>Dal</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+<step><![CDATA[Rinse the dal well, drain it and place in a pot with the water and turmeric. Bring the dal to a boil, then partially cover and reduce the temperature to a simmer. Simmer the dal for an hour or until it is tender.]]></step>
+<step><![CDATA[Warm a wide frying pan on medium heat and add the spices, coconut, and chilies. Stir the mixture constantly for 5 minutes until the coconut has become dry and has a toasted, golden colour. Place the mixture in a mortar and pestle and grind to a powder.]]></step>
+<step><![CDATA[Heat the oil in a large pot on medium heat. Add the mustard seeds and curry leaves and cook for a minute until the seeds begin to pop. Add the onion and carrots and saute for 5 minutes stirring occasionally until the onion is soft. Add the aubergine, okra and salt and cook for a further 5 minutes. Add the dal mixture, the ground coconut and spice mixture, and the 300 mls of water and bring to a simmer. Simmer partially covered for 30 minutes or until the vegetables are tender and the mixture is thickened but still slightly soupy.]]></step>
+<step><![CDATA[Meanwhile, make the tamarind water. Place the tamarind pulp in a small bowl and pour over the boiling water. Set aside for 20 minutes, then rub the pulp between your fingers until the texture of the water is thick - similar to ketchup.]]></step>
+<step><![CDATA[Pour the tamarind and water through a fine mesh strainer with a bowl underneath to catch the liquid. Press down on the tamarind fibres to extract as much flavour and liquid as possible, then discard the tamarind pulp.]]></step>
+<step><![CDATA[Stir the tamarind water into the sambhar. Check the consistency of your sambhar, if it is too soupy and you prefer it thicker simmer it for a further 5-10 minutes until it is thickened.]]></step>
+<step><![CDATA[Remove the sambhar from the heat allow it to cool slightly before serving. Serve the sambhar in shallow bowls to accompany rice, idli, dosas or other grains.]]></step>
+</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>4</serves>
+        <group>
+          <name><![CDATA[Ingredients]]></name>
+          <ingredient>
+            <quantity>225</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[dal]]></name>
+            <preparation><![CDATA[toor]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>l</measurement>
+            <name><![CDATA[water]]></name>
+            <preparation><![CDATA[cold]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>5</quantity>
+            <measurement>cm</measurement>
+            <name><![CDATA[turmeric]]></name>
+            <preparation><![CDATA[fresh]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[coriander seeds]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[fenugreek seeds]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[cumin seeds]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[black peppercorns]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>65</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[coconut]]></name>
+            <preparation><![CDATA[grated]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>5</quantity>
+            <measurement/>
+            <name><![CDATA[chillies]]></name>
+            <preparation><![CDATA[dried]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[oil]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[black mustard seeds]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>12</quantity>
+            <measurement/>
+            <name><![CDATA[curry leaves]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[onion]]></name>
+            <preparation><![CDATA[finely chopped]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[carrots]]></name>
+            <preparation><![CDATA[cut into small dice]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>300</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[aubergine]]></name>
+            <preparation><![CDATA[cut into bite-sized cubes]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>75</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[okra]]></name>
+            <preparation><![CDATA[topped and tailed]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[salt]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>300</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[water]]></name>
+            <preparation><![CDATA[cold]]></preparation>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Tamarind Water]]></name>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[tamarind pulp]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>175</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[water]]></name>
+            <preparation><![CDATA[boiling]]></preparation>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

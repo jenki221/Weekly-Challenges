@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Arabian Paella (Kebsa)]]></title>
+<description/>
+<source/>
+<img></img>
+<cuisine>
+<style>Arab</style>
+<region>Yemen</region>
+<approach/>
+</cuisine>
+<tags>
+<tag>one dish meal</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">&gt;
+<step><![CDATA[dry toast, then grind cumin seeds, coriander seeds, cardamom, black peppercorn, caraway, dried turmeric for 4-5m]]></step>
+<step><![CDATA[sauté onion in olive oil on medium heat until soft, about 5m]]></step>
+<step><![CDATA[toss in cinnamon, cardamom for a few seconds]]></step>
+<step><![CDATA[add chicken until browned, about 10m]]></step>
+<step><![CDATA[add the hawaj and coat the chicken]]></step>
+<step><![CDATA[blend tomatoes, garlic, water in a food processor and add to chicken]]></step>
+<step><![CDATA[add potatoes until it starts simmering, about 4m]]></step>
+<step><![CDATA[add basmati rice, turmeric, fresh chilies, and enough water to cover rice by one inch. Cover and simmer gently for 35m]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>4</serves>
+        <group>
+          <name><![CDATA[Hawaij]]></name>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[cumin seeds]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[coriander seeds]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement>pods</measurement>
+            <name><![CDATA[cardamom]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[peppercorn]]></name>
+            <preparation><![CDATA[black]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[caraway]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement>cm</measurement>
+            <name><![CDATA[turmeric]]></name>
+            <preparation><![CDATA[dried]]></preparation>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Chicken]]></name>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[onion]]></name>
+            <preparation><![CDATA[chopped]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>4</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[oil]]></name>
+            <preparation><![CDATA[olive]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>20</quantity>
+            <measurement>cm</measurement>
+            <name><![CDATA[cinnamon]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>10</quantity>
+            <measurement>pods</measurement>
+            <name><![CDATA[cardamom]]></name>
+            <preparation><![CDATA[bruised]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[chicken]]></name>
+            <preparation><![CDATA[skinned and joint into 8]]></preparation>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Sauce]]></name>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement/>
+            <name><![CDATA[tomatoes]]></name>
+            <preparation><![CDATA[peeled]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>14</quantity>
+            <measurement>cloves</measurement>
+            <name><![CDATA[garlic]]></name>
+            <preparation><![CDATA[peeled]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>350</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[water]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[potatoes]]></name>
+            <preparation><![CDATA[peeled and cut into 2cm slices]]></preparation>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Rice]]></name>
+          <ingredient>
+            <quantity>450</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[rice]]></name>
+            <preparation><![CDATA[basmati]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[turmeric]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>6</quantity>
+            <measurement/>
+            <name><![CDATA[chilies]]></name>
+            <preparation><![CDATA[fresh]]></preparation>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

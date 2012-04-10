@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Dense beetroot and chocolate cake]]></title>
+<description><![CDATA[This is a great way to introduce beetroot to children without them knowing - it's worked on mine!
+
+]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style/>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Cake</tag>
+<tag/>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+<step><![CDATA[Preheat the oven to 180C/350F/Gas4. Place all of the ingredients in the food processor in the order above and whizz until smooth. Place in a greased 20cm cake tin and bake for 45-50 minutes until a skewer inserted comes out clean. Allow to cool, then sprinkle with icing sugar and serve with crème fraîche. ']]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>Makes one medium-sized cake
+</serves>
+        <group>
+          <ingredient>
+            <quantity>125</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[caster sugar]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>medium</measurement>
+            <name><![CDATA[free-range eggs]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>100</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[Greek yoghurt]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>35</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[cocoa powder]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>75</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[soft unsalted butter]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[baking soda]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1/4</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[salt]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>200</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[flour]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[baking powder]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>100</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[strong]]></name>
+            <preparation><![CDATA[black coffee (hot) ]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>150</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[grated raw beetroot]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

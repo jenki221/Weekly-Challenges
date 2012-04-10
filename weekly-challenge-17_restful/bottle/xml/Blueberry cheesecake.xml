@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Blueberry cheesecake]]></title>
+<description><![CDATA[I've used blueberries for this cheesecake, but you could also substitute raspberries, blackcurrants or strawberries.]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style/>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Dessert</tag>
+<tag/>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+<step><![CDATA[Put 200g of the blueberries (use the softer ones) into a pan with the sugar and 175ml water. Slowly bring to the boil to dissolve the sugar, then simmer for 7-8 minutes. Mix the cornflour with the remaining 25ml water and add to the pan, stirring. Simmer, stirring, for 2-3 minutes. Remove from the heat and strain through a fine sieve into a bowl, pushing the berries in the sieve with the back of a spoon to extract as much juice as possible. Leave to cool.]]></step>
+<step><![CDATA[Meanwhile, line a 17-18cm round springform cake tin with greaseproof paper. Crush the biscuits in a food processor until they are the texture of coarse breadcrumbs. (Or smash them in a plastic bag with a rolling pin.) Mix the biscuit crumbs with the melted butter and pack into the cake tin, firming it down with the back of a spoon.]]></step>
+<step><![CDATA[Whip the cream and sugar together until fairly stiff. In another bowl, beat the cream cheese to soften, then fold in the whipped cream with the lemon zest and vanilla extract. Lightly fold through half of the blueberry syrup (not too thoroughly, though, as you want a rippled effect). Spoon the mix on to the biscuit base and place in the fridge for 2-3 hours until firm.]]></step>
+<step><![CDATA[Mix the rest of the blueberries with the remaining blueberry syrup. To take the cheesecake out, run a hot knife around the edge, then release the side of the tin and slide the cheesecake on to a board. Cut into slices and serve each portion topped with a couple of spoonfuls of the blueberry sauce.]]></step>
+</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>Serves 4</serves>
+        <group>
+          <ingredient>
+            <quantity>450</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[blueberries]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>200</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[caster sugar]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>200</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[water]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>20</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[cornflour]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[For The Base]]></name>
+          <ingredient>
+            <quantity>80</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[butter]]></name>
+            <preparation><![CDATA[melted]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>250</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[Digestive Biscuits Or Hobnobs]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[For The Filling]]></name>
+          <ingredient>
+            <quantity>300</quantity>
+            <measurement/>
+            <name><![CDATA[ml double cream]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>100</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[caster sugar]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>500</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[cream cheese]]></name>
+            <preparation><![CDATA[such as Philadelphia]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[Finely grated zest of 1 lemon]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[vanilla extract]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

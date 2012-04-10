@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Eggs, Peppers, Peas and Tofu Thai Curry]]></title>
+<description/>
+<source/>
+<img></img>
+<cuisine>
+<style>Thai</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>With rice</tag>
+<tag/>
+</tags>
+<directions xmlns:php="http://php.net/xsl">&gt;
+<step><![CDATA[Soak tamarind in boiling water for half an hour or so]]></step>
+<step><![CDATA[Make curry paste by putting all ingredients one by one in mortar, or food processor]]></step>
+<step><![CDATA[Deep fry the tofu, drain on paper towels]]></step>
+<step><![CDATA[If you are cooking rice, steam the eggs over it. Otherwise just hard boil normally.]]></step>
+<step><![CDATA[Reduce coconut cream, 5 or 6 mins stirring regularly, then add 3 tbsp curry paste, 7 mins or so.]]></step>
+<step><![CDATA[Add the palm sugar, a few minutes until darkened, and the sieved tamarind water and fish sauce / fermented beans, a few more minutes]]></step>
+<step><![CDATA[In another pan mix a bit of the coconut milk with the oil. When hot fry the peppers in it for 5 mins or so.]]></step>
+<step><![CDATA[Pour the peppers and reduced coconut milk into the cream sauce with the peas, tofu, kaffir lime leaves, and soya sauce. Cook 10 minutes until done.]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>4</serves>
+        <group>
+          <name><![CDATA[Curry Paste]]></name>
+          <ingredient>
+            <quantity>9</quantity>
+            <measurement/>
+            <name><![CDATA[chilies]]></name>
+            <preparation><![CDATA[dried long ones]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>pinch</measurement>
+            <name><![CDATA[salt]]></name>
+            <preparation><![CDATA[coarse]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[galangal]]></name>
+            <preparation><![CDATA[chopped]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[lemongrass]]></name>
+            <preparation><![CDATA[chopped]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[ginger]]></name>
+            <preparation><![CDATA[or wild ginger (grachai)]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[shallot]]></name>
+            <preparation><![CDATA[chopped]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[garlic]]></name>
+            <preparation><![CDATA[chopped]]></preparation>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Reduction]]></name>
+          <ingredient>
+            <quantity>250</quantity>
+            <measurement>mls</measurement>
+            <name><![CDATA[coconut cream]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[sugar]]></name>
+            <preparation><![CDATA[palm]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[fish sauce]]></name>
+            <preparation><![CDATA[or 1 tbsp fermented beans]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>lump</measurement>
+            <name><![CDATA[tamarind pulp]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>120</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[water]]></name>
+            <preparation><![CDATA[boiling]]></preparation>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Curry]]></name>
+          <ingredient>
+            <quantity>500</quantity>
+            <measurement>mls</measurement>
+            <name><![CDATA[coconut milk]]></name>
+            <preparation><![CDATA[or stock or a combination of the two]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[bell peppers]]></name>
+            <preparation><![CDATA[julienne]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement/>
+            <name><![CDATA[kaffir lime leaves]]></name>
+            <preparation><![CDATA[torn]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>500</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[tofu]]></name>
+            <preparation><![CDATA[cut in thumb sized chunks]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement/>
+            <name><![CDATA[eggs]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>200</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[peas]]></name>
+            <preparation><![CDATA[fresh or frozen]]></preparation>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

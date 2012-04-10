@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Insalata Borlotti, sedano e cicoria]]></title>
+<description/>
+<source/>
+<img></img>
+<cuisine>
+<style>Italian</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Salad</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">&gt;
+<step><![CDATA[it's a salad. it's not rocket science. ]]></step>
+<step><![CDATA[If using orange, add to citronette and add the segments]]></step>
+<step><![CDATA[either orange or tuna, not both
+]]></step>
+</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>2</serves>
+        <group>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[chicory]]></name>
+            <preparation><![CDATA[sliced]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>150</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[borlotti]]></name>
+            <preparation><![CDATA[cooked]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement/>
+            <name><![CDATA[celery]]></name>
+            <preparation><![CDATA[sliced]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>4</quantity>
+            <measurement/>
+            <name><![CDATA[basil leaves]]></name>
+            <preparation><![CDATA[chopped]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[spring onions]]></name>
+            <preparation><![CDATA[optional]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[orange]]></name>
+            <preparation><![CDATA[optional]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>can</measurement>
+            <name><![CDATA[tuna]]></name>
+            <preparation><![CDATA[optional broken with a fork]]></preparation>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

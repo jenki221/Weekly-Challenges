@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Gianduia cake]]></title>
+<description><![CDATA[Serves 12]]></description>
+<source/>
+<img/>
+<cuisine>
+<style>Italian</style>
+<region>Piedmont</region>
+<approach/>
+</cuisine>
+<tags>
+<tag>Dessert</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">&gt;
+<step><![CDATA[Beat sugar, hazelnuts in a mortar]]></step>
+<step><![CDATA[Beat eggs, egg yolks, sugar in a bain-marie, then remove and carry on beating for an extra 5 mins]]></step>
+<step><![CDATA[Melt butter, dark chocolate in a bain-marie]]></step>
+<step><![CDATA[Mix the vanilla essence, plain flour, starch, hazelnuts, the beaten eggs, and then the melted chocolate]]></step>
+<step><![CDATA[Grease a round tin and dust it with flower, then pour the cake mix and bake at 180° for 50 mins. Let cool and cut in two slices]]></step>
+<step><![CDATA[Mix Cognac, Maraschino and sprinkle over each of the two cake halves]]></step>
+<step><![CDATA[Melt the chocolate over a bain-marie with the cream and beat it. Off the heat add dark chocolate, whipping cream, honey.]]></step>
+<step><![CDATA[Spread the filling over the top of one of the two halves and place the other on top.]]></step>
+<step><![CDATA[Melt the apricot jelly, sugar and brush over the cake]]></step>
+<step><![CDATA[Melt the chocolate and cover the cake with it]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>12</serves>
+        <group>
+          <name><![CDATA[Cake]]></name>
+          <ingredient>
+            <quantity>30</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[sugar]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>50</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[hazelnuts]]></name>
+            <preparation><![CDATA[peeled]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>6</quantity>
+            <measurement/>
+            <name><![CDATA[eggs]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement/>
+            <name><![CDATA[egg yolks]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>250</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[sugar]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>120</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[butter]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>70</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[chocolate]]></name>
+            <preparation><![CDATA[dark]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[vanilla essence]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>90</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[flour]]></name>
+            <preparation><![CDATA[plain]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>90</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[starch]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[Cognac]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>100</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[Maraschino]]></name>
+            <preparation><![CDATA[or cherry snap]]></preparation>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Filling]]></name>
+          <ingredient>
+            <quantity>130</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[chocolate]]></name>
+            <preparation><![CDATA[dark]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>100</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[whipping cream]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[honey]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[apricot jelly]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>5</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[sugar]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Icing]]></name>
+          <ingredient>
+            <quantity>250</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[chocolate]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

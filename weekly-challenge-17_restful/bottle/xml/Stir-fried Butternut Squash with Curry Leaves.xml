@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Stir-fried Butternut Squash with Curry Leaves]]></title>
+<description/>
+<source/>
+<img></img>
+<cuisine>
+<style>Indian</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>vegetable side</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+<step><![CDATA[Cut the squash in half lengthwise, peel it, and scrape out the seeds. Cut into bite-sized chunks.]]></step>
+<step><![CDATA[Heat the oil in a large wok or frying pan over medium-high. Add ginger, and cook, stirring, for 1 minute. Add chilli, spices and curry leaves and cook for 1 minute. Add the squash, and stir until it is coated with the oil and spices. Season to taste with salt and sugar. Reduce heat to medium. Cover, and cook until squash is tender, about 25 minutes. You want the squash to caramelise slightly but be careful that the spices don't scorch and burn. Place in a serving dish, and squeeze the lime juice over. Sprinkle with sea salt and serve.]]></step>
+</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>4</serves>
+        <group>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[butternut squash]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[oil]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>cm</measurement>
+            <name><![CDATA[ginger]]></name>
+            <preparation><![CDATA[peeled and minced]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[chillies]]></name>
+            <preparation><![CDATA[fresh]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[cumin seeds]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[garam masala]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[black pepper]]></name>
+            <preparation><![CDATA[ground]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>10</quantity>
+            <measurement>leaves</measurement>
+            <name><![CDATA[curry]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1.25</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[salt]]></name>
+            <preparation><![CDATA[or to taste]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1.25</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[sugar]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement/>
+            <name><![CDATA[limes]]></name>
+            <preparation><![CDATA[juiced]]></preparation>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

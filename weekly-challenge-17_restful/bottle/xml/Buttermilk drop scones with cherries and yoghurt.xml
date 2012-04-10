@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Buttermilk drop scones with cherries and yoghurt]]></title>
+<description/>
+<source/>
+<img></img>
+<cuisine>
+<style>English</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Dessert</tag>
+<tag/>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+<step><![CDATA[Pre-heat the oven to 180C/gas mark 5.]]></step>
+<step><![CDATA[To make the dropped scones, sieve the flour and baking powder into a bowl, and then add the sugar. Stir in the golden syrup, eggs and enough of the milk to form a thick smooth batter that just drops off the spoon.]]></step>
+<step><![CDATA[Heat a griddle pan, girdle or non-stick frying pan and rub it with a little butter. Drop spoonfuls of the mixture into the pan and let them cook for 3 minutes until bubbles rise, then turn them over with a palette knife or spatula and cook for another 2-3 minutes. Place them on kitchen paper while you are cooking the rest.]]></step>
+<step><![CDATA[Serve warm with the cherries scattered over and a spoonful of yoghurt or crème fraîche, finished with a drizzle of clear honey.]]></step>
+</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>Serves 4-6</serves>
+        <group>
+          <ingredient>
+            <quantity>400</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[cherries]]></name>
+            <preparation><![CDATA[stoned]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>150-200</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[thick Greek yoghurt]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2-3</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[clear honey for drizzling]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[For The Drop Scones]]></name>
+          <ingredient>
+            <quantity>225</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[self-raising flour]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[baking powder]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>40</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[granulated sugar]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[golden syrup]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[eggs]]></name>
+            <preparation><![CDATA[beaten ]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>250-275</quantity>
+            <measurement/>
+            <name><![CDATA[ml butter milk]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[Butter for greasing and to serve]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

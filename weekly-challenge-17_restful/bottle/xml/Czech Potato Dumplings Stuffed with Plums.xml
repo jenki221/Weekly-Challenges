@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Czech Potato Dumplings Stuffed with Plums]]></title>
+<description/>
+<source/>
+<img></img>
+<cuisine>
+<style>Czech</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Europe / Eastern</tag>
+<tag/>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+<step><![CDATA[Place the potatoes in a pot and cover with cold water. Cover and bring to a boil, then boil for 30-45 minutes or until the potatoes are tender when pierced with a knife tip. Drain the potatoes and leave to cool to room temperature.]]></step>
+<step><![CDATA[Peel the potatoes and grate finely with a grater or through a potato ricer. Combine the grated potatoes with the flour, egg and pinch of salt. Work through the dough with your hands and let rest it for 5 minutes.]]></step>
+<step><![CDATA[Wash the plums and dry them thoroughly. Take a small piece of the dough and press it between your palms to flatten it. Wrap each plum it the dough to a thickness of about 1 cm. Be careful to ensure that the dough stays smooth without any tears or scratches. Continue until you have wrapped all the plums.]]></step>
+<step><![CDATA[Bring a large quantity of water to boil in a saucepan, then carefully slide the dumplings in the boiling water ensuring that they are all submerged. Cook them for approximately 10 minutes or until they all float to the surface. Gently remove the dumplings with a slotted spoon and divide them between 4 plates.]]></step>
+<step><![CDATA[Combine the ground poppyseeds with the icing sugar. Melt the butter in a saucepan. Sprinkle the dumplings generously with the poppy seed-sugar mixture and drizzle them with melted butter. Serve warm and don't forget that there are pits in the plums!]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves/>
+        <group>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>kg</measurement>
+            <name><![CDATA[plums]]></name>
+            <preparation><![CDATA[fresh]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>750</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[potatoes]]></name>
+            <preparation><![CDATA[unpeeled]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>250</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[flour]]></name>
+            <preparation><![CDATA[semolina]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[egg]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>pinch</measurement>
+            <name><![CDATA[salt]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[For Garnishing]]></name>
+          <ingredient>
+            <quantity>40</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[butter]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>40</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[poppy seeds]]></name>
+            <preparation><![CDATA[ground finely in a mortar and pestle]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>40</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[icing sugar]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

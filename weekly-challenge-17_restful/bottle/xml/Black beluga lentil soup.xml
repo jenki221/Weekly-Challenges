@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Black beluga lentil soup]]></title>
+<description><![CDATA[Black beluga lentils are similar to Puy lentils but they are grown in the cool climate of America's Northern plains. Some lentils tend to go murky when cooked but these beauties keep their remarkable satin-black colour.]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style/>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Dal</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+        <step><![CDATA[Gently cook the onion, ginger, garlic, chilli and spices in the butter for 3-4 minutes, add the vegetable stock and lentils, season, bring to the boil and simmer for 40 minutes or until the lentils are soft. Blend about one-third of the soup in a liquidiser until smooth and return to the pan. Adjust the seasoning if necessary and add the coriander. Serve with half a spoonful of yoghurt on top.]]></step>
+      </directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>Mark HixServes 4-6</serves>
+        <group>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[onion]]></name>
+            <preparation><![CDATA[peeled and finely chopped]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[A small piece of root ginger weighing about 30g]]></name>
+            <preparation><![CDATA[scraped and finely chopped]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement/>
+            <name><![CDATA[cloves of garlic]]></name>
+            <preparation><![CDATA[peeled and finely chopped]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>small</measurement>
+            <name><![CDATA[chilli]]></name>
+            <preparation><![CDATA[chopped]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[cumin seeds]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[fenugreek]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[black mustard seeds]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[fennel seeds]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[A couple of good knobs of butter]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1.5</quantity>
+            <measurement/>
+            <name><![CDATA[litres vegetable stock]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>100</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[black beluga lentils]]></name>
+            <preparation><![CDATA[soaked overnight]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[Salt and freshly ground black pepper]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1-2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[chopped coriander]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[natural yoghurt (optional)]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

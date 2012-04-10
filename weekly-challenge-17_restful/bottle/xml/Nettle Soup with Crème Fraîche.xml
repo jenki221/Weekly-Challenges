@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Nettle Soup with Crème Fraîche]]></title>
+<description><![CDATA[Nettles are available very cheaply at some farmer's markets, or better still, bring a carrier bag and a pair of scissors along on your next rural walk and snip the small tops off of some nettle plants as you go.]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style/>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Soup</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+<step><![CDATA[Rinse the nettles well under running water in a colander. Shake the colander a few times and then place the nettles in a large pot on medium heat. Toss the nettles with tongs occasionally over the heat until they have wilted. Remove the nettles and set aside.]]></step>
+<step><![CDATA[Wipe out the pot with some kitchen towel until it is dry and then return it to a gentle heat and warm up the olive oil. Add the shallot and sauté until soft, approximately 4-5 minutes. Add the garlic and sauté for another 30 seconds, then add the potato and the stock and bring to a gentle simmer. Cook until the potatoes are tender, about 8-10 minutes. Add the nettles and cook just until the soup returns to a simmer.]]></step>
+<step><![CDATA[In a blender or food processor, puree the soup in small batches until smooth. Return the soup to the pot and stir in the crème fraîche and nutmeg and season to taste with the salt and pepper. Gently warm the soup through and serve.]]></step>
+</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves/>
+        <group>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement/>
+            <name><![CDATA[plastic carrier bag of nettle leaves]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[oil]]></name>
+            <preparation><![CDATA[olive]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[shallots]]></name>
+            <preparation><![CDATA[minced]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>cloves</measurement>
+            <name><![CDATA[garlic]]></name>
+            <preparation><![CDATA[minced]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[potato]]></name>
+            <preparation><![CDATA[medium]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>750</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[stock]]></name>
+            <preparation><![CDATA[chicken]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>100</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[creme fraiche]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement>pinch</measurement>
+            <name><![CDATA[nutmeg]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

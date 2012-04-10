@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Baked aubergines with walnuts]]></title>
+<description/>
+<source/>
+<img></img>
+<cuisine>
+<style>British</style>
+<region>modern</region>
+<approach/>
+</cuisine>
+<tags>
+<tag>side</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">&gt;
+<step><![CDATA[Sprinkle the aubergines with salt and leave to drain for 30m, then wash and pat dry]]></step>
+<step><![CDATA[dry roast cumin seeds, coriander seeds medium high for 1m]]></step>
+<step><![CDATA[add to the dried chilies in a mortar, and grind until fine]]></step>
+<step><![CDATA[Brush the aubergines with the olive oil and the spice mixture]]></step>
+<step><![CDATA[Put under a grill 240° for 12m]]></step>
+<step><![CDATA[mx together the yogurt, garlic, walnuts, coriander leaves, and drizzle over the warm aubergines]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>4</serves>
+        <group>
+          <name><![CDATA[For the Aubergines]]></name>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[aubergines]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[cumin seeds]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[coriander seeds]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>0</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[dried chilies]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>4</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[olive oil]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[For the Garnish]]></name>
+          <ingredient>
+            <quantity>5</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[yogurt]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>cloves</measurement>
+            <name><![CDATA[garlic]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>30</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[walnuts]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[coriander leaves]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

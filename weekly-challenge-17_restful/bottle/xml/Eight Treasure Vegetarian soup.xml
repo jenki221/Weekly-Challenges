@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Eight Treasure Vegetarian soup]]></title>
+<description><![CDATA[Babo sucai tang]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style>Chinese</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Savoring China</tag>
+<tag/>
+</tags>
+<directions xmlns:php="http://php.net/xsl">&gt;
+<step><![CDATA[heat the stock]]></step>
+<step><![CDATA[put all ingredients except for corn starch, spring onion and fresh tofu in a pot, and pour hot stock over them]]></step>
+<step><![CDATA[cook 15 m]]></step>
+<step><![CDATA[add salt + pepper, starch, spring onion, tofu and cook ]]></step>
+</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>4</serves>
+        <group>
+          <ingredient>
+            <quantity>280</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[winter melon]]></name>
+            <preparation><![CDATA[peeled cubed (weight is peeled)]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>45</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[carrots]]></name>
+            <preparation><![CDATA[cubed]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>40</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[bamboo shots]]></name>
+            <preparation><![CDATA[cubed]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>45</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[peanuts]]></name>
+            <preparation><![CDATA[raw]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>60</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[zucchini]]></name>
+            <preparation><![CDATA[cubed]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>75</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[mushrooms]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>10</quantity>
+            <measurement/>
+            <name><![CDATA[dried lily flowers]]></name>
+            <preparation><![CDATA[chopped]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>10</quantity>
+            <measurement>cm</measurement>
+            <name><![CDATA[dried bean curd stick]]></name>
+            <preparation><![CDATA[soaked in hot water 2m then coarsely chopped]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[ginger]]></name>
+            <preparation><![CDATA[peeled]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[soy sauce]]></name>
+            <preparation><![CDATA[light]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1.5</quantity>
+            <measurement>l</measurement>
+            <name><![CDATA[stock]]></name>
+            <preparation><![CDATA[or water]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>100</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[tofu]]></name>
+            <preparation><![CDATA[cubed]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement/>
+            <name><![CDATA[spring onions]]></name>
+            <preparation><![CDATA[whole]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[cornstarch]]></name>
+            <preparation><![CDATA[dissolvedin 1 tbsp water]]></preparation>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

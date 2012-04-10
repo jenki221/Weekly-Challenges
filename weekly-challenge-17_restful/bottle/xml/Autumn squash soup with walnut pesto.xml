@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Autumn squash soup with walnut pesto]]></title>
+<description><![CDATA[There is an abundance of squashes and pumpkins on the market at the moment; the deep orange-fleshed varieties offer the best flavour and colour.]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style>European</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Soup</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+<step><![CDATA[For the pesto: put the walnuts, basil, garlic and salt in a liquidiser and coarsely blend. Add the cheese and blend again briefly, then transfer to a bowl.]]></step>
+<step><![CDATA[Gently cook the leek and onion in the butter in a thick-bottomed saucepan until soft. Add the squash and vegetable stock, bring to the boil, season with salt and pepper then simmer for 20 minutes.]]></step>
+<step><![CDATA[Blend in a liquidiser until smooth, then strain through a fine-meshed sieve. Re-heat the soup and adjust the consistency with a little vegetable stock or water if necessary and re-season with salt and pepper. Serve with a spoonful of the pesto on top.]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>Serves 4</serves>
+        <group>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[A good knob of butter]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>small</measurement>
+            <name><![CDATA[leek]]></name>
+            <preparation><![CDATA[roughly chopped and washed]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>small</measurement>
+            <name><![CDATA[onion]]></name>
+            <preparation><![CDATA[peeled and roughly chopped]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>kg</measurement>
+            <name><![CDATA[ripe]]></name>
+            <preparation><![CDATA[orange-fleshed squash or pumpkin]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1.5</quantity>
+            <measurement/>
+            <name><![CDATA[litres vegetable stock]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[Salt and freshly ground black pepper]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[For the pesto40g good-quality walnuts]]></name>
+            <preparation><![CDATA[lightly toasted]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>50</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[fresh basil leaves and any soft stalks]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[clove of garlic]]></name>
+            <preparation><![CDATA[peeled and crushed]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[A good pinch of sea salt]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>4</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[freshly grated Parmesan]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[freshly grated mature Pecorino (or use 6tbsp Parmesan)]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>100-120</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[extra virgin olive oil (preferably a sweeter variety)]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

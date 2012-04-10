@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Baozis or pancake fillings]]></title>
+<description><![CDATA[Jiaozi]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style>Chinese</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Snacks</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">&gt;
+<step><![CDATA[process meat]]></step>
+<step><![CDATA[add ginger, oil, soy sauce]]></step>
+<step><![CDATA[add water slowly]]></step>
+<step><![CDATA[add rest but do not blend too much]]></step>
+<step><![CDATA[
+marinate pork in soy sauce]]></step>
+<step><![CDATA[steam sausages 5 m then chopped]]></step>
+<step><![CDATA[dissolve starch in stock]]></step>
+<step><![CDATA[stir fry pork, celery ginger garlic, 1m]]></step>
+<step><![CDATA[add sausage, bamboo shots, mushrooms, hoisin sauce, dark soy sauce, spring onion, cornstarch mixture, 20 sec ]]></step>
+<step><![CDATA[move to bowl and add coriander]]></step>
+<step><![CDATA[
+dice pork]]></step>
+<step><![CDATA[cook with other ingredients over medium heat for 1 m, then let stand]]></step>
+<step><![CDATA[
+make baozis: line steamer with cabbage leaves, steam 7 m]]></step>
+<step><![CDATA[make pancakes]]></step>
+<step><![CDATA[serve with soy sauce]]></step>
+</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>20</serves>
+        <group>
+          <name><![CDATA[Filling 1]]></name>
+          <ingredient>
+            <quantity>220</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[pork]]></name>
+            <preparation><![CDATA[lean]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1.5</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[ginger]]></name>
+            <preparation><![CDATA[peeled]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1.5</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[oil]]></name>
+            <preparation><![CDATA[groundnut]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[soy sauce]]></name>
+            <preparation><![CDATA[light]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>125</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[water]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>60</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[cabbage]]></name>
+            <preparation><![CDATA[napa]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[spring onions]]></name>
+            <preparation><![CDATA[chopped fine]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[oil]]></name>
+            <preparation><![CDATA[sesame]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>20</quantity>
+            <measurement/>
+            <name><![CDATA[baozi dough]]></name>
+            <preparation><![CDATA[balls (separate recipe)]]></preparation>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Filling 2]]></name>
+          <ingredient>
+            <quantity>280</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[pork]]></name>
+            <preparation><![CDATA[fat]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[soy sauce]]></name>
+            <preparation><![CDATA[light]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement/>
+            <name><![CDATA[sausage]]></name>
+            <preparation><![CDATA[chinese]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[oil]]></name>
+            <preparation><![CDATA[groundnut]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement/>
+            <name><![CDATA[celery]]></name>
+            <preparation><![CDATA[chopped finely]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[ginger]]></name>
+            <preparation><![CDATA[peeled]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[garlic cloves]]></name>
+            <preparation><![CDATA[chopped finely]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>75</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[bamboo shots]]></name>
+            <preparation><![CDATA[chopped finely]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>80</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[mushrooms]]></name>
+            <preparation><![CDATA[chopped finely]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[hoisin sauce]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[soy sauce]]></name>
+            <preparation><![CDATA[dark]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement/>
+            <name><![CDATA[spring onions]]></name>
+            <preparation><![CDATA[whole]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[cornstarch]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>125</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[stock]]></name>
+            <preparation><![CDATA[or water]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1.5</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[coriander]]></name>
+            <preparation><![CDATA[chopped finely]]></preparation>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Filling 3 - Cha shao bao (spongy)]]></name>
+          <ingredient>
+            <quantity>315</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[red roast pork]]></name>
+            <preparation><![CDATA[separate recipe]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1.5</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[hoisin sauce]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[cornstarch]]></name>
+            <preparation><![CDATA[dissolved in 3 tbsp water]]></preparation>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

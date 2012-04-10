@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Gnocchi alla romana]]></title>
+<description/>
+<source/>
+<img></img>
+<cuisine>
+<style>Italian</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Main</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">&gt;
+<step><![CDATA[Put the milk, butter, nutmeg in a large pot, season with salt, and bring to boil on low fire]]></step>
+<step><![CDATA[Slowly add the semolina, stirring vigorously to avoid lumps, then cook slowly for 10m]]></step>
+<step><![CDATA[Away from the fire mix in the egg yolks, parmesan cheese, butter. Spread mixture over greaseproof paper, put another sheet on top, and gently roll the mixture to 1 cm thickness]]></step>
+<step><![CDATA[Cool in the fridge for 30m]]></step>
+<step><![CDATA[Grease a baking dish, use a glass to cut disks from the mixture, place the disks in the baking dish slightly overlapping.]]></step>
+<step><![CDATA[Scatter the fontina cheese, parmesan over the gnocchi and and bake at 200° for 20m]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>2</serves>
+        <group>
+          <ingredient>
+            <quantity>800</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[milk]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>20</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[butter]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>pinch</measurement>
+            <name><![CDATA[nutmeg]]></name>
+            <preparation><![CDATA[grated]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>200</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[semolina]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[egg yolks]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>30</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[cheese]]></name>
+            <preparation><![CDATA[parmesan]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>20</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[butter]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>160</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[cheese]]></name>
+            <preparation><![CDATA[fontina]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>100</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[parmesan]]></name>
+            <preparation><![CDATA[grated]]></preparation>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Cabbage and Tofu soup]]></title>
+<description><![CDATA[Baicai Doufu Tang]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style>Chinese</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Soup</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">&gt;
+<step><![CDATA[boil stock, ginger, pickled cabbage, cabbage stems 8m]]></step>
+<step><![CDATA[add cabbage leaves, tofu 1m]]></step>
+<step><![CDATA[salt and pepper]]></step>
+</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves/>
+        <group>
+          <ingredient>
+            <quantity>1.5</quantity>
+            <measurement>l</measurement>
+            <name><![CDATA[stock]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>125</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[cabbage]]></name>
+            <preparation><![CDATA[napa]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>60</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[pickled cabbage]]></name>
+            <preparation><![CDATA[chopped]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1.5</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[ginger]]></name>
+            <preparation><![CDATA[peeled]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>330</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[tofu]]></name>
+            <preparation><![CDATA[soft]]></preparation>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

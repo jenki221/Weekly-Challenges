@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Pastiera]]></title>
+<description/>
+<source/>
+<img/>
+<cuisine>
+<style>Italian</style>
+<region>Neaples</region>
+<approach/>
+</cuisine>
+<tags>
+<tag>Dessert</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">&gt;
+<step><![CDATA[soak wheat berries for 8 days, changing water daily]]></step>
+<step><![CDATA[Drain and cook for 15 mins, barely covered in water, then drain on low heat]]></step>
+<step><![CDATA[Boil wheat in milk, cinnamon, lemon zest, pinch of salt on low heat until all liquid is absorbed, 2h]]></step>
+<step><![CDATA[Discard the lemon zest and spread on a plate to cool]]></step>
+<step><![CDATA[Mix ricotta, sugar, cinnamon powder, lemon zest, orange blossom water, candied peels in a bowl]]></step>
+<step><![CDATA[Add the egg yolks one at the time, and add the wheat]]></step>
+<step><![CDATA[Beat the egg whites to snowy peaks and add]]></step>
+<step><![CDATA[Sieve the flour, dry yeast, then make a well]]></step>
+<step><![CDATA[Add butter, egg yolks, sugar one at the time and mix, with cold hands as quickly as possible. Leave to raise for 30m]]></step>
+<step><![CDATA[Roll out in two discs - one to line a 24cm baking tray, which you'll then fill with the filling, and from the other obtain 7 1cm strips which you'll criss cross on top]]></step>
+<step><![CDATA[Bake 1.5 hours at 180°]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>6</serves>
+        <group>
+          <name><![CDATA[Filling]]></name>
+          <ingredient>
+            <quantity>220</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[wheat berries]]></name>
+            <preparation><![CDATA[or kamut]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement>l</measurement>
+            <name><![CDATA[milk]]></name>
+            <preparation><![CDATA[boiling]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[cinnamon powder]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement/>
+            <name><![CDATA[lemon zest]]></name>
+            <preparation><![CDATA[while]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>500</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[ricotta]]></name>
+            <preparation><![CDATA[sieved]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>200</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[sugar]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[cinnamon powder]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement/>
+            <name><![CDATA[lemon zest]]></name>
+            <preparation><![CDATA[grated]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>100</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[orange blossom water]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>80</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[candied peels]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>6</quantity>
+            <measurement/>
+            <name><![CDATA[egg yolks]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>6</quantity>
+            <measurement/>
+            <name><![CDATA[egg whites]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Shortcrust pastry]]></name>
+          <ingredient>
+            <quantity>300</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[flour]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>8</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[yeast]]></name>
+            <preparation><![CDATA[dry]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>150</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[butter]]></name>
+            <preparation><![CDATA[room temperature]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>4</quantity>
+            <measurement/>
+            <name><![CDATA[egg yolks]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>150</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[sugar]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

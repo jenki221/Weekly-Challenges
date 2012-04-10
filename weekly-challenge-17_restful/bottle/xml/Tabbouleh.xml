@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Tabbouleh]]></title>
+<description/>
+<source/>
+<img></img>
+<cuisine>
+<style>Middle East</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Salad</tag>
+<tag/>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+        <step><![CDATA[Mix lemon juice and bulgur and leage in fridge while you prepare the remaining ingredients. Add all the other ingredients in order.]]></step>
+      </directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves/>
+        <group>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[lemon juice]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[bulgur]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>4</quantity>
+            <measurement>bunches</measurement>
+            <name><![CDATA[parsley]]></name>
+            <preparation><![CDATA[chopped finely]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>4</quantity>
+            <measurement/>
+            <name><![CDATA[tomatoes]]></name>
+            <preparation><![CDATA[peeled]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[onion]]></name>
+            <preparation><![CDATA[onion]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[allspice]]></name>
+            <preparation><![CDATA[crushed]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[sumac]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[cinnamon]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[fresh chillies]]></name>
+            <preparation><![CDATA[deseeded]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>20</quantity>
+            <measurement>cl</measurement>
+            <name><![CDATA[oil]]></name>
+            <preparation><![CDATA[oilve]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[mint]]></name>
+            <preparation><![CDATA[ripped]]></preparation>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

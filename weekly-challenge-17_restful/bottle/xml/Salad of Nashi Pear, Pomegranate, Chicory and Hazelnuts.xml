@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Salad of Nashi Pear, Pomegranate, Chicory and Hazelnuts]]></title>
+<description/>
+<source/>
+<img></img>
+<cuisine>
+<style/>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Salad</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+<step><![CDATA[Place the sake or plum wine in a small saucepan and simmer gently over medium head until reduced by half. Combine with the lemon juice and zest, vinegar, and olive oil and whisk to combine.]]></step>
+<step><![CDATA[Meanwhile, place the hazelnuts in a dry frying pan over low-medium heat and toast, shaking the pan occasionally for 4-5 minutes or until fragrant and nutty smelling.]]></step>
+</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>2</serves>
+        <group>
+          <ingredient>
+            <quantity>250</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[sweet sake]]></name>
+            <preparation><![CDATA[or plum wine]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[nashi pear]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[pomegranate]]></name>
+            <preparation><![CDATA[kernels]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[lemon]]></name>
+            <preparation><![CDATA[zested]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[vinegar]]></name>
+            <preparation><![CDATA[rice]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>6</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[oil]]></name>
+            <preparation><![CDATA[olive]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>handful</measurement>
+            <name><![CDATA[lamb's lettuce]]></name>
+            <preparation><![CDATA[or baby spinach]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[chicory]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>handful</measurement>
+            <name><![CDATA[hazelnuts]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Pad Thai]]></title>
+<description><![CDATA[the secret to a good pad thai is the sauce which needs to be thick and slightly tart.I'd suggest making double the amount of the tamarind sauce so that you have enough left over in your fridge to make a second batch of pad thai when you are in a hurry. It also makes a great dipping sauce for any kind of vegetables, dumplings or spring rolls.]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style>Thai</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Noodles</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+<step><![CDATA[To make the tamarind sauce, place the tamarind pulp in a small bowl and pour over the boiling water. Set aside for 20 minutes, then rub the pulp between your fingers until the texture of the water is thick - similar to ketchup.]]></step>
+<step><![CDATA[Pour the tamarind and water through a fine mesh strainer with a bowl underneath to catch the liquid. Press down with a teaspoon on the tamarind fibres to extract as much flavour and liquid as possible, then discard the tamarind pulp.]]></step>
+<step><![CDATA[Combine the tamarind water, palm sugar, fish sauce and chili paste in a small, heavy based saucepan on medium heat. Bring to a gentle simmer, stirring occasionally until all the palm sugar has dissolved. Continue to simmer for a further 3-5 minutes or until the sauce has thickened. Remove from the heat and set aside.]]></step>
+<step><![CDATA[If using dried rice noodles, soak them in warm water for approximately 15 minutes or until pliable but not overly soft. Ideally with the texture of a rubber band. Drain and set aside.]]></step>
+<step><![CDATA[Heat the oil in a wok over medium-high heat. Add the garlic, ginger and tofu and stir-fry for 2 minutes until the tofu is crispy and lightly browned.]]></step>
+<step><![CDATA[Add the noodles and a ladleful of the tamarind sauce. Stir the noodles vigorously around in your wok to keep them from sticking together. Add a splash of water if necessary.]]></step>
+<step><![CDATA[When the noodles are tender, push them to one side and add the eggs. Allow them to set slightly and then mix them through the noodles. Make a well in the centre of the noodles and add the prawns, bean sprouts, radish and peanuts. Stir vigourously for 1-2 minutes until the prawns have turned pink and are cooked through. Add a little more tamarind sauce if the noodles are too dry.]]></step>
+<step><![CDATA[Turn off the heat and add the spring onion and coriander. Toss well to combine.]]></step>
+<step><![CDATA[Serve the noodles in large wide bowls with the lime wedges.]]></step>
+</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves/>
+        <group>
+          <ingredient>
+            <quantity>150</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[noodles]]></name>
+            <preparation><![CDATA[rice]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>4</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[oil]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>cloves</measurement>
+            <name><![CDATA[garlic]]></name>
+            <preparation><![CDATA[minced]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement>cm</measurement>
+            <name><![CDATA[ginger]]></name>
+            <preparation><![CDATA[peeled and finely grated]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>250</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[tofu]]></name>
+            <preparation><![CDATA[cut into bite-sized pieces]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[eggs]]></name>
+            <preparation><![CDATA[lightly beaten]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>handful</measurement>
+            <name><![CDATA[prawns]]></name>
+            <preparation><![CDATA[peeled and deveined]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>handful</measurement>
+            <name><![CDATA[bean sprouts]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>25</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[Chinese pickled white radish]]></name>
+            <preparation><![CDATA[minced]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>handful</measurement>
+            <name><![CDATA[peanuts]]></name>
+            <preparation><![CDATA[roasted]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[spring onions]]></name>
+            <preparation><![CDATA[finely sliced]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>handful</measurement>
+            <name><![CDATA[coriander]]></name>
+            <preparation><![CDATA[coarsely chopped]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[Wedges of lime for serving]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Tamarind Sauce]]></name>
+          <ingredient>
+            <quantity>60</quantity>
+            <measurement/>
+            <name><![CDATA[grams tamarind pulp]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>185</quantity>
+            <measurement/>
+            <name><![CDATA[mls boiling water]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>6</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[palm sugar]]></name>
+            <preparation><![CDATA[finely grated or chopped]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>4</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[fish sauce]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2-3</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[chili paste or chili sauce]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

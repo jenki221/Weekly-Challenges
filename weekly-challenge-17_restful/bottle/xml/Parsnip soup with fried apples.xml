@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Parsnip soup with fried apples]]></title>
+<description><![CDATA[The sweetness of the fried apples combines wonderfully with the spicy parsnips in this easy soup. Serves four.]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style/>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Soup</tag>
+<tag/>
+</tags>
+<directions xmlns:php="http://php.net/xsl">&gt;
+<step><![CDATA[dry roast cumin and mustard seeds, 1 min, then grind and combine with  the turmeric and garam masala.]]></step>
+<step><![CDATA[Melt 25g butter and sauté onionsm about 10 minutes. Then add the ginger for one more  minute.]]></step>
+<step><![CDATA[Tip in the parsnips, sauté for another 5 minutes, then stir in the spices, ensuring everything is well coated, 1/2 mins]]></step>
+<step><![CDATA[Pour over the stock, bring to a simmer, partially cover and cook until the parsnips are tender, about 20 minutes]]></step>
+<step><![CDATA[Blitz in a food processor or with a stick blender until smooth]]></step>
+<step><![CDATA[return to the pan and season with salt and pepper. If it's too thick, thin with a little more stock or water. Keep warm while you prepare the apples.]]></step>
+<step><![CDATA[Melt the knob of butter in a frying pan over a medium-high heat until it starts to sizzle. Add the apple slices and sauté until they take on some colour. Ladle soup into warmed bowls and serve with apple slices on top.]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves/>
+        <group>
+          <name><![CDATA[Dry spices]]></name>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[cumin seeds]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[mustard seeds]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>pinch</measurement>
+            <name><![CDATA[turmeric]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[garam masala]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Soup]]></name>
+          <ingredient>
+            <quantity>25</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[butter]]></name>
+            <preparation><![CDATA[plus 1 large knob extra]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>medium</measurement>
+            <name><![CDATA[onion]]></name>
+            <preparation><![CDATA[peeled and finely chopped]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[ginger]]></name>
+            <preparation><![CDATA[freshly grated ]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>500</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[parsnips]]></name>
+            <preparation><![CDATA[peeled and cubed]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>800</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[stock]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Garnish]]></name>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>knob</measurement>
+            <name><![CDATA[butter]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>small</measurement>
+            <name><![CDATA[apple]]></name>
+            <preparation><![CDATA[peeled]]></preparation>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

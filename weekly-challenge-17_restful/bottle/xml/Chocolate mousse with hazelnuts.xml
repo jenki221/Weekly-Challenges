@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Chocolate mousse with hazelnuts]]></title>
+<description><![CDATA[In between Eataly and a lunch at our hotel we squeezed in a visit to Guido Gobino's chocolate shop. Well, it's a bit more than a chocolate shop - more a temple to the stuff. Chocolate makers can create flavours for the sake of it but here the fillings and flavours are well thought out. One of the most impressive of the chocolates at Guido's was a one-kilo slab of chocolate with lightly roasted whole hazelnuts in it.
+
+]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style/>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Desserts</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+<step><![CDATA[Put the chocolate in a heat-proof bowl over a pan of simmering water, stirring every so often until melted. Make sure you don't get any water near the chocolate. Remove from the heat and beat the butter into the chocolate with a whisk, or spoon until smooth.]]></step>
+<step><![CDATA[In a really clean bowl - preferably washed in boiling water to remove any grease, and dried - whisk the egg whites until frothy but not stiff, using a mixer or an electric whisk on a medium high speed. Add half the sugar to the egg white and continue whisking on a low setting until the egg whites are stiff. Add the rest of the sugar and continue beating until the egg whites    stiffen up even more, then mix in the egg yolks with a metal spoon.]]></step>
+<step><![CDATA[Carefully stir half the egg mixture into the chocolate mixture - a whisk helps - then stir the hazelnuts and the rest of the egg mixture with a large spoon until well mixed in. Pour into a large serving dish and leave to set for a couple of hours, or overnight. Serve in glasses, coffee cups or just a large bowl.]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>Serves 4</serves>
+        <group>
+          <ingredient>
+            <quantity>250</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[good quality dark chocolate]]></name>
+            <preparation><![CDATA[broken into small pieces ]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>80</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[shelled hazelnuts]]></name>
+            <preparation><![CDATA[lightly roasted]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>50</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[unsalted butter]]></name>
+            <preparation><![CDATA[softened ]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>9</quantity>
+            <measurement/>
+            <name><![CDATA[very fresh egg whites]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>6</quantity>
+            <measurement/>
+            <name><![CDATA[egg yolks]]></name>
+            <preparation><![CDATA[beaten ]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>125</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[caster sugar]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

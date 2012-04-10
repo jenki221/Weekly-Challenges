@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Polenta and Hazelnut Cake with Sorbet]]></title>
+<description/>
+<source/>
+<img/>
+<cuisine>
+<style>Modern British</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Dessert</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">&gt;
+<step><![CDATA[Boil water, honey, sugar until dissolved, then cool]]></step>
+<step><![CDATA[Blend fruit, alcohol with syrup, then freeze in air tight container]]></step>
+<step><![CDATA[Whisk together eggs, sugar]]></step>
+<step><![CDATA[Melt together olive oil, butter, then add to the egg and sugar]]></step>
+<step><![CDATA[Grind the hazelnuts in a food processor until fine then add to the mixture]]></step>
+<step><![CDATA[Add baking powder, flour, polenta to the mixture]]></step>
+<step><![CDATA[Add vanilla pods to the mixture]]></step>
+<step><![CDATA[Put mixture in oiled 23 cm and bake 175° for 25 m]]></step>
+<step><![CDATA[Let cool in the tin, then dust with icing sugar and serve with sorbet]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>10</serves>
+        <group>
+          <name><![CDATA[Sorbet]]></name>
+          <ingredient>
+            <quantity>180</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[water]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>60</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[honey]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>240</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[sugar]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>350</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[fruit]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[alcohol]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Cake]]></name>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement/>
+            <name><![CDATA[eggs]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>170</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[sugar]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>125</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[oil]]></name>
+            <preparation><![CDATA[olive]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>100</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[butter]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>200</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[hazelnuts]]></name>
+            <preparation><![CDATA[peeled and toasted]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[baking powder]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>50</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[flour]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>50</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[polenta]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[vanilla pods]]></name>
+            <preparation><![CDATA[seeds extracted]]></preparation>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

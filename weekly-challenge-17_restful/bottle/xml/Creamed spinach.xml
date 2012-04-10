@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Creamed spinach]]></title>
+<description><![CDATA[Creamed spinach is a delicious and comforting accompaniment to a piece of simply grilled meat.]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style/>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>vegetable side</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+<step><![CDATA[Bring a pan of salted water to the boil and cook the spinach for 2-3 minutes until tender then drain in a colander, refresh under a cold tap and squeeze out any excess water.]]></step>
+<step><![CDATA[Blend in a food processor - as smooth or as coarse as you wish. You can get the spinach to this stage in advance, then finish it at the last minute.]]></step>
+<step><![CDATA[Simmer the cream in a saucepan until it's reduced by about half, then stir in the spinach, season and cook on a low heat for a minute or so, stirring every so often until the spinach is hot. Serve immediately.]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>Serves 2</serves>
+        <group>
+          <ingredient>
+            <quantity>500</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[spinach]]></name>
+            <preparation><![CDATA[thick stalks removed and washed]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>150</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[double cream]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[Salt and freshly ground black pepper]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

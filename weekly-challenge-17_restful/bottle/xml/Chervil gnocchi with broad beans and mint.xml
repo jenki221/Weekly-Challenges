@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Chervil gnocchi with broad beans and mint]]></title>
+<description/>
+<source/>
+<img></img>
+<cuisine>
+<style>Italian</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Pasta</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+<step><![CDATA[Preheat the oven to 200C/400F/Gas6. Put a small pan of water on to boil, ready to test the gnocchi. Bake the potatoes, unpeeled and whole, on a bed of rock salt for about an hour. While still hot, scoop out the insides from the skin and press through a sieve. Set aside to cool. When the potato feels warm, rather than hot, mix in the chervil, egg, flour, nutmeg and salt. Knead into a fairly firm dough, adding more flour if necessary. To test the consistency, pull off a small piece and blanch in the boiling water for 4-5 minutes until it floats. If it breaks up, add a little more flour to stiffen the dough. Roll the dough into two sausage shapes, about 2cm/3/4-inch in diameter. Roll through flour and cut into 2.5cm/1-inch pieces that look a bit like little pillows. Pinch each one lightly in the middle. Set aside in the refrigerator.]]></step>
+<step><![CDATA[To make the broad bean and mint sauce, blanch the beans in a saucepan of lightly salted boiling water for four minutes and refresh under cold running water. Drain, then squeeze all the bright green beans out of their grey-green skin.]]></step>
+<step><![CDATA[Bring a large saucepan of lightly salted cold water to the boil. Heat the olive oil in a large heavy-based saucepan and fry the chilli and garlic over a low heat for 3-4 minutes. Throw in the skinless broad beans and mix well. Turn up the heat and pour in the wine, stirring vigorously. Let the wine evaporate before adding the butter and lemon juice and rind. As soon as the butter has melted, pour the stock into the sauce, whisking well to blend and emulsify. Season to taste.]]></step>
+<step><![CDATA[Drop the gnocchi into the boiling water and cook for abut 2-4 minutes until they float to the surface. Drain and stir into the sauce, giving the gnocchi a chance to absorb the flavours. Check the seasoning and adjust if necessary.]]></step>
+<step><![CDATA[Serve immediately with Parmesan, a sprinkling of mint and a drizzle of extra-virgin olive oil.]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>Serves 4</serves>
+        <group>
+          <name><![CDATA[For The Gnocchi]]></name>
+          <ingredient>
+            <quantity>450</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[large Maris Piper or Russet potatoes]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>100</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[rock salt for baking]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[finely chopped chervil]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[free-range egg]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[plain flour or Tipo '00' pasta flour]]></name>
+            <preparation><![CDATA[which I always use as it's softer and finer and gives a lighter end result]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1/2</quantity>
+            <measurement/>
+            <name><![CDATA[nutmeg]]></name>
+            <preparation><![CDATA[grated]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>large</measurement>
+            <name><![CDATA[pinch salt]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[For The Broad Bean And Mint Sauce]]></name>
+          <ingredient>
+            <quantity>350</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[broad beans (weight after podding)]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[olive oil]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[red chilli]]></name>
+            <preparation><![CDATA[deseeded and finely chopped]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[garlic cloves]]></name>
+            <preparation><![CDATA[pressed]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>125</quantity>
+            <measurement/>
+            <name><![CDATA[ml/4fl oz white wine]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>100</quantity>
+            <measurement/>
+            <name><![CDATA[g/31/2oz unsalted butter]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[The juice and finely grated rind of 1/2 unwaxed lemon]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>100</quantity>
+            <measurement/>
+            <name><![CDATA[ml/31/2fl oz hot vegetable stock]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[Salt and pepper]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[To serve]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>50</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[/1\U00be oz Parmigiano Reggiano]]></name>
+            <preparation><![CDATA[shaved]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[handful fresh mint]]></name>
+            <preparation><![CDATA[leaves only]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[Extra virgin olive oil]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Cambodian Smoky Aubergine and Crab Salad]]></title>
+<description><![CDATA[The basis of nearly every Cambodian dish is a 'kroeung' which is a kind of herbal paste made from smashing some peppercorns, herbs, and shallots in a mortar and pestle until it forms a paste. The combination of smoky aubergine, sweet crab meat and tangy lime and herbs makes for a really beautiful and refreshing salad that can be served with glass noodles or scooped into gem lettuce leaves and eaten with your hands.
+
+The only things to remember are to get your aubergines nice and charred to give them a good smoky flavour and to use the best quality crab meat that you can get your hands on. I like to use unpasteurised handpicked white crab meat from Portland Shellfish.]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style>Cambodian</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Cold</tag>
+<tag/>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+<step><![CDATA[Make the kroeung by placing the salt, peppercorns and sugar in a mortar and pestle. Pound the ingredients until the peppercorns are a coarse powder, then add the remaining ingredients and pound until it becomes a smooth paste.]]></step>
+<step><![CDATA[Roast the aubergine on a barbecue, in the flame of a gas hob or under your oven grill until the skin is charred and wrinkled all over. Place the aubergine in a colander to cool slightly, then carefully peel off the skin. Place the aubergine flesh in a colander for 10 minutes to allow any excess water to drain away, then mash the aubergine with a fork to a coarse puree.]]></step>
+<step><![CDATA[Add the crab meat and the kroeung to the aubergine puree and fluff it through with a fork until well mixed. Add the fish sauce, lime juice and herbs and toss well.]]></step>
+</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>4</serves>
+        <group>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[aubergine]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>250</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[crab]]></name>
+            <preparation><![CDATA[handpicked white crab meat]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>3-4</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[fish sauce]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[lime juice]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>handful</measurement>
+            <name><![CDATA[mint]]></name>
+            <preparation><![CDATA[vietnamese]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement/>
+            <name><![CDATA[lime leaves]]></name>
+            <preparation><![CDATA[central stem removed and cut into fine slivers]]></preparation>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Kroeung]]></name>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[salt]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[black peppercorns]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[sugar]]></name>
+            <preparation><![CDATA[palm]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>cloves</measurement>
+            <name><![CDATA[garlic]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[shallots]]></name>
+            <preparation><![CDATA[asian]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement>handful</measurement>
+            <name><![CDATA[coriander leaves]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

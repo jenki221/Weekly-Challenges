@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="_assets/recipe.xsl"?>
+
+<recipe lang="en-uk">
+	<title><![CDATA[Ajo Blanco]]></title>
+	<directions>
+		<step><![CDATA[Grind the almonds in a food processor as fine as possible.]]></step>
+		<step><![CDATA[Add 5 tbsp of the water and run again until you get a smooth paste]]></step>
+		<step><![CDATA[Squeeze water off the bread and add, along with the garlic.÷]]></step>
+		<step><![CDATA[Add the olive oil, and then the rest of the water slowly until you have a soup the consistency of single cream.]]></step>
+		<step><![CDATA[Remove from food processor, add vinegar and season with salt and pepper]]></step>
+		<step><![CDATA[Chill for at least an hour]]></step>
+		<step><![CDATA[Share the grapes among the bowls when you serve]]></step>
+	</directions>
+	<ingredients>
+		<serves>4</serves>
+		<group>
+			<ingredient>
+		        <quantity>225</quantity>
+		        <measurement>g</measurement>
+		        <name><![CDATA[almonds, whole]]></name>
+		        <preparation><![CDATA[blanched]]></preparation>
+			</ingredient>
+			<ingredient>
+			    <quantity>750</quantity>
+			    <measurement>ml</measurement>
+			    <name><![CDATA[water]]></name>
+			    <preparation><![CDATA[]]></preparation>
+			</ingredient>
+			<ingredient>
+			    <quantity>75</quantity>
+			    <measurement>g</measurement>
+			    <name><![CDATA[bread, white]]></name>
+			    <preparation><![CDATA[stale, crustless, soaked in water]]></preparation>
+			</ingredient>
+			<ingredient>
+			    <quantity>3</quantity>
+			    <measurement>cloves</measurement>
+			    <name><![CDATA[garlic]]></name>
+			    <preparation><![CDATA[crushed to a paste with salt]]></preparation>
+			</ingredient>
+			<ingredient>
+			    <quantity>3</quantity>
+			    <measurement>tbsp</measurement>
+			    <name><![CDATA[oil, olive]]></name>
+			    <preparation><![CDATA[]]></preparation>
+			</ingredient>
+			<ingredient>
+			    <quantity>3</quantity>
+			    <measurement>tbsp</measurement>
+			    <name><![CDATA[vinegar, sweet]]></name>
+			    <preparation><![CDATA[]]></preparation>
+			</ingredient>
+			<ingredient>
+			    <quantity>200</quantity>
+			    <measurement>g</measurement>
+			    <name><![CDATA[grapes, white]]></name>
+			    <preparation><![CDATA[]]></preparation>
+			</ingredient>
+		</group>
+	</ingredients>
+	<description><![CDATA[
+	The classic chilled soup from Malaga. Sometimes served with raisins or melon instead of grapes
+	]]></description>
+	<source><![CDATA[Moro 1]]></source>
+	<cusine>
+		<style_main>Spain</style_main>
+		<region>Andalusia</region>
+	</cusine>
+	<tags>
+		<tag>soup</tag>
+		<tag>snack</tag>
+		<tag>cold</tag>
+	</tags>
+</recipe>

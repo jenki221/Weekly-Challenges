@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Chicory and orange salad]]></title>
+<description/>
+<source/>
+<img></img>
+<cuisine>
+<style/>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Salad</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+<step><![CDATA[heat the oil in an ovenproof frying pan over a medium heat, add the chicory, cut-side down, and and add half of the orange juice and zest. Cook for 2-3 minutes, or until softened, then transfer to the oven for 4-5 minutes, or until tender. ]]></step>
+<step><![CDATA[6. Heat a chargrill pan over a medium heat, add the braised chicory and grill for 1-2 minutes, or golden-brown grill marks appear. (Retain the cooking juices in the frying pan.)]]></step>
+<step><![CDATA[7. Return the chicory to the frying pan, add the remaining orange zest and another tablespoon of orange juice and fry for a further 1-2 minutes, stirring well to coat the chicory. ]]></step>
+<step><![CDATA[8. Place the orange segments and the watercress into a bowl and mix well to combine.]]></step>
+<step><![CDATA[9. In a separate bowl, whisk together the mustard, one tablespoon of the reserved orange juice, the white wine vinegar and the olive oil until well combined. Season, to taste, with salt and freshly ground black pepper.]]></step>
+</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>4</serves>
+        <group>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[oil]]></name>
+            <preparation><![CDATA[olive]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>6</quantity>
+            <measurement/>
+            <name><![CDATA[heads chicory]]></name>
+            <preparation><![CDATA[cut in half lengthways]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[orange]]></name>
+            <preparation><![CDATA[zest and juice only]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[orange]]></name>
+            <preparation><![CDATA[juice only]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[oranges]]></name>
+            <preparation><![CDATA[peeled and segmented]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>180</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[watercress]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[mustard]]></name>
+            <preparation><![CDATA[wholegrain]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[vinegar]]></name>
+            <preparation><![CDATA[white vine]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[oil]]></name>
+            <preparation><![CDATA[oilve]]></preparation>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

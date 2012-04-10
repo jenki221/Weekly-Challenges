@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Cider gravy]]></title>
+<description><![CDATA[Everyone seems to be obsessed with pouring wine into their gravy and sauces, but cider works equally as well and is a brilliant match with goose, pork and turkey.
+
+There is absolutely no point in messing around at the last minute trying to make gravy. It's much better to make it ahead to ensure that you get a really good flavour.
+
+If you want to de-glaze your roasting pan, just use a little bit more cider and scrape the bottom, then add it to this delicious gravy.
+
+]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style/>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Gravy</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+<step><![CDATA[Preheat the oven to 200C/gas mark 6. Roast the bones and the vegetables for about 15-20 minutes until lightly coloured, giving them a good stir every so often. When they are a nice golden-brown colour, add the tomato purée, then the flour and stir well with the bones and vegetables in the roasting pan. Return the pan to the oven for another 10 minutes or so.]]></step>
+<step><![CDATA[Remove the roasting tray from the oven and add the cider, a little of the stock and give it a good stir over a low flame. This will remove any residue from the tray and begin the thickening process. Transfer everything into a large saucepan, cover with the rest of the beef or chicken stock (and some cold water if the stock doesn't cover the bones) and add the peppercorns, thyme and bay leaf.]]></step>
+<step><![CDATA[Bring to the boil, skim off any scum that forms and simmer very gently for about 1 hours. The gravy may need topping up with water to keep the ingredients covered. Skim occasionally, as required.]]></step>
+<step><![CDATA[Strain the gravy through a fine-meshed sieve and remove any fat with a ladle. Check its strength and reduce it if necessary. If the gravy is not thick enough, dilute some cornflour in a little cold water and stir in.]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>Serves 8-10</serves>
+        <group>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>kg</measurement>
+            <name><![CDATA[chicken wings]]></name>
+            <preparation><![CDATA[chopped into small pieces]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>300</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[cider]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>medium</measurement>
+            <name><![CDATA[onions]]></name>
+            <preparation><![CDATA[peeled]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement>medium</measurement>
+            <name><![CDATA[carrots]]></name>
+            <preparation><![CDATA[peeled and roughly chopped]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[A couple of sticks of celery]]></name>
+            <preparation><![CDATA[roughly chopped]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>large</measurement>
+            <name><![CDATA[leek]]></name>
+            <preparation><![CDATA[trimmed]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>3-4</quantity>
+            <measurement/>
+            <name><![CDATA[cloves of garlic]]></name>
+            <preparation><![CDATA[peeled and chopped]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[tomato pur\U00e9e]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[plain flour]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[litres chicken or beef stock (a good cube will do)]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>10</quantity>
+            <measurement/>
+            <name><![CDATA[black peppercorns]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[A few sprigs of thyme]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[bay leaf]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

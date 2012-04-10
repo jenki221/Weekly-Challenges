@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Corn Tortillas]]></title>
+<description/>
+<source/>
+<img></img>
+<cuisine>
+<style>Mexican</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>With tortillas</tag>
+<tag/>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+<step><![CDATA[Place the masa harina, flour and salt in a medium bowl and stir in the hot water until a dough forms. Knead the dough briefly adding a little more water if necessary until the dough has the consistency of modelling clay. Cover with cling film and let rest for 15 minutes.]]></step>
+<step><![CDATA[Check the dough by taking a small piece and rolling it into a ball. Flatten the ball against your palm. If it feels stiff and the edges of the dough crack (which it probably will) begin to knead in some additional hot tap water a few spoonfuls at a time until the dough feels soft. Retest it against your palm until the dough no longer cracks when flattened.]]></step>
+<step><![CDATA[Heat a dry frying pan over medium-high heat until hot but not smoking.]]></step>
+<step><![CDATA[Divide dough into 12 pieces and roll each piece into a ball shape. Cut small squares out of a sheet of parchment paper approximately the same size as your tortilla press and use them to line both sides of your press.]]></step>
+<step><![CDATA[Place one ball of dough in center of press and pat it gently a few times to flatten it. Close the tortilla press and flatten the dough into a disc. Open the press and carefully peel the parchment away from the top of the tortilla. Slide your hand under the bottom sheet of parchment and pick up the parchment with the tortilla on top.]]></step>
+<step><![CDATA[With the parchment still sticking to the tortilla, place the tortilla dough side down into the hot pan. Leave it for 15-20 seconds, then peel the parchment off the top of the tortilla and use it to reline your tortilla press.]]></step>
+<step><![CDATA[Cook the tortilla until the sides begin to lift away from the pan and the underside is blistered and charred in spots. Flip and cook for approximately 1-2 minutes per side. As tortillas are cooked, wrap in a clean dish towel to keep warm.]]></step>
+</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves/>
+        <group>
+          <ingredient>
+            <quantity>235</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[masa harina]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[flour]]></name>
+            <preparation><![CDATA[plain]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[salt]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>315</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[water]]></name>
+            <preparation><![CDATA[hot tap]]></preparation>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

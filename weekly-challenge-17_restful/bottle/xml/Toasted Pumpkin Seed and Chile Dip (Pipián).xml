@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Toasted Pumpkin Seed and Chile Dip (Pipián)]]></title>
+<description><![CDATA[Toasted over a traditional 'comal' or in a dry frying pan until they pop, the seeds are then ground up and used to add an earthy, nutty flavour.
+
+Unlike many Mexican dishes which are unapologetically time consuming, this is fairly straightforward and quick to make. In Susana's kitchen we had this on tostadas but it would make a great dip for vegetables, bread or used as a sandwich spread with grilled halloumi. This would make a tasty and interesting change from the jars of hummous that many of us keep in our fridges.]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style>Mexican</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Dip</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">&gt;
+<step><![CDATA[dry roast pumpkin seeds on medium heat until puffed up and golden, about 5m]]></step>
+<step><![CDATA[peel tomatoes]]></step>
+<step><![CDATA[puré with jalapeños chilies until smooth]]></step>
+<step><![CDATA[remove from stove, discard garlic, chop coarsely and set aside]]></step>
+<step><![CDATA[sauté onion in olive oil on medium heat until translucent, about 5m]]></step>
+<step><![CDATA[add garlic for 1m]]></step>
+<step><![CDATA[add tomato and chilies pureé and simmer until thickened, about 6-8m]]></step>
+<step><![CDATA[season with salt and pepper and let cool]]></step>
+<step><![CDATA[blend pumpkin seeds until powder]]></step>
+<step><![CDATA[mix with tomato puré, water if needed and coriander leaves]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves/>
+        <group>
+          <ingredient>
+            <quantity>175</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[pumpkin seeds]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>350</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[tomatoes]]></name>
+            <preparation><![CDATA[plum]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[chilies]]></name>
+            <preparation><![CDATA[jalapeno]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[oil]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement/>
+            <name><![CDATA[onions]]></name>
+            <preparation><![CDATA[finely chopped]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement>cloves</measurement>
+            <name><![CDATA[garlic]]></name>
+            <preparation><![CDATA[finely chopped]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>handful</measurement>
+            <name><![CDATA[coriander leaves]]></name>
+            <preparation><![CDATA[finely chopped ]]></preparation>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

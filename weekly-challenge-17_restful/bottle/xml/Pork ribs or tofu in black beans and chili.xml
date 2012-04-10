@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Pork ribs / tofu in black beans and chili]]></title>
+<description><![CDATA[Do shi pau gu]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style>chinese</style>
+<region>cantonese</region>
+<approach/>
+</cuisine>
+<tags>
+<tag>With rice</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">&gt;
+<step><![CDATA[Marinate pork in shallow dish in fridge up to 4 hours]]></step>
+<step><![CDATA[braise in oven, turning occasionally, 1.5 hr at 160C, covered]]></step>
+<step><![CDATA[uncover, raise heat to 190C, another 20m]]></step>
+<step><![CDATA[skim fat and serve]]></step>
+<step><![CDATA[
+optional: to make a thicker sauce, pour juices into hot wok, add half cornstarch mixture, bring to boil, cook 2m adding remaining half as required]]></step>
+</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>4</serves>
+        <group>
+          <name><![CDATA[Pork marinade]]></name>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>kg</measurement>
+            <name><![CDATA[pork]]></name>
+            <preparation><![CDATA[belly on bone or meaty ribs]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>90</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[spring onions]]></name>
+            <preparation><![CDATA[whole]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[ginger]]></name>
+            <preparation><![CDATA[peeled]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1.5</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[garlic cloves]]></name>
+            <preparation><![CDATA[chopped]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[fresh chili]]></name>
+            <preparation><![CDATA[deseeded]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[black bean sauce]]></name>
+            <preparation><![CDATA[or 45g salted black beans]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[sugar]]></name>
+            <preparation><![CDATA[brown]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>180</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[water]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>80</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[rice wine]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>60</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[soy sauce]]></name>
+            <preparation><![CDATA[light]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[coriander leaves]]></name>
+            <preparation><![CDATA[chopped]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[cornstarch]]></name>
+            <preparation><![CDATA[dissolved in 1.5 tbsp water (optional)]]></preparation>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

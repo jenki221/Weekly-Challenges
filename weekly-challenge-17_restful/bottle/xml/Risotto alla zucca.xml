@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Risotto alla zucca]]></title>
+<description/>
+<source/>
+<img></img>
+<cuisine>
+<style>Italian</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Rice</tag>
+<tag/>
+</tags>
+<directions xmlns:php="http://php.net/xsl">&gt;
+<step>
+<u>Acid butter</u><![CDATA[: take butter out of fridge a couple of ours before hand. Coarsely chop onion, and reduce in the liquids at very low fire until halved. Discard onion, mix 2 tsp of mixture into butter until creamy]]></step>
+<step>
+<u>Stock</u><![CDATA[: stick the cloves into an onion, add to stock water with 1 celery stick and 2 carrots and salt. Boil on medium fire until flavoured]]></step>
+<step>
+<u>Risotto</u><![CDATA[: Sauté chopped onions 5 mins, then add chili 2 mins, then add leek and pumpkin, 3 mins]]></step>
+<step><![CDATA[Optional: you can add sausage, broken with a fork: or pancetta; or potato, diced]]></step>
+<step><![CDATA[add rosemary then rice, stir fry a minute or two]]></step>
+<step><![CDATA[add wine, sweat]]></step>
+<step><![CDATA[start cooking risotto as per normal, adding a ladleful of hot stock at the time and mixing it in. Cook 20-25 mins until creamy but still firm.]]></step>
+<step>
+<u>Mantecazione</u><![CDATA[ remove from from fire, add a tbsp of acid butter and mix in vigoursly to fluff it up. Cover with lid and stand 3-4 mins before serving]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>2</serves>
+        <group>
+          <ingredient>
+            <quantity>200</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[rice]]></name>
+            <preparation><![CDATA[carnaroli]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[pumpkin]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[onions]]></name>
+            <preparation><![CDATA[white]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[rosemary]]></name>
+            <preparation><![CDATA[chopped]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[chilies]]></name>
+            <preparation><![CDATA[fresh]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>900</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[stock]]></name>
+            <preparation><![CDATA[veg]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[wine]]></name>
+            <preparation><![CDATA[white]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[oil]]></name>
+            <preparation><![CDATA[olive]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[leeks]]></name>
+            <preparation><![CDATA[sliced thin]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[sausage]]></name>
+            <preparation><![CDATA[(optional)]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[potatoes]]></name>
+            <preparation><![CDATA[(optional) cubed]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>80</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[pancetta]]></name>
+            <preparation><![CDATA[(optional) diced]]></preparation>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Acid butter for fluffing up]]></name>
+          <ingredient>
+            <quantity>30</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[butter]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[vinegar]]></name>
+            <preparation><![CDATA[wine]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>cup</measurement>
+            <name><![CDATA[wine]]></name>
+            <preparation><![CDATA[white]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>0.25</quantity>
+            <measurement/>
+            <name><![CDATA[onions]]></name>
+            <preparation><![CDATA[white]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement>cup</measurement>
+            <name><![CDATA[chestnuts]]></name>
+            <preparation><![CDATA[optional]]></preparation>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

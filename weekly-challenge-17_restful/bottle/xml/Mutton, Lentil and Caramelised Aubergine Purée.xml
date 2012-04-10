@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Mutton, Lentil and Caramelised Aubergine Purée]]></title>
+<description><![CDATA[Known in Iran as 'halim-e bademjan', this thick and delicious purée is hugely popular during the winter months when its rich, nutty and slightly sweet flavour is especially welcomed and the 'halim' vendors in cities like Esfahan are thronged with queues of patrons purchasing large buckets of halim to take home and eat with basil leaves and flatbreads.Topped with cinnamon, fried onions, toasted walnuts and mint oil - halim-e bademjan is a perfect example of the Persian gift for combining sweet, nutty and salty flavours.
+
+Note: If you cannot find kashk and do not wish to substitute it - simply leave it out. Your halim will be less salty or rich but it will still be delicious.]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style>Iranian</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>one dish meal</tag>
+<tag/>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+<step><![CDATA[Place the lamb in a pot with the bay leaves salt, pepper and water. Cover the pot with a lid and bring to a boil then reduce the heat and simmer gently for an hour.]]></step>
+<step><![CDATA[Add the lentils to the lamb and remove the lid. Continue to simmer uncovered for a further hour or until the lentils are very soft and the meat falls apart easily when tugged apart with your fingers. Add a splash of water as necessary during the cooking time to avoid the mixture becoming dry, but aim to have only a small amount of liquid left in the pot at the end of the cooking time.]]></step>
+<step><![CDATA[Remove the lamb from the liquid and allow to cool just until handleable. Continue to simmer the lentils gently for a further 10 minutes until all the liquid is gone and the lentils are just moist. With your fingers, remove the lamb from the bone and shred it into small pieces.]]></step>
+<step><![CDATA[While the lamb and lentil mixture is simmering, prepare the aubergines by placing them in a colander and scattering over the salt. Leave the aubergines to sit for 20 minutes to draw out any bitter juices, then rinse the aubergines well under cold running water and pat them dry with kitchen towels.]]></step>
+<step><![CDATA[Warm the oil in a wide, heavy saute pan or wok and add the onion. Saute the onion for 4-5 minutes then add the aubergines and fry them in batches in the oil for 15 minutes until they are very tender and well browned. It is essential that the aubergines be a nice caramel colour to give a good flavour to the halim.]]></step>
+<step><![CDATA[Place the aubergine-onion mixture in a large bowl and mash them with a potato masher or the bottom of a drinking glass until they have the texture of a coarse puree. Add the lamb and lentil mixture and continue to mash until they are fairly smooth.]]></step>
+<step><![CDATA[Return the mixture to the pot and place over low heat and cook, stirring frequently until the puree is very thick. Gently warm the kashk on a low heat and pour half of it into the puree, folding it through until well mixed. Taste and season with salt and pepper to taste, then remove from the heat and allow to cool slightly.]]></step>
+<step><![CDATA[While the halim is cooling, prepare the garnishes.]]></step>
+<step><![CDATA[For the onion garnish, warm the vegetable oil in a medium-sized frying pan over medium-high heat. Add the onions and saute for 10-15 minutes or until the onions are well browned and caramelised.]]></step>
+<step><![CDATA[Make the mint oil by warming the oil gently in a small pot. Remove from from the heat and stir in the mint.]]></step>
+<step><![CDATA[Place the walnuts in a dry frying pan over low-medium heat and toast them, shaking the pan frequently until they are golden and have a nice nutty scent.]]></step>
+<step><![CDATA[Scrape the halim into a wide, attractive serving dish and drizzle with the kashk and mint oil to make an attractive pattern. Scatter the walnuts and fried onions over top and garnish generously with the ground cinnamon.]]></step>
+<step><![CDATA[Serve with lots of fresh, warm flatbreads for dipping.]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>8-10</serves>
+        <group>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[bay leaves]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>700</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[water]]></name>
+            <preparation><![CDATA[cold]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>kg</measurement>
+            <name><![CDATA[lamb shoulder]]></name>
+            <preparation><![CDATA[on the bone]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>200</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[lentils]]></name>
+            <preparation><![CDATA[brown]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[aubergines]]></name>
+            <preparation><![CDATA[peeled and cut into large chunks]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[salt]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>150</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[oil]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[onion]]></name>
+            <preparation><![CDATA[coarsely chopped]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>350</quantity>
+            <measurement>mls</measurement>
+            <name><![CDATA[kashk]]></name>
+            <preparation><![CDATA[or a combination of 100 grams of feta cheese and 250 mls sour cream mashed together with a fork]]></preparation>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Garnishes]]></name>
+          <ingredient>
+            <quantity>6</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[vegetable oil]]></name>
+            <preparation><![CDATA[+ 1 tsp dried mint]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[onions]]></name>
+            <preparation><![CDATA[finely chopped + 6 tbsp vegetable oil]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>4</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[walnuts]]></name>
+            <preparation><![CDATA[coarsely chopped]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[freshly ground cinnamon]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Aromatic Baharat Spiced Chicken Soup]]></title>
+<description><![CDATA[To really appreciate this soup allow it to soak into the flatbreads for a few minutes before eating.
+
+For this recipe a beautiful Arabian spice mixture called baharat is made by grinding up spices and rosepetals and then adding them to a soup.
+
+]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style>Middle East</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Soup</tag>
+<tag/>
+</tags>
+<directions xmlns:php="http://php.net/xsl">&gt;
+<step><![CDATA[dry roast and grind black peppercorns, cardamom, cumin seeds, coriander seeds, cloves, cinnamon medium low]]></step>
+<step><![CDATA[add nutmeg, ground ginger, dried rose petals]]></step>
+<step><![CDATA[sauté garlic, onions, potatoes, squash medium for 5m]]></step>
+<step><![CDATA[add spice mix for 4m]]></step>
+<step><![CDATA[add and simmer chicken stock, chicken legs, lemon until tender, about 45m]]></step>
+<step><![CDATA[pour over bread slices]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>4</serves>
+        <group>
+          <ingredient>
+            <quantity>6</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[oil]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>8</quantity>
+            <measurement>cloves</measurement>
+            <name><![CDATA[garlic]]></name>
+            <preparation><![CDATA[peeled but left whole]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[onions]]></name>
+            <preparation><![CDATA[large peeled and quartered]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[potatoes]]></name>
+            <preparation><![CDATA[large peeled and cut into large chunks]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement/>
+            <name><![CDATA[butternut squash]]></name>
+            <preparation><![CDATA[peeled and but into large chunks]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>l</measurement>
+            <name><![CDATA[stock]]></name>
+            <preparation><![CDATA[chicken]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>4</quantity>
+            <measurement/>
+            <name><![CDATA[chicken legs]]></name>
+            <preparation><![CDATA[or thighs or a mixture of both]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[lemon]]></name>
+            <preparation><![CDATA[cut into quarters]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[flatbred]]></name>
+            <preparation><![CDATA[spongy flatbread like Turkish pide]]></preparation>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Baharat (An Iraqi Spice Mixture)]]></name>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[black peppercorns]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[cardamom pods]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[cumin seeds]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[coriander seeds]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement/>
+            <name><![CDATA[cloves]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement>cm</measurement>
+            <name><![CDATA[cinnamon]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[whole cloves]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[chillies]]></name>
+            <preparation><![CDATA[dried]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[dried rose petals]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[a few shavings of nutmeg]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[ground ginger]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

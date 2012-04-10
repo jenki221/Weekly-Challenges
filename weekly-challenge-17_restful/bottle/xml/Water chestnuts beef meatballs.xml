@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Water chestnuts beef meatballs]]></title>
+<description/>
+<source/>
+<img></img>
+<cuisine>
+<style>Chinese</style>
+<region>Guilin</region>
+<approach/>
+</cuisine>
+<tags>
+<tag>Savoring China</tag>
+<tag/>
+</tags>
+<directions xmlns:php="http://php.net/xsl">&gt;
+<step><![CDATA[process all the mixture ingredients]]></step>
+<step><![CDATA[put cornstarch in bowl, roll meatballs in it, tap off excess]]></step>
+<step><![CDATA[press balls into disks]]></step>
+<step><![CDATA[fry in 6mm oil, 2.5 m per side]]></step>
+<step><![CDATA[sprinkle pepper and serve with chilli sauce]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>16</serves>
+        <group>
+          <name><![CDATA[Mixture]]></name>
+          <ingredient>
+            <quantity>220</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[beef]]></name>
+            <preparation><![CDATA[lean]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>60</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[pork]]></name>
+            <preparation><![CDATA[fat]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[water]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[ginger]]></name>
+            <preparation><![CDATA[peeled]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[garlic-chilli sauce]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[soy sauce]]></name>
+            <preparation><![CDATA[light]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement>to taste</measurement>
+            <name><![CDATA[salt]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>90</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[water chestnuts]]></name>
+            <preparation><![CDATA[chopped finely]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>20</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[spring onions]]></name>
+            <preparation><![CDATA[white only]]></preparation>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Meatballs]]></name>
+          <ingredient>
+            <quantity>45</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[cornstarch]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement>to taste</measurement>
+            <name><![CDATA[white pepper]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>cup</measurement>
+            <name><![CDATA[groundnut oil]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[chilli sauce]]></name>
+            <preparation><![CDATA[light]]></preparation>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

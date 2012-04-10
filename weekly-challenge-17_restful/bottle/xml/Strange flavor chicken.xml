@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Strange flavor chicken]]></title>
+<description><![CDATA[GuI QW JI]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style>chinese</style>
+<region>sichuan</region>
+<approach/>
+</cuisine>
+<tags>
+<tag>Savoring China</tag>
+<tag/>
+</tags>
+<directions xmlns:php="http://php.net/xsl">&gt;
+<step><![CDATA[steam chicken 25 m]]></step>
+<step><![CDATA[menwhile, beat together all sauce ingredients in a bowl]]></step>
+<step><![CDATA[coll chicken for 5 m, then brush with soy sauce, and cool another 20 m uncivered]]></step>
+<step><![CDATA[deep fry chicken 2m, then cool to room temperature]]></step>
+<step><![CDATA[rip / cut chicken flesh + skin, pile on plate, pour sauce on top]]></step>
+</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>4</serves>
+        <group>
+          <name><![CDATA[Sauce]]></name>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>tbsp</measurement>
+            <name><![CDATA[spring onions]]></name>
+            <preparation><![CDATA[whole]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>tbsp</measurement>
+            <name><![CDATA[ginger]]></name>
+            <preparation><![CDATA[peeled]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tbsp</measurement>
+            <name><![CDATA[garlic cloves]]></name>
+            <preparation><![CDATA[chopped]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tbsp</measurement>
+            <name><![CDATA[sesame paste]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2.5</quantity>
+            <measurement>tbsp</measurement>
+            <name><![CDATA[soy sauce]]></name>
+            <preparation><![CDATA[light]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>tbsp</measurement>
+            <name><![CDATA[water]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1.5</quantity>
+            <measurement>tbsp</measurement>
+            <name><![CDATA[oil]]></name>
+            <preparation><![CDATA[sesame]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tbsp</measurement>
+            <name><![CDATA[vinegar]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tbsp</measurement>
+            <name><![CDATA[oil]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[chili oil]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2.5</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[sugar]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[sichuan pepper]]></name>
+            <preparation><![CDATA[ground]]></preparation>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[chicken]]></name>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[chicken legs]]></name>
+            <preparation><![CDATA[whole]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tbsp</measurement>
+            <name><![CDATA[soy sauce]]></name>
+            <preparation><![CDATA[light]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>cup</measurement>
+            <name><![CDATA[oil]]></name>
+            <preparation><![CDATA[frying]]></preparation>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

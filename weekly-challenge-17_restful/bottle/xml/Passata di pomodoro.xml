@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Passata di pomodoro]]></title>
+<description/>
+<source/>
+<img></img>
+<cuisine>
+<style>Italian</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Basics</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">&gt;
+<step><![CDATA[sautè the onions at medium high temperature until well wilted]]></step>
+<step><![CDATA[add the tomatoes and cook for a minute or so]]></step>
+<step><![CDATA[add the peeled tomatoes, pour some water in the tin to wash it and add the tomatoey water to the pot too]]></step>
+<step><![CDATA[add all the other ingredients, and cook on medium fire for 40m / 1 hour .]]></step>
+<step><![CDATA[pass through a food mill]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves/>
+        <group>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>kg</measurement>
+            <name><![CDATA[tomatoes]]></name>
+            <preparation><![CDATA[quartered]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>large</measurement>
+            <name><![CDATA[onions]]></name>
+            <preparation><![CDATA[sliced coarsely]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>tins</measurement>
+            <name><![CDATA[peeled tomatoes]]></name>
+            <preparation><![CDATA[broken up with a fork]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement>a few</measurement>
+            <name><![CDATA[basil leaves]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>pinch</measurement>
+            <name><![CDATA[sugar]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[salt]]></name>
+            <preparation><![CDATA[coarse]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[olive oil]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>pinch</measurement>
+            <name><![CDATA[stock cube / marmite]]></name>
+            <preparation><![CDATA[(optional)]]></preparation>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

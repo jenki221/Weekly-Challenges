@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Salty Caramel Brownie]]></title>
+<description><![CDATA[Rich and oozing with caramel]]></description>
+<source/>
+<img/>
+<cuisine>
+<style>American</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Dessert</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">&gt;
+<step><![CDATA[Mix sugar, sugar syrup, milk, coarse salt in a bowl.]]></step>
+<step><![CDATA[Melt the butter, then add the sugar and milk mixture. Keep stirring constantly on high heat until the caramel is thick and light brown.]]></step>
+<step><![CDATA[Off the heat carefully add the double cream to the caramel]]></step>
+<step><![CDATA[Line a baking pan with buttered foil, and pour the caramel in. Let cool until until firm enough to cut. Put in the fridge if not hard enough, about  3-4 hr]]></step>
+<step><![CDATA[Put the dark chocolate, butter in a bowl and put the bowl over a pot with boiling water. Melt until smooth]]></step>
+<step><![CDATA[Beat together sugar, eggs, egg yolks in a bowl until thick]]></step>
+<step><![CDATA[Add the butter and chocolate mixture ]]></step>
+<step><![CDATA[Add the flour, pinch of salt, and vanilla seeds and beat until well mixed and solid flour, vanilla pod]]></step>
+<step><![CDATA[Cut the solid caramel into 8 cubes. Split the cake mixture into 8 ramekins, and wedge a caramel cube in the middle of each ]]></step>
+<step><![CDATA[Bake for 14-16m at 180°. Let cool for 4 mins before tipping on a plate and sprinkle icing sugar over the brownies. ]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>8</serves>
+        <group>
+          <name><![CDATA[Caramel]]></name>
+          <ingredient>
+            <quantity>200</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[sugar]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>250</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[sugar syrup]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>250</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[milk]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>tbsp</measurement>
+            <name><![CDATA[salt]]></name>
+            <preparation><![CDATA[coarse]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>200</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[butter]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>200</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[cream]]></name>
+            <preparation><![CDATA[double]]></preparation>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Cakes]]></name>
+          <ingredient>
+            <quantity>175</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[chocolate]]></name>
+            <preparation><![CDATA[dark]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>175</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[butter]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>100</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[sugar]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement/>
+            <name><![CDATA[eggs]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement/>
+            <name><![CDATA[egg yolks]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>75</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[flour]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[vanilla pod]]></name>
+            <preparation><![CDATA[cut lengthwsie and seeds scraped]]></preparation>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

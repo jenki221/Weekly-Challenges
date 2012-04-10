@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Coconut cranberry snowballs]]></title>
+<description><![CDATA[My gran used to make a version of these when I was a kid but without the cranberries]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style/>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Desserts</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+<step><![CDATA[Preheat the oven to 180C/gas mark 4 and fill a 12-hole muffin tin with a dozen large muffin cases.]]></step>
+<step><![CDATA[Cream the butter and sugar together so that it becomes pale and fluffy, beat in the eggs one at a time so that they are incorporated. Sift the flour and baking powder together and add this a third at a time to the batter, follow this with the vanilla extract, chocolate, cranberries and coconut. Place in the centre of the oven and bake for about 20 minutes so that they are springy to the touch and a skewer inserted into the centre comes out clean. Place on a rack and leave to cool.]]></step>
+<step><![CDATA[To make the frosting, put all the ingredients into a heatproof bowl over a pan of simmering water, whisk with an electric whisk so that soft peaks begin to form as you lift the whisk; this usually takes around four minutes. Use this to ice the cakes very generously, making sure you work quickly, forming swirls and peaks with a palette knife; sprinkle with coconut. Leave to set.]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>Makes 12</serves>
+        <group>
+          <ingredient>
+            <quantity>120</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[butter]]></name>
+            <preparation><![CDATA[softened]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>120</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[caster sugar]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>large</measurement>
+            <name><![CDATA[eggs]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>120</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[self-raising flour]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[baking powder]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[vanilla extract]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>150</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[white Belgian chocolate]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>60</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[desiccated coconut]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>30</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[cranberries]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[Quick meringue frosting]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>360</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[golden caster sugar]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>large</measurement>
+            <name><![CDATA[egg whites]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>4</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[hot water]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[Pinch of cream of tartar]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>40</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[desiccated coconut to decorate]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

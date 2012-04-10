@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Turkish Braised Beanskuru fasülye]]></title>
+<description><![CDATA[This recipe is a great recipe for anyone wanting to improve their sense of tasting, balancing and adjusting flavours. The final step of tasting and adjusting the salt, pepper, chili, lemon and olive oil and teasing out the flavours of the herbs and tomato is a great exercise in learning to season.
+
+]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style>Turkish</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>With Bread</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+<step><![CDATA[Place the beans and water in a large soup pot and bring to a boil. Add the tomatoes, herbs, garlic, chili flakes, olive oil and pepper and reduce to a gentle simmer. Simmer uncovered for an hour or until the beans are tender, crushing the tomatoes halfway through the cooking time with a wooden spoon to encourage them to disintegrate into the beans.]]></step>
+<step><![CDATA[When the beans are tender, crush the garlic cloves so that they melt into the beans. Increase the heat and simmer the beans until nearly all the water has evaporated and the beans have only a thick coating of sauce on them. Switch off the heat and allow to cool slightly.]]></step>
+<step><![CDATA[Add the lemon juice, salt and olive oil and taste. The beans should taste peppery, spicy, and dense. Adjust the lemon juice, chili, salt, pepper and olive oil until the desired flavour is reached.]]></step>
+<step><![CDATA[Serve warm in shallow bowls with fresh crusty bread.]]></step>
+</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>4</serves>
+        <group>
+          <ingredient>
+            <quantity>1.5</quantity>
+            <measurement>kg</measurement>
+            <name><![CDATA[beans]]></name>
+            <preparation><![CDATA[shelling]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>800</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[water]]></name>
+            <preparation><![CDATA[cold]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement/>
+            <name><![CDATA[tomatoes]]></name>
+            <preparation><![CDATA[large]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>handful</measurement>
+            <name><![CDATA[parsley]]></name>
+            <preparation><![CDATA[finely chopped]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>handful</measurement>
+            <name><![CDATA[thyme]]></name>
+            <preparation><![CDATA[lemon thyme]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>10</quantity>
+            <measurement>cloves</measurement>
+            <name><![CDATA[garlic]]></name>
+            <preparation><![CDATA[peeled but left whole]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[chillies]]></name>
+            <preparation><![CDATA[dried]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>75</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[oil]]></name>
+            <preparation><![CDATA[olive]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[freshly ground black pepper]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement/>
+            <name><![CDATA[lemon]]></name>
+            <preparation><![CDATA[juiced]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[sea salt]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[a few more tablespoons of olive oil]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

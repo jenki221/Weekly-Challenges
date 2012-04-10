@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Cauliflower risotto]]></title>
+<description><![CDATA[The breadcrumbs take center stage and hide the boring cauliflower taste.]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style>Italian</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Main</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">&gt;
+<step><![CDATA[Heat the stock, adding the cauliflower florets]]></step>
+<step><![CDATA[Sauté the onion in a mixture of olive oil and butter for 5m]]></step>
+<step><![CDATA[Stir in the rice until slightly toasted, about 2m]]></step>
+<step><![CDATA[Sweat with white wine, then carry on the risotto as usual]]></step>
+<step><![CDATA[After about 10 mins fish out the cauliflower florets from the stock and add them to the rice. Continue cooking the risotto breaking up the cauliflower bits as you stir it.]]></step>
+<step><![CDATA[When the risotto is almost ready remove the pot from the fire, stir in the cheese or butter violently then cover the pot and leave to rest for a few minutes cheese]]></step>
+<step><![CDATA[Mix together breadcrumbs, dried chilies for 20s]]></step>
+<step><![CDATA[Sauté the anchovies filets, breaking them with a fork. in olive oil on high heat]]></step>
+<step><![CDATA[Add the breadcrumb mixture, and stir until browned]]></step>
+<step><![CDATA[Ladle the risotto on plates and sprinkle the breadcrumbs on top]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>2</serves>
+        <group>
+          <name><![CDATA[Risotto]]></name>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[cauliflower]]></name>
+            <preparation><![CDATA[small]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>900</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[stock]]></name>
+            <preparation><![CDATA[veg]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement/>
+            <name><![CDATA[onion]]></name>
+            <preparation><![CDATA[chopped finely]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>180</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[rice]]></name>
+            <preparation><![CDATA[carnaroli or arborio]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[wine]]></name>
+            <preparation><![CDATA[white]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>20</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[cheese]]></name>
+            <preparation><![CDATA[cubed; mild pecorino or cheddar or something in between (optional). Or just butter.]]></preparation>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Breadcrum garnish]]></name>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[breadcrumbs]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[chilies]]></name>
+            <preparation><![CDATA[dried]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement/>
+            <name><![CDATA[anchovies filets]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[oil]]></name>
+            <preparation><![CDATA[olive]]></preparation>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

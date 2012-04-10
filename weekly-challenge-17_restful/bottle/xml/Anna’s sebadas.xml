@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Anna’s sebadas]]></title>
+<description><![CDATA[Sweet fried pastries filled with cheese drizzled with honey]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style>Italian</style>
+<region>Sardinian</region>
+<approach/>
+</cuisine>
+<tags>
+<tag>Dessert</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+<step><![CDATA[To make the pasta, pour the flour into a bowl and rub in the lard. Add the eggs and mix to a dough using your hands. This can be done in a food mixer with a dough hook. Be prepared to add a little more flour or water to obtain a firm but pliable dough. Let the dough rest for twenty minutes wrapped in cling film in the fridge. Meanwhile prepare the cheese by grating it coarsely.]]></step>
+<step><![CDATA[When chilled, roll out the dough to a millimetre thick or put it through a pasta machine. Pile 6cm across little mounds of cheese onto the pasta well spaced apart. Work it out with your cutter how spaced apart they should be. Roll another length of pasta and place on top of the other. Press down around the mounds of cheese. Use a cutter measuring 9 to 10 centimetres to cut out the pasta shapes. Set aside on a tray scattered with semolina.]]></step>
+<step><![CDATA[Heat the oil and when very hot fry the pastries until golden brown on both sides. Turn once during cooking. Drain on kitchen paper. Serve hot with some heated honey drizzled over.]]></step>
+</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>Serves 6, 2 sebadas per person</serves>
+        <group>
+          <ingredient>
+            <quantity>450</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[semolina]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>150</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[tepid water]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[Pinch of salt]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement/>
+            <name><![CDATA[eggs]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>200</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[fresh pecorino]]></name>
+            <preparation><![CDATA[sardo or other mild firm cheese]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[Honey for drizzling]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[Sunflower oil for frying]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[A 9 or 10cm round cutter]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>175</quantity>
+            <measurement>gallons</measurement>
+            <name><![CDATA[lard]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

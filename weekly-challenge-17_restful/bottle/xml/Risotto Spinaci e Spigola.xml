@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Risotto Spinaci e Spigola]]></title>
+<description/>
+<source/>
+<img></img>
+<cuisine>
+<style>italian</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Rice</tag>
+<tag/>
+</tags>
+<directions xmlns:php="http://php.net/xsl">&gt;
+<step><![CDATA[sauté garlic in olive oil on high heat for 1m]]></step>
+<step><![CDATA[add spinach until wilted]]></step>
+<step><![CDATA[sweat white wine until evaporated]]></step>
+<step><![CDATA[remove from stove, discard garlic, chop coarsely and set aside]]></step>
+<step><![CDATA[clean, dice coarsely seabass]]></step>
+<step><![CDATA[sauté a couple of mins carrot, parsley in oilive oil on high heat for 2m]]></step>
+<step><![CDATA[add fish heads and frame, for a few more mins]]></step>
+<step><![CDATA[add and bring to boil, then lower heat and simmer. When cooked sieve and put back on stove water for 20m]]></step>
+<step><![CDATA[sauté shallot in olive oil on high heat until translucent, about 3m]]></step>
+<step><![CDATA[add carnaroli rice until translucent, about 1m]]></step>
+<step><![CDATA[sweat white wine on low heat until evaporated, about 1m]]></step>
+<step><![CDATA[Cook risotto normally, stirring in a ladleful of stock every couple of minutes medium hi until almost done, about 15m]]></step>
+<step><![CDATA[add the fish and spinach, and finish off risotto]]></step>
+<step><![CDATA[fluff up with olive oil (NOT butter), season with salt pepper and sweet paprika. Cover and stand a couple of minutes before serving]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>4</serves>
+        <group>
+          <ingredient>
+            <quantity>300</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[rice]]></name>
+            <preparation><![CDATA[carnaroli]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>300</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[sea bass filet]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>450</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[spinach]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[garlic]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[shallots]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[onions]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[carrots]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>cup</measurement>
+            <name><![CDATA[white wine]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement>to taste</measurement>
+            <name><![CDATA[paprika]]></name>
+            <preparation><![CDATA[sweet]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[parsley]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

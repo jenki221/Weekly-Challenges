@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Pistachio Olive Oil Cake]]></title>
+<description/>
+<source/>
+<img></img>
+<cuisine>
+<style>Turkish</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Desserts</tag>
+<tag/>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+<step><![CDATA[Preheat the oven temperature to 160C.]]></step>
+<step><![CDATA[Place the pistachios in a food processor and process until finely ground. Add the remaining ingredients and process until smooth.]]></step>
+<step><![CDATA[Pour the batter into a prepared 8 inch cake tin and bake for 35-45 minutes or until a skewer inserted into the centre of the cake comes out clean. Remove the cake and allow to cool for 10 minutes, then turn out onto a rack and cool to room temperature.]]></step>
+<step><![CDATA[Cut the cake into wedges and serve with a dollop of the creme fraiche.]]></step>
+</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>8</serves>
+        <group>
+          <ingredient>
+            <quantity>200</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[pistacchios]]></name>
+            <preparation><![CDATA[shelled]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>50</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[flour]]></name>
+            <preparation><![CDATA[plain]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>50</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[flour]]></name>
+            <preparation><![CDATA[polenta]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[baking powder]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement/>
+            <name><![CDATA[eggs]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>200</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[sugar]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>100</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[butter]]></name>
+            <preparation><![CDATA[melted]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>100</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[oil]]></name>
+            <preparation><![CDATA[olive]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[oranges]]></name>
+            <preparation><![CDATA[zested]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[creme fraiche for serving]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

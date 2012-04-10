@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Chilean Dulce de Leche Alfajores]]></title>
+<description><![CDATA[The dulce de leche is amazingly easy to make. The only trick is to keep the tin of condensed milk submerged under the water while it is cooking. It will thicken the longer it cooks, so for a spreadable consistency you need to simmer it for the full 2 hours.
+
+]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style>Chilean</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Dessert</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+<step><![CDATA[To make the dulce de leche, place the unopened tin of condensed milk in a deep pan and cover with water. Bring the water to a boil and reduce to a simmer. Simmer the tin of milk for 2 hours. then remove and allow it to cool before opening.]]></step>
+<step><![CDATA[To make the biscuits, preheat the oven to 160C. Cream together the butter and sugar until fluffy. Add the egg and lemon zest and mix again. Add the flour and mix again until all the ingredients are thoroughly combined.]]></step>
+<step><![CDATA[Using two teaspoons, grab a spoonful of the biscuit dough and drop it onto a baking tray lined with parchment. Continue until you have used up all the biscuit dough, leaving a few inches gap between the dough to allow for expansion.]]></step>
+<step><![CDATA[Bake the biscuits for 10-12 minutes, until they are just starting to go brown around the edges. Remove the biscuits and allow them to cool and firm up slightly before handling.]]></step>
+<step><![CDATA[Spread the biscuits generously with the dulce de leche and sandwich them together.]]></step>
+<step><![CDATA[Any leftover dulce de leche can be used to swirl through brownie mix, drizzled over ice cream, or simply eaten Katrina-style out of the tin with a spoon.]]></step>
+</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves/>
+        <group>
+          <ingredient>
+            <quantity>90</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[butter]]></name>
+            <preparation><![CDATA[softened]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>90</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[sugar]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[egg]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement/>
+            <name><![CDATA[lemon]]></name>
+            <preparation><![CDATA[zested]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>115</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[flour]]></name>
+            <preparation><![CDATA[plain]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tin</measurement>
+            <name><![CDATA[condensed milk]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

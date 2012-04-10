@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Vanilla Poached Rhubarb]]></title>
+<description><![CDATA[the rhubarb collapses into a pulpy mass which is delicious spooned over yoghurt, served with porridge or spooned into a champagne glass and topped up with a little prosecco or cava.]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style/>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Desserts</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+<step><![CDATA[Place the sugar and rhubarb in a saucepan. Scrape the seeds from the vanilla bean into the sugar and add the water and the empty vanilla bean pod.]]></step>
+<step><![CDATA[Bring the mixture to the boil and simmer gently for 25 minutes until the rhubarb is soft and pulpy. If there is still a lot of water in the pot, increase the heat slightly and cook for another 5-10 minutes until thickened. Remove the pot from the heat and allow to cool until just above room temperature.]]></step>
+<step><![CDATA[Remove the empty vanilla pod halves and serve as desired.]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves/>
+        <group>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>kg</measurement>
+            <name><![CDATA[rhubarb]]></name>
+            <preparation><![CDATA[cut into 2 inch slices]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>100</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[sugar]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[vanilla pod]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>400</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[water]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

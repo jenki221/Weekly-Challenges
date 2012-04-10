@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Veg stir fry]]></title>
+<description><![CDATA[Use available veg. The idea is that they are all the same size]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style>Chinese</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>side</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">&gt;
+<step><![CDATA[soak dried mushrooms in hot water for 25m]]></step>
+<step><![CDATA[remove stalks from mushrooms, boil them with the soaking water then set aside. keep water for 5m]]></step>
+<step><![CDATA[stir fry carrots, broccoli, cauliflower for 20s]]></step>
+<step><![CDATA[add mushroom water and cook covered until the water evaporates]]></step>
+<step><![CDATA[add Asparagus, celery, zucchini, bak choi splashing water as needed for 30s]]></step>
+<step><![CDATA[uncover and add 2 tbsp oil and mangetout, bamboo shots and stiry fry for 20s]]></step>
+<step><![CDATA[add water, light soy sauce, sugar and mushrooms]]></step>
+<step><![CDATA[dissolve cornstarch in water or stock and add]]></step>
+<step><![CDATA[Finish off then season for 30s]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>4</serves>
+        <group>
+          <name><![CDATA[Mushroom]]></name>
+          <ingredient>
+            <quantity>4</quantity>
+            <measurement/>
+            <name><![CDATA[dried mushrooms]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[hot water]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Hard veg]]></name>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement/>
+            <name><![CDATA[carrots]]></name>
+            <preparation><![CDATA[cut on diagonal]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>60</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[broccoli]]></name>
+            <preparation><![CDATA[cut in florets]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>60</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[cauliflower]]></name>
+            <preparation><![CDATA[cut in florets]]></preparation>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Medium veg]]></name>
+          <ingredient>
+            <quantity>4</quantity>
+            <measurement>spear</measurement>
+            <name><![CDATA[Asparagus]]></name>
+            <preparation><![CDATA[cut on diagonal]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>stick</measurement>
+            <name><![CDATA[celery]]></name>
+            <preparation><![CDATA[cut on diagonal]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[zucchini]]></name>
+            <preparation><![CDATA[cut on diagonal]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>90</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[bak choi]]></name>
+            <preparation><![CDATA[white separated from leave]]></preparation>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Soft veg]]></name>
+          <ingredient>
+            <quantity>8</quantity>
+            <measurement/>
+            <name><![CDATA[mangetout]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>75</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[bamboo shots]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>250</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[water]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Sauce]]></name>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[soy sauce]]></name>
+            <preparation><![CDATA[light]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[sugar]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1.5</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[cornstarch]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[water or stock]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

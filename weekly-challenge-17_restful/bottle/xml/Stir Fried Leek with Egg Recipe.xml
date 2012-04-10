@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Stir Fried Leek with Egg Recipe]]></title>
+<description/>
+<source/>
+<img></img>
+<cuisine>
+<style/>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Egg</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+<step><![CDATA[1. Crack egg in a bowl, add soy sauce,,stir and mix well(make sure egg white and egg yolk mix evenly).]]></step>
+<step><![CDATA[2. Clean leek, drain well, chop]]></step>
+<step><![CDATA[3. Heat oil in a wok over high heat,slip egg liquid,change heat to low. Sway egg making the liquid spread on the bottom of the wok evenly.Stir into blocks when the liquid becomes solid.]]></step>
+<step><![CDATA[4. Add five species powder,the rest salt, leek section,stir fry 2mins,or until leek becomes soft.]]></step>
+<step><![CDATA[5. Turn off heat,arrange in a plate,serve.]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves/>
+        <group>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[eggs]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>250</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[leeks]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[five spice]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1.5</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[soy sauce]]></name>
+            <preparation><![CDATA[light]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[oil]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

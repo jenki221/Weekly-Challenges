@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Vegeterian Spring Rolls]]></title>
+<description><![CDATA[Chung Bing]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style>Chinese</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Snack</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">&gt;
+<step><![CDATA[blanch carrot and celery 1.5m]]></step>
+<step><![CDATA[blacnh bamboo shots, cabbage, bean sprouts, spring onions 1m]]></step>
+<step><![CDATA[combine all ingredients together]]></step>
+<step><![CDATA[stuff spring rolls deep fry and serve with soy sauce
+]]></step>
+</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves/>
+        <group>
+          <name><![CDATA[Filling]]></name>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement/>
+            <name><![CDATA[dried mushrooms]]></name>
+            <preparation><![CDATA[soaked 25m]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>4</quantity>
+            <measurement>cm</measurement>
+            <name><![CDATA[dried black fungus]]></name>
+            <preparation><![CDATA[soaked 25 m]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>75</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[carrots]]></name>
+            <preparation><![CDATA[julienne]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>50</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[celery]]></name>
+            <preparation><![CDATA[julienned]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>40</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[bamboo shots]]></name>
+            <preparation><![CDATA[julienned]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>60</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[cabbage]]></name>
+            <preparation><![CDATA[napa]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>45</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[bean sprouts]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[spring onions]]></name>
+            <preparation><![CDATA[julienned]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[hoisin sauce]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[cornstarch]]></name>
+            <preparation><![CDATA[or tapioca]]></preparation>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Spring Rolls]]></name>
+          <ingredient>
+            <quantity>20</quantity>
+            <measurement/>
+            <name><![CDATA[13cm spring rolls square]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>cups</measurement>
+            <name><![CDATA[oil]]></name>
+            <preparation><![CDATA[groundnut]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[light soy sauce]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

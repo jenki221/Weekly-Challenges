@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Turkish-Style Strawberries with Black Pepper Shortbread]]></title>
+<description/>
+<source/>
+<img></img>
+<cuisine>
+<style/>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Desserts</tag>
+<tag/>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+<step><![CDATA[Place the black peppercorns in a mortar and pestle and smash until coarsely ground.]]></step>
+<step><![CDATA[Place the softened butter and brown sugar in a large mixing bowl. Using a wooden spoon, stir vigorously, crushing the lumps against the side of the bowl until the butter is well worked through the sugar and the two are combined. Use your fingers to crumble any lumps if necessary. In a separate bowl, sift the flour and then add the semolina and black pepper. Toss to mix well. Add the flour mixture into the butter-sugar mixture and stir again to combine.]]></step>
+<step><![CDATA[On a work surface, roll the dough into large log approximately the same width as a typical biscuit or a hobnob. Wrap in cling film and chill in the refrigerator for an hour. Preheat the oven to 175 C. Slice the shortbread log into rounds approximately 1/4 inch thick and place on a baking tray covered with a sheet of parchment paper. Prick the surfaces a few times with a fork, and bake for 12 to 15 minutes or until golden. Set aside to cool.]]></step>
+<step><![CDATA[Half each strawberry and using your hands or a sharp knife, remove the hull and green leaves and place in a salad bowl. It is important that the strawberries be at room temperature as this will encourage them to release some of their juices which will mingle with the honey. Drizzle the lavender honey over the strawberries, add the shredded mint and toss gently to mix. Toast the pistachio nuts in a dry frying pan over medium heat for a few minutes or until warmed and toasty smelling. Be careful not to overdo it or they will taste bitter.]]></step>
+<step><![CDATA[To serve, toss the strawberry salad with the pistachio nuts. Place a mound of strawberry salad on each plate, and serve with a warm shortbread biscuit. Goes very well with dessert wine!]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves/>
+        <group>
+          <name><![CDATA[Strawberry Salad]]></name>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>handful</measurement>
+            <name><![CDATA[strawberries]]></name>
+            <preparation><![CDATA[washed and at room temperature]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[honey]]></name>
+            <preparation><![CDATA[lavender]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>8</quantity>
+            <measurement>leaves</measurement>
+            <name><![CDATA[mint]]></name>
+            <preparation><![CDATA[sliced into thin shreds]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>0.3</quantity>
+            <measurement>cup</measurement>
+            <name><![CDATA[pistacchios]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Black Pepper Shortbread]]></name>
+          <ingredient>
+            <quantity>175</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[butter]]></name>
+            <preparation><![CDATA[softened]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>0.3</quantity>
+            <measurement>cup</measurement>
+            <name><![CDATA[sugar]]></name>
+            <preparation><![CDATA[brown]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>150</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[flour]]></name>
+            <preparation><![CDATA[plain]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[fine semolina]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[black peppercorns]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

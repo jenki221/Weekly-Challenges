@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Eel and Broccoli Pie / Impanata di Caltanissetta]]></title>
+<description><![CDATA[A Christmas dish. The original is made with two (or three) impanatas layered inside each other.]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style>Italian</style>
+<region>Sicilian</region>
+<approach/>
+</cuisine>
+<tags>
+<tag>Pie</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">&gt;
+<step><![CDATA[dissolve fresh yeast in warm water for 5m]]></step>
+<step><![CDATA[add flour bit by bit and knead for 10m]]></step>
+<step><![CDATA[rest in greased bowl, covered in kitchen towel until doubled in size, about 2h]]></step>
+<step><![CDATA[sauté onion in olive oil med for 10m. Add eel, tomatoes on low heat for 10m]]></step>
+<step><![CDATA[put anchovy fillets in a skillet]]></step>
+<step><![CDATA[add onion, caciocavallo cheese, half the black olives]]></step>
+<step><![CDATA[lay broccoli on top]]></step>
+<step><![CDATA[drizzle olive oil on top]]></step>
+<step><![CDATA[add black olives on top]]></step>
+<step><![CDATA[add salt]]></step>
+<step><![CDATA[drizzle red wine on top]]></step>
+<step><![CDATA[cover and simmer without stirring on low heat for 12m]]></step>
+<step><![CDATA[Drain and mix with the tomatoes]]></step>
+<step><![CDATA[Roll out the dough in a disk, ladle out the drained fillings, fold like a calzone, and puncture.]]></step>
+<step><![CDATA[Bake until ready 190° for 35m]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>6</serves>
+        <group>
+          <name><![CDATA[Dough]]></name>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[yeast]]></name>
+            <preparation><![CDATA[fresh]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>320</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[water]]></name>
+            <preparation><![CDATA[warm]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>480</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[flour]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Eel]]></name>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[onions]]></name>
+            <preparation><![CDATA[sliced]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>300</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[eel]]></name>
+            <preparation><![CDATA[cleaned]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[tomatoes]]></name>
+            <preparation><![CDATA[peeled]]></preparation>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Broccoli]]></name>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement/>
+            <name><![CDATA[onion]]></name>
+            <preparation><![CDATA[sliced]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[achovy fillets]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[cheese]]></name>
+            <preparation><![CDATA[caciocavallo]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[olives]]></name>
+            <preparation><![CDATA[black]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>400</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[broccoli]]></name>
+            <preparation><![CDATA[broken in florets]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>4</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[oil]]></name>
+            <preparation><![CDATA[oilve]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>60</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[wine]]></name>
+            <preparation><![CDATA[red]]></preparation>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

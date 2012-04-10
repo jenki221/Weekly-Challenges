@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Carrot curry / Gajar Sabji]]></title>
+<description/>
+<source/>
+<img></img>
+<cuisine>
+<style>Indian</style>
+<region>Punjab</region>
+<approach/>
+</cuisine>
+<tags>
+<tag>vegetable side</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">&gt;
+<step><![CDATA[Put all ingredients in pan, bring to boil then lower heat and cook covered 20-30 mins. Time depends on toughness of carrots. Add water as needed.]]></step>
+<step><![CDATA[when almost done, increase heat, uncover and toss unil all liquid has evaporated.]]></step>
+<step><![CDATA[Remove from fire and add butter, chopped coriander, lemon juice, and nutmeg]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>4-6</serves>
+        <group>
+          <name><![CDATA[Stew]]></name>
+          <ingredient>
+            <quantity>450</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[carrots]]></name>
+            <preparation><![CDATA[peeled]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[ghee]]></name>
+            <preparation><![CDATA[or oil and butter mixture]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[molasses]]></name>
+            <preparation><![CDATA[or jaggery or brown sugar]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>.25</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[turmeric]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>.25</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[cardamom pods]]></name>
+            <preparation><![CDATA[crushed]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>.25</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[ground coriander]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[orange juice]]></name>
+            <preparation><![CDATA[or apple juice]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>160</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[sparkling water]]></name>
+            <preparation><![CDATA[or still]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[pepper]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Before serving]]></name>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[coriander leaves]]></name>
+            <preparation><![CDATA[chopped fine]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[lemon juice]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>0.25</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[nutmeg]]></name>
+            <preparation><![CDATA[grated]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[ghee]]></name>
+            <preparation><![CDATA[or butter]]></preparation>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

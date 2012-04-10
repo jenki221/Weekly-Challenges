@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Crêpe soufflé with blood oranges]]></title>
+<description><![CDATA[This is a classic French dessert, and although it’s not actually a soufflé, the filling does rise a little, transforming a simple pancake into a luxurious and interesting pudding. You can make this with any fruit really and use different flavourings, alcohol or fruit in the filling.
+
+]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style/>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Desserts</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+<step><![CDATA[First make the custard: split the vanilla pod in half lengthways and scrape out the seeds with a point of a knife. Put the cream, vanilla pod and seeds into a small saucepan and bring to the boil. Remove from the heat and leave to infuse for about 10 minutes. In a bowl mix the egg yolks, sugar and cornflour together. Remove the vanilla pod from the cream and pour on to the egg mixture and mix it well with a whisk.]]></step>
+<step><![CDATA[Return to the pan and cook gently over a low heat for a few minutes, stirring constantly with a wooden spoon until the custard thickens (but don’t let it boil). Remove the custard from the heat and give it a final mix with a whisk and transfer to a clean bowl. Meanwhile, finely grate the rind of two of the oranges and stir half into the custard with the Cointreau and add the rest to the pancake batter. Cover the surface of the custard with clingfilm to prevent a skin forming and leave to cool.]]></step>
+<step><![CDATA[Peel three of the oranges by cutting the top and bottom off with a small serrated knife then carefully cutting away the skin and pith to reveal the flesh. Cut them into segments over a small saucepan to catch any juice and squeeze out the remaining bits once segmented. Place the segments into a small bowl. Squeeze the last orange into the saucepan. Add the sugar to the pan and bring to a simmer. Dilute the cornflour in a little water and stir into the juice and continue simmering for a minute until the sauce thickens, then leave to cool a little and pour over the orange segments.]]></step>
+<step><![CDATA[Make 8 pancakes with the batter as described above. Clean a mixing bowl and whisk with boiling water to remove any traces of fat then whisk the egg white until stiff and carefully fold into the custard.]]></step>
+<step><![CDATA[Place a spoonful of the custard mix just off the centre of each pancake, then fold in half and half again, into a triangle, and place on to a baking tray. Cook in the oven for about 10-12 minutes; they should rise a little but don’t worry if not. Transfer on to warmed plates and spoon the orange sauce over.]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves/>
+        <group>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[quantity of the basic pancake batter]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>4</quantity>
+            <measurement/>
+            <name><![CDATA[blood oranges]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[Cointreau]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[caster sugar]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[cornflour]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[egg white]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[For the custard]]></name>
+          <ingredient>
+            <quantity>1/3</quantity>
+            <measurement/>
+            <name><![CDATA[vanilla pod]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>200</quantity>
+            <measurement/>
+            <name><![CDATA[ml single cream]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>4</quantity>
+            <measurement/>
+            <name><![CDATA[egg yolks]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>50</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[caster sugar]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[cornflour]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

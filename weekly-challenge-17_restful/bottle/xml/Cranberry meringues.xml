@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Cranberry meringues]]></title>
+<description/>
+<source/>
+<img></img>
+<cuisine>
+<style/>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Desserts</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+<step><![CDATA[Pre-heat the oven to 100C/gas mark ¼.]]></step>
+<step><![CDATA[Scald a mixing machine bowl and whisk with boiling water to eliminate any grease, then dry with kitchen paper.]]></step>
+<step><![CDATA[Whisk the egg white and sugar on a high speed for 3-4 minutes until really stiff and shiny. You can do this by hand if you are making a small quantity.]]></step>
+<step><![CDATA[Line a baking tray with greaseproof paper and spoon on to the tray with a heaped teaspoon of the mixture. Bake the meringue for 3-4 hours until crisp on the outside and slightly gooey inside.]]></step>
+<step><![CDATA[To serve, cut the meringues in half and spoon a little of the cream on first then the cranberry sauce.]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>Serves about 10</serves>
+        <group>
+          <name><![CDATA[For The Meringue]]></name>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[egg white]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>15</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[caster sugar]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[For The Filling]]></name>
+          <ingredient>
+            <quantity>2-3</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[whipped double cream]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2-3</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[cranberry sauce \U2013 ideally using your leftover sauce from Christmas Day]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

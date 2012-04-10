@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Korean Pumpkin Porridge]]></title>
+<description><![CDATA[This traditional Korean porridge is a delicious and fun way to use up those pumpkins and squashes that are appearing in abundance in many people's vegetable box schemes. Known in Korean as 'hobakjuk', this porridge is a little like a Chinese congee and contains tiny rice flour dumplings that are fun and easy to make.
+
+I prefer to make this porridge on the salty side, but if you prefer you can omit the mushrooms and sesame oil and add some sugar or honey and a little cinnamon instead. This porridge makes a great warming dinner while the wind howls outside and can also be served for breakfast.]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style>Korean</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Breakfast</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+<step><![CDATA[Place the pumpkin or squash halves in a roasting dish and drizzle with the olive oil. Season generously with salt and pepper and cover the dish tightly with foil. Place in the oven and roast until the pumpkin is tender - this will take between 30 and 60 minutes depending on the variety of pumpkin you are using.]]></step>
+<step><![CDATA[Allow the pumpkin to cool slightly, then scrape the flesh out using a spoon and place in a soup pot. Meanwhile soak the mushrooms in the boiling water for 15 minutes, then remove the mushrooms and finely chop. Add the mushrooms and the soaking liquid to the pumpkin and stir through with a wooden spoon or a potato masher until the pumpkin flesh is smooth.]]></step>
+<step><![CDATA[Meanwhile, make the dumplings by placing the flour and salt in a bowl and stirring until mixed. Using a pair of chopsticks, stir in the boiling water and mix well. Knead the mixture in the bowl with your hands until it comes together as a firm dough. Wrap the dough in cling film and leave to rest for 10 minutes.]]></step>
+<step><![CDATA[Place the dough back in the mixing bowl and add a splash of water if it feels dry and knead again until it feels smooth and slightly gelatinous in texture.]]></step>
+<step><![CDATA[Grab cherry sized pieces of the dough and roll each one between your palms until you have a smooth round dumpling. Place the dumplings on a plate and continue until you have used up all the dough.]]></step>
+<step><![CDATA[Bring the pumpkin porridge to a boil and add a little extra water if it seems too thick. Add the dumplings and cook them in the porridge for 10 minutes or until they are tender but still slightly chewy at the centre. Taste and season the porridge well with salt and pepper.]]></step>
+<step><![CDATA[To serve, ladle the porridge into bowls and drizzle with a little sesame oil. Scatter the sesame seeds and pine nuts overtop and add a little extra salt and pepper overtop. Serve warm.]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>4</serves>
+        <group>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>kg</measurement>
+            <name><![CDATA[pumpkin]]></name>
+            <preparation><![CDATA[halved and seeds removed]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>3</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[oil]]></name>
+            <preparation><![CDATA[olive]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>4</quantity>
+            <measurement/>
+            <name><![CDATA[dried mushrooms]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>375</quantity>
+            <measurement>mls</measurement>
+            <name><![CDATA[water]]></name>
+            <preparation><![CDATA[boiling]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[sesame oil]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[sesame seeds]]></name>
+            <preparation><![CDATA[toasted]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[pine nuts]]></name>
+            <preparation><![CDATA[toasted]]></preparation>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Dumplings]]></name>
+          <ingredient>
+            <quantity>160</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[flour]]></name>
+            <preparation><![CDATA[rice]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity/>
+            <measurement/>
+            <name><![CDATA[generous pinch of salt]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>125</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[water]]></name>
+            <preparation><![CDATA[boiling]]></preparation>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

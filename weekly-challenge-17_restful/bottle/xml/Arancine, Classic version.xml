@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Arancine, Classic version]]></title>
+<description><![CDATA[If made from scratch and from risotto leftovers, this is the classic recipe. There is a XIII century Bahgdad coockbook with a similar dish called naranjiya. They freeze well.]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style>Italian</style>
+<region>Sicilian</region>
+<approach/>
+</cuisine>
+<tags>
+<tag>Snack</tag>
+</tags>
+<directions xmlns:php="http://php.net/xsl">&gt;
+<step><![CDATA[Put the rice ingredients in a pot, bring to boil, then lower heat and cover tightly until stock absorbed, 20 mins]]></step>
+<step><![CDATA[Remove from fire, spoon in egg and cheese, then spread on platter to cool]]></step>
+<step><![CDATA[Make the filling: sautè onion for 7 mins]]></step>
+<step><![CDATA[Add beef and rosemary, sauté until seared, then sweat with white wine until evaporated.]]></step>
+<step><![CDATA[Add passata or canned tomatoes broken with a fork, peas, and lower the heat (medium low for canned tomatoes, low for passata). Cook until quite thick then cool.]]></step>
+<step><![CDATA[Roll 1/12 of the rice into a ball, leaving an indentation. Fill it with the ragú and wrap the rice around it to close the ball. Roll ball in flour, then beatn egg, then breadcrumb.]]></step>
+<step><![CDATA[Deep fry at 180°C. Serve warm or room temperature]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>12</serves>
+        <group>
+          <name><![CDATA[Rice]]></name>
+          <ingredient>
+            <quantity>450</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[rice]]></name>
+            <preparation><![CDATA[carnaroli]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>470</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[stock]]></name>
+            <preparation><![CDATA[chicken]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[butter]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>pinch</measurement>
+            <name><![CDATA[saffron]]></name>
+            <preparation><![CDATA[soaked 25m]]></preparation>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Cooked rice]]></name>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[egg yolks]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>200</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[cheese]]></name>
+            <preparation><![CDATA[caciocavallo]]></preparation>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Rag\U00fa]]></name>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement/>
+            <name><![CDATA[onion]]></name>
+            <preparation><![CDATA[chopped]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement>Tbsp</measurement>
+            <name><![CDATA[oil]]></name>
+            <preparation><![CDATA[olive]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>120</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[beef]]></name>
+            <preparation><![CDATA[minced]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>100</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[passata]]></name>
+            <preparation><![CDATA[or canned tomatoes]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>60</quantity>
+            <measurement>ml</measurement>
+            <name><![CDATA[wine]]></name>
+            <preparation><![CDATA[white]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>60</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[green peas]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Frying]]></name>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[egg whites]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>cup</measurement>
+            <name><![CDATA[flour]]></name>
+            <preparation><![CDATA[plain]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>cup</measurement>
+            <name><![CDATA[breadcrumbs]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

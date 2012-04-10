@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Bucatini in Moorish Cauliflower Sauce]]></title>
+<description><![CDATA[Pasta coi Vruocculi arriminati (pasta con i broccoli in tegame)
+]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style>Italian</style>
+<region>Sicilian</region>
+<approach/>
+</cuisine>
+<tags>
+<tag>Pasta</tag>
+<tag/>
+</tags>
+<directions xmlns:php="http://php.net/xsl">&gt;
+<step><![CDATA[soak 100 g sultana in water (cold) for 15 m; drain ]]></step>
+<step><![CDATA[boil 500 g cauliflower in water (salted) on high heat until al dente, about  4m; chill   in water (cold) ]]></step>
+<step><![CDATA[chop (thinly) 200 g onion; stir fry   in oil (olive) on medium heat until wilted, about  4m ]]></step>
+<step><![CDATA[add and fry 100 g pine nuts until browned, about  2m ]]></step>
+<step><![CDATA[cut (chunks) the cooked cauliflower; add to the pine nuts and fry for 20s ]]></step>
+<step><![CDATA[add 30 g achovies / blue cheese ]]></step>
+<step><![CDATA[soak a pinch of saffron in 1 tbsp of cauliflower water; add to the sauce and cook  for 20s ]]></step>
+<step><![CDATA[add water as needed  as sauce cooks on low heat until pasta ready ]]></step>
+<step><![CDATA[cook 500 g bucatini / spaghetti, thick / maccheroni in cauliflower water on high heat until al dente, about  10m ]]></step>
+<step><![CDATA[toast 50 g bread crumbs ]]></step>
+<step><![CDATA[add over   cooked pasta and sauce]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves>4</serves>
+        <group>
+          <name><![CDATA[Saute base]]></name>
+          <ingredient>
+            <quantity>100</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[sultana]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>200</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[onions]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>100</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[pine nuts]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>30</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[anchovies]]></name>
+            <preparation><![CDATA[or blue cheese]]></preparation>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Sauce]]></name>
+          <ingredient>
+            <quantity>500</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[cauliflower]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>pinch</quantity>
+            <measurement/>
+            <name><![CDATA[saffron]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Pasta]]></name>
+          <ingredient>
+            <quantity>500</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[bucatini]]></name>
+            <preparation><![CDATA[or maccaroni]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>50</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[bread crumbs]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>

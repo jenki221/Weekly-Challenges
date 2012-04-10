@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet 
+href="_assets/recipe.xsl" type="text/xsl"
+?>
+
+<recipe lang="en-uk" xmlns:lxslt="http://xml.apache.org/xslt">
+<title><![CDATA[Chinese Chicken/Pork Stock 1]]></title>
+<description><![CDATA[Keeps for 3 days fresh, 2 months frozen]]></description>
+<source/>
+<img></img>
+<cuisine>
+<style>Chinese</style>
+<region/>
+<approach/>
+</cuisine>
+<tags>
+<tag>Basics</tag>
+<tag/>
+</tags>
+<directions xmlns:php="http://php.net/xsl">
+<step><![CDATA[ ]]></step>
+<step><![CDATA[Blanch the chicken and pork pieces by pouring boiling water over them to cover, bringing back to boil, then discarding the water]]></step>
+<step><![CDATA[Cover meat again with cold water, bring to boil, skimming as it cooks.]]></step>
+<step><![CDATA[Lower heat, add remaining ingredients, simmer on low heat for 1.5 hours]]></step>
+<step><![CDATA[Remove chicken bones, add remaining ingredients, simmer for 2 hrs]]></step>
+<step><![CDATA[cool, and remove the fat from the top.]]></step>
+&gt;</directions>
+<ingredients xmlns:php="http://php.net/xsl">
+        <serves/>
+        <group>
+          <name><![CDATA[Meat]]></name>
+          <ingredient>
+            <quantity>1</quantity>
+            <measurement>kg</measurement>
+            <name><![CDATA[chicken neck]]></name>
+            <preparation><![CDATA[wings]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>750</quantity>
+            <measurement>g</measurement>
+            <name><![CDATA[pork hock]]></name>
+            <preparation><![CDATA[with skin]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>4</quantity>
+            <measurement>l</measurement>
+            <name><![CDATA[water]]></name>
+            <preparation/>
+          </ingredient>
+        </group>
+        <group>
+          <name><![CDATA[Flavouring]]></name>
+          <ingredient>
+            <quantity>2.5</quantity>
+            <measurement>cm</measurement>
+            <name><![CDATA[ginger]]></name>
+            <preparation><![CDATA[unpeeld]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>2</quantity>
+            <measurement/>
+            <name><![CDATA[spring onion]]></name>
+            <preparation><![CDATA[chunks]]></preparation>
+          </ingredient>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement/>
+            <name><![CDATA[star aniseed]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>2.5</quantity>
+            <measurement>cm</measurement>
+            <name><![CDATA[cassia bark]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[salt]]></name>
+            <preparation/>
+          </ingredient>
+          <ingredient>
+            <quantity>0.5</quantity>
+            <measurement>tsp</measurement>
+            <name><![CDATA[peppercorns]]></name>
+            <preparation><![CDATA[white]]></preparation>
+          </ingredient>
+        </group>
+      </ingredients>
+</recipe>
